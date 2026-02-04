@@ -1,0 +1,1164 @@
+
+===========================================================================groupe nominal
+
+PARTIE I — Fondations : comprendre ce qu’est un groupe nominal (noun phrase)
+
+Définition et rôle du groupe nominal en anglais
+1.1. Groupe nominal vs nom seul : pourquoi la notion est indispensable
+1.2. Fonctions dans la phrase : sujet, objet, complément, attribut
+1.3. Notions clés : tête (head), expansions (modifiers), détermination (determination)
+1.4. Différences générales avec le groupe nominal en français (aperçu)
+
+Terminologie et outils d’analyse
+2.1. Catégories de base : noun, pronoun, determiner, adjective, preposition
+2.2. Constituants : head, premodifier, postmodifier, complement, adjunct
+2.3. Tests de constituance (niveau progressif)
+2.3.1. Déplacement (fronting) et substitution (one/ones)
+2.3.2. Coordination et effacement (ellipsis)
+2.3.3. Tests de pronominalisation et reprise anaphorique
+
+Méthode de progression (débutant → professionnel)
+3.1. Ce qu’il faut maîtriser à chaque niveau (A1 à C2 / usage pro)
+3.2. Stratégies de lecture : repérer la tête et “déplier” la structure
+3.3. Stratégies d’écriture : construire des GN clairs et précis
+
+PARTIE II — Noyau du groupe nominal : les noms (nouns) et la “tête” (head)
+
+Les types de noms et leurs effets sur la structure du GN
+1.1. Noms communs vs noms propres
+1.2. Countable vs uncountable : conséquences sur déterminants et pluriel
+1.3. Abstract vs concrete : effets sur la détermination
+1.4. Collective nouns : singularité grammaticale vs sens collectif
+
+Nombre et formes : singular/plural, irrégularités, zéro pluriel
+2.1. Pluriel régulier et irrégulier (children, mice, criteria…)
+2.2. Noms invariants (sheep, series…)
+2.3. Uncountable “pièges” (information, advice, furniture…)
+2.4. Mesure et partitif : a piece of…, a bit of…, a slice of…
+
+Genre, humain/non-humain, et accord
+3.1. Absence de genre grammatical : ce que cela change
+3.2. Pronoms de reprise (he/she/they/it)
+3.3. “They” singulier : usages, registre, recommandations pro
+
+PARTIE III — Déterminants (determiners) : la porte d’entrée du groupe nominal
+
+Qu’est-ce qu’un déterminant en anglais ?
+1.1. Rôle : référence, quantité, spécification, discours
+1.2. Position : déterminant(s) + prémodifieurs + nom
+1.3. Déterminants obligatoires vs omission possible
+
+Articles : a/an, the, zéro article (Ø)
+2.1. A/an : introduction, non-spécificité, catégorie
+2.2. The : spécificité, unicité, référence partagée
+2.3. Ø : générique, pluriels, noms massifs, titres, institutions
+2.4. Choisir entre a/the/Ø : arbres de décision et cas typiques
+2.4.1. Générique : “Dogs are…” vs “The dog is…” vs “A dog is…”
+2.4.2. Premières mentions et reprises
+2.4.3. Lieux : “go to school / the school”
+
+Démonstratifs et possessifs
+3.1. this/that/these/those : distance, contraste, anaphore
+3.2. my/your/his/her/its/our/their : possession vs relation
+3.3. Double marquage interdit : the my car (explication)
+
+Quantifieurs et numéraux
+4.1. some/any/no : polarité, questions, négation, nuance
+4.2. much/many/a lot of/lots of : registre et naturel
+4.3. few/a few, little/a little : différence de sens (quantité vs valeur)
+4.4. all/both/either/neither, each/every : distributif vs collectif
+4.5. Numéraux : cardinal/ordinal, “the first three”, “three of the…”
+
+Déterminants complexes et combinaisons
+5.1. “all the”, “both the”, “half the”, “such a”, “quite a”
+5.2. “of-phrases” avec quantifieurs : some of the…, many of those…
+5.3. Contraintes de cooccurrence (ce qui “va” ensemble ou non)
+
+PARTIE IV — Prémodification : adjectifs et autres modifieurs avant le nom
+
+Adjectifs : place, ordre, et sens
+1.1. Adjectifs attributifs vs prédicatifs
+1.2. Ordre des adjectifs : opinion → size → age → shape → color → origin → material → purpose
+1.3. Adjectifs relationnels (political, medical) vs qualificatifs (nice, big)
+1.4. Gradation : very, so, too, enough ; comparatif/superlatif
+
+Participes et adjectifs en -ing/-ed
+2.1. a boring lecture vs a bored student
+2.2. a broken window, a growing problem : valeur descriptive vs événementielle
+
+Noms comme prémodifieurs : noun-noun compounds
+3.1. Formation : “train station”, “data pipeline”, “customer support”
+3.2. Singulier/pluriel dans le premier nom : “shoe store” vs “sports car”
+3.3. Ambiguïtés et lecture correcte (qui modifie quoi ?)
+3.4. Hyphens : “real-time system”, “decision-making process” (usage pro)
+
+Adverbes et intensifieurs dans le GN
+4.1. “the very idea”, “a quite unusual case”
+4.2. Limites : ce qu’on peut modifier avant un nom
+
+Déterminant + adjectif sans nom (ellipsis)
+5.1. “the rich”, “the French”, “the accused”
+5.2. “the old”, “the young” : valeur générique et registre
+
+PARTIE V — Postmodification : expansions après le nom
+
+Compléments en préposition (prepositional phrases)
+1.1. “the book on the table” : rôle descriptif
+1.2. “the city of Dakar” : apposition et relation
+1.3. Chaînes de compléments : “the impact of X on Y in Z”
+1.4. Choisir la bonne préposition : of, in, on, for, by…
+
+Subordonnées relatives (relative clauses)
+2.1. Définissantes vs non-définissantes (commas matter)
+2.2. Pronoms relatifs : who/which/that/whose/where/when
+2.3. Omission du relatif : “the person (who) I met”
+2.4. Prépositions et relatives : “the person I spoke to / to whom I spoke”
+2.5. Relatives réduites : “the man standing there”, “the issues discussed”
+
+Clauses non-finies et -ing/-ed après le nom
+3.1. “a way to solve the problem” (to-infinitive)
+3.2. “people working remotely” (-ing)
+3.3. “documents stored securely” (-ed)
+3.4. Restrictions : quand c’est naturel vs lourd
+
+Appositions et reformulations nominales
+4.1. “Marie Curie, a pioneering scientist, …”
+4.2. Titres, fonctions, étiquettes : “our CEO, John Smith”
+4.3. Ponctuation et clarté en rédaction professionnelle
+
+Compléments nominaux : “of” vs génitif vs composés
+5.1. “the roof of the house” vs “the house’s roof”
+5.2. “company policy” vs “the policy of the company”
+5.3. Choix stylistique et registre
+
+PARTIE VI — Possession et relations : génitif, “of”, et structures hybrides
+
+Génitif en ’s : formes et usages
+1.1. Possesseurs humains, animés, institutions
+1.2. Génitif de groupe : “the King of Spain’s visit”
+1.3. Génitif double : “a friend of my father’s”
+1.4. Pluriels en -s : “students’ projects”
+
+“Of-phrase” : valeur descriptive et abstraite
+2.1. Relations non-possessives : “the end of the day”, “a sense of urgency”
+2.2. Mesure : “a cup of tea”, “two liters of water”
+2.3. “Of” vs composition : “a glass of wine” vs “wine glass”
+
+Choisir entre ’s / of / composé nominal
+3.1. Critères : animateur, longueur, focalisation, rythme
+3.2. Registre : conversationnel vs académique vs juridique
+3.3. Réécriture pour gagner en clarté (niveau pro)
+
+PARTIE VII — Structures avancées du groupe nominal (niveau intermédiaire → avancé)
+
+Coordination dans le GN
+1.1. “a manager and mentor”, “policies and procedures”
+1.2. Coordination de têtes vs coordination de modifieurs
+1.3. Accord et portée : quand le GN est singulier/pluriel
+
+Empilement (stacking) et densité informationnelle
+2.1. Chaînes de noun modifiers : “enterprise data security policy review”
+2.2. Méthode de “décompression” : retrouver les relations implicites
+2.3. Risques : ambiguïté, surcharge cognitive, style lourd
+
+Pronoms, substituts, et ellipses dans le GN
+3.1. One/ones comme substitut nominal
+3.2. Ellipse avec quantifieurs : “some (of them)”, “many (people)”
+3.3. “the former / the latter”, “the others” : cohésion textuelle
+
+Noms en tant que compléments (complements)
+4.1. Noms avec compléments obligatoires : “a desire to…”, “a belief that…”
+4.2. Compléments en that-clause : “the fact that…”
+4.3. Différence entre complément et modifieur (diagnostics)
+
+NPs “spéciaux” : noms propres, titres, et formes figées
+5.1. Titres d’œuvres, organisations, produits (capitalization)
+5.2. “the United States”, “the Netherlands” : articles avec noms propres
+5.3. Acronymes et “the” : pratiques courantes en usage pro
+
+PARTIE VIII — Sens et référence : ce que le groupe nominal “fait” dans le discours
+
+Référence : définie, indéfinie, générique
+1.1. Spécificité vs non-spécificité
+1.2. Référence anaphorique (reprise) et cataphorique (annonce)
+1.3. “Bridging” (inférence) : “I walked into a house. The kitchen…”
+
+Quantification et portée (scope)
+2.1. every/each/all/some : différences logiques
+2.2. Négation : “not every”, “no”, “none of”
+2.3. Ambiguïtés de portée : comment lever le doute en écriture
+
+Déixis et contexte
+3.1. this/that comme outils argumentatifs (proche/lointain)
+3.2. “these people”, “those claims” : nuance rhétorique
+
+Informations nouvelles vs informations connues (information structure)
+4.1. Choix du déterminant selon la progression du texte
+4.2. Mise en avant : “a certain”, “the very”, “the only”
+
+PARTIE IX — Correction et précision : accords, registres, ponctuation, style
+
+Accord et cohérence
+1.1. Accord sujet-verbe avec têtes nominales complexes
+1.2. Collective nouns : “the team is/are” selon variété d’anglais
+1.3. Accord avec “a number of / the number of”
+
+Ponctuation dans les expansions nominales
+2.1. Virgules des relatives non-définissantes
+2.2. Appositions : virgules, tirets, parenthèses
+2.3. Apostrophe (’s) vs plural -s : erreurs fréquentes
+
+Articles et naturalité : erreurs typiques des francophones
+3.1. Sur-usage de “the” (calque du français)
+3.2. Omission de l’article là où l’anglais l’exige
+3.3. Cas piégeux : métiers, nationalités, maladies, institutions
+
+Style professionnel : clarté, concision, lisibilité
+4.1. Réduire les empilements : stratégies de réécriture
+4.2. Préférer un relatif / une préposition / une phrase séparée
+4.3. Choisir entre voix nominale et verbale (nominalization)
+4.4. Consistance terminologique dans documents techniques
+
+PARTIE X — Variétés d’anglais et domaines professionnels
+
+British vs American English : effets sur certains GN
+1.1. Collective nouns et accord
+1.2. Différences lexicales influant sur la formation des composés
+
+Anglais académique
+2.1. Densité nominale et nominalisations
+2.2. Chaînes “of” : style, avantages et limites
+2.3. Référence et prudence : “some evidence”, “a range of studies”
+
+Anglais juridique et administratif
+3.1. GN longs et précision référentielle
+3.2. Définition des termes : “the ‘Company’ means…”
+3.3. Ambiguïtés à éviter (modifieurs mal attachés)
+
+Anglais business et reporting
+4.1. KPI, métriques, segments : composés nominaux fréquents
+4.2. Titres, intitulés, “role nouns” : “Head of…”, “VP of…”
+
+Anglais technique (IT, ingénierie, produit)
+5.1. Composés nominaux techniques : patterns usuels
+5.2. Hyphenation en documentation : “end-to-end”, “user-facing”
+5.3. Naming conventions : cohérence des GN dans un système
+
+PARTIE XI — Maîtrise experte : analyse syntaxique “pro” et outils linguistiques
+
+Représentation structurale du GN (niveau avancé)
+1.1. Arbres syntaxiques : head, specifier, complement
+1.2. Approche DP (Determiner Phrase) : utilité pour analyser les déterminants
+1.3. Frontières GN/PP/Clause : cas limites
+
+Diagnostics avancés : distinguer complément vs modifieur
+2.1. Obligatoire vs optionnel
+2.2. Sélection lexicale (valence) des noms
+2.3. Tests de paraphrase et substitution
+
+Corpus et fréquence (vers la compétence professionnelle)
+3.1. Pourquoi les corpus aident à choisir une tournure naturelle
+3.2. Collocations nominales : “risk assessment”, “root cause analysis”
+3.3. Variations selon registre : email, rapport, paper, contrat
+
+GN et traduction (anglais ↔ français)
+4.1. Stratégies : décomposer, expliciter, réordonner
+4.2. Faux amis structurels : “of” vs “de”, composés nominaux
+4.3. Préserver la précision sans alourdir
+
+GN et NLP (traitement automatique des langues)
+5.1. Chunking : détecter automatiquement les noun phrases
+5.2. NER (noms propres) et frontières du GN
+5.3. Ambiguïtés d’attachement et désambiguïsation
+
+PARTIE XII — Pratique, évaluation et perfectionnement continu
+
+Progression d’exercices (du débutant au pro)
+1.1. Niveau débutant : repérer head + déterminant + adjectifs
+1.2. Niveau intermédiaire : relatives, PP, quantifieurs, choix d’articles
+1.3. Niveau avancé : chaînes complexes, réécriture pour la clarté
+1.4. Niveau professionnel : révision de documents réels (tech, business, legal)
+
+Ateliers de production (écriture guidée)
+2.1. Décrire un objet, une personne, un processus (GN simples → enrichis)
+2.2. Résumer un paragraphe en augmentant la densité nominale
+2.3. Simplifier un texte trop nominal (inverse)
+2.4. Harmoniser une terminologie (glossaire de GN)
+
+Grilles d’évaluation (auto-correction)
+3.1. Exactitude grammaticale : articles, accord, possessifs
+3.2. Précision référentielle : “de quoi parle-t-on exactement ?”
+3.3. Lisibilité : longueur, ambiguïté, surcharge de modifieurs
+3.4. Cohérence stylistique : registre et constance
+
+Erreurs fréquentes et “checklists” professionnelles
+4.1. Checklist articles (a/the/Ø)
+4.2. Checklist composés nominaux (ordre, hyphens, ambiguïtés)
+4.3. Checklist relatives (définissantes, virgules, pronoms)
+4.4. Checklist “’s vs of”
+
+ANNEXES — Ressources et approfondissements
+
+Glossaire bilingue (FR/EN) des termes essentiels du groupe nominal
+1.1. head, determiner, modifier, complement, apposition, scope, reference
+1.2. relative clause, reduced relative, noun compound, genitive
+
+Table de correspondance : constructions françaises → solutions anglaises
+2.1. “de + nom” : of / composé nominal / génitif
+2.2. “le/la/les” : the / Ø / a selon contexte
+2.3. “un/une” : a/an / Ø selon non-spécificité
+
+Mini-banque d’exemples commentés (par niveau et par domaine)
+3.1. Conversation
+3.2. Email pro
+3.3. Technique (IT)
+3.4. Académique
+3.5. Juridique
+
+Lectures de référence (pour aller jusqu’au niveau expert)
+4.1. The Cambridge Grammar of the English Language
+4.2. A Comprehensive Grammar of the English Language
+4.3. An Introduction to English Grammar
+
+Index thématique des notions (articles, relatives, quantifieurs, composés, ’s/of, register)
+
+===========================================================================groupe nominal
+
+
+===========================================================================groupe verbal
+
+PARTIE I — Cartographier le groupe verbal en anglais
+
+Présentation générale du groupe verbal
+1.1. Définition : ce qui “compte” comme groupe verbal en anglais
+1.2. Noyau verbal et extensions : auxiliaires, adverbes, compléments
+1.3. Groupe verbal vs groupe nominal : repères rapides pour ne pas confondre
+1.4. Pourquoi le groupe verbal structure le sens : temps, aspect, modalité, voix
+1.5. Différences clés avec le français : pièges typiques (négation, questions, temps)
+
+Méthode d’apprentissage et progression du débutant au professionnel
+2.1. Compétences cibles : comprendre, produire, corriger, reformuler
+2.2. Grammaire “utile” : priorité à la communication et à la précision
+2.3. Routine d’étude : micro-drills, révisions espacées, production guidée
+2.4. Auto-diagnostic : erreurs récurrentes et plan de correction
+2.5. Outils : dictionnaires, grammaires, corpus, correcteurs, checklists
+
+Anatomie minimale d’une phrase anglaise
+3.1. Ordre des mots : S–V–O et variations acceptables
+3.2. “Tête” du groupe verbal : verbe lexical vs auxiliaire
+3.3. Compléments essentiels vs compléments optionnels
+3.4. Rôles : sujet, objet, attribut, complément prépositionnel
+3.5. Notion de clause : indépendante, subordonnée, réduite (participe/infinitif)
+
+PARTIE II — Les bases indispensables du groupe verbal — Niveau A1-A2
+
+Le verbe lexical : formes et usages immédiats
+1.1. Base form, -s (3e personne), prétérit, participe passé, -ing
+1.2. Verbes réguliers et irréguliers : lecture, mémorisation, automatisation
+1.3. Verbes d’état vs verbes d’action : know / like / want vs run / make
+1.4. Verbes fréquents : be, have, do, go, get, make, take (sens de base)
+
+Be comme verbe principal
+2.1. I am / you are / he is : présent
+2.2. was / were : passé
+2.3. Phrases avec attribut : She is tired / He is a doctor
+2.4. Négation et questions avec be (sans do)
+2.5. Contradictions fréquentes chez francophones : “I am agree” etc.
+
+Le présent simple : habitudes et vérités générales
+3.1. Sens : routine, faits, états
+3.2. Règle du -s et prononciation (-s / -z / -ɪz)
+3.3. Adverbes de fréquence : placement (often, always, never)
+3.4. Négation et questions : introduction à do-support
+3.5. Mini-automatisations : affirmatif → négatif → interrogatif
+
+Le présent continu : action en cours et situations temporaires
+4.1. Formation : be + V-ing
+4.2. Usages : “maintenant”, changement temporaire, projets proches
+4.3. Verbes souvent non-progressifs : know, believe, love (nuances)
+4.4. Contraste essentiel : I work vs I’m working
+4.5. Erreurs fréquentes : confusion avec le présent français
+
+Le passé simple : récit et actions terminées
+5.1. Formation : régulier (-ed) et irréguliers
+5.2. Marqueurs de temps : yesterday, last week, in 2019
+5.3. Négation / questions : did + base form
+5.4. Prononciation de -ed : /t /d /ɪd
+5.5. Récits courts : raconter une journée
+
+Le futur de base : intentions et plans
+6.1. will : décision, prédiction, promesse
+6.2. be going to : intention, prédiction basée sur indices
+6.3. present continuous : arrangement planifié
+6.4. Choisir rapidement : tableau de décision
+6.5. Réactions orales : I’ll… / I’m going to…
+
+La négation fondamentale
+7.1. not et contractions : isn’t, don’t, can’t
+7.2. Négation avec be vs avec do
+7.3. Négation avec modaux : cannot / shouldn’t / mustn’t
+7.4. “Pas de double négation” standard : éviter I don’t know nothing (registre)
+7.5. Négation et sens : not… very, not… any
+
+Questions et réponses courtes
+8.1. Yes/No questions : inversion auxiliaire–sujet
+8.2. Wh-questions : what/where/when/why/how
+8.3. Questions avec do : Do you…? / Does he…?
+8.4. Réponses courtes : Yes, I do / No, he doesn’t
+8.5. Intonation de base et rythme en questions
+
+PARTIE III — Le cœur du groupe verbal : auxiliaires et “do-support” — Niveau A2-B1
+
+Les auxiliaires : rôle structurel
+1.1. Auxiliaires primaires : be, have, do
+1.2. Modaux : can, could, may, might, must, should, will, would, shall (panorama)
+1.3. Semi-modaux : have to, need to, be able to, be supposed to
+1.4. Pourquoi l’anglais “aime” les auxiliaires : négation, inversion, emphasis
+
+Do-support en profondeur
+2.1. Quand do est obligatoire (présent/past simple)
+2.2. Quand do est interdit (avec be, modaux, perfect/progressive)
+2.3. Emphase : I DO want to…
+2.4. Réponses elliptiques : I do / I don’t
+2.5. Erreurs typiques : He don’t, Did you went
+
+Contractions, formes faibles et langue parlée
+3.1. Contractions standard : I’m, you’re, I’ve, I’ll, we’d
+3.2. won’t et irrégularités
+3.3. Prononciation réduite des auxiliaires : can fort/faible
+3.4. Style : quand éviter les contractions (écrit formel)
+3.5. Variantes orales : gonna, wanna, gotta (registre et prudence)
+
+PARTIE IV — Temps et aspect : construire le temps avec précision — Niveau B1-B2
+
+Temps vs aspect : comprendre la différence
+1.1. Temps (present/past) et futur (périphrases)
+1.2. Aspect simple, progressif, perfect, perfect progressive
+1.3. Ligne du temps : repères visuels et diagnostics rapides
+1.4. Choix guidé : intention communicative
+
+Le present perfect : le grand contraste avec le français
+2.1. Formation : have/has + past participle
+2.2. Résultat présent : I’ve lost my keys
+2.3. Expérience de vie : I’ve been to…
+2.4. Durée jusqu’à maintenant : for/since
+2.5. just/already/yet : placement et sens
+2.6. Différences BrE/AmE (tendances d’usage)
+2.7. Erreurs fréquentes : I am here since…
+
+Present perfect continuous
+3.1. Formation : have been + V-ing
+3.2. Durée et activité récente : I’ve been working
+3.3. Contraste : perfect simple vs perfect continuous
+3.4. Verbes compatibles/incompatibles et nuances
+
+Past continuous et récit
+4.1. Arrière-plan narratif : I was walking when…
+4.2. Interruption : when/while
+4.3. Deux actions simultanées
+4.4. Erreurs : confusion avec past simple
+
+Past perfect et antériorité dans le passé
+5.1. Formation : had + past participle
+5.2. Récits : “passé du passé”
+5.3. Past perfect vs past simple (quand c’est nécessaire / inutile)
+5.4. Past perfect continuous : durée avant un moment passé
+
+Futur avancé
+6.1. Future continuous : action en cours dans le futur
+6.2. Future perfect : antériorité dans le futur
+6.3. Future perfect continuous : durée projetée
+6.4. Futur dans les subordonnées de temps : when, after, as soon as (pas de will)
+
+PARTIE V — Modalité : possibilité, obligation, conseil, hypothèse — Niveau B1-C1
+
+Les modaux : sens de base et cartes de décision
+1.1. Capacité : can / could / be able to
+1.2. Permission : can / may (registre)
+1.3. Obligation : must / have to / need to
+1.4. Interdiction : mustn’t vs don’t have to (différence critique)
+1.5. Conseil : should / ought to / had better
+1.6. Habitude passée : used to / would
+
+Nuances avancées des modaux
+2.1. Degré de certitude : might / may / must (déduction)
+2.2. must déduction vs obligation
+2.3. shall : offres et style (selon variétés)
+2.4. Politesse et atténuation : could you…? / would you mind…?
+
+Modaux au passé : “modal perfect”
+3.1. Formation : modal + have + participe passé
+3.2. Déduction passée : must have left
+3.3. Possibilité passée : might have…
+3.4. Regret et critique : should have…
+3.5. Contrefactuel : would have…
+
+Semi-modaux et tournures professionnelles
+4.1. be supposed to (attente/norme)
+4.2. be likely to / be bound to (probabilité)
+4.3. be to + base form (plans officiels)
+4.4. needn’t have… vs didn’t need to…
+
+PARTIE VI — Voix et diathèse : actif, passif et variantes — Niveau B2-C1
+
+Le passif : construire et choisir
+1.1. Formation : be + past participle (tous les temps)
+1.2. Agent en by : quand l’omettre / l’ajouter
+1.3. Passif et information : focus sur résultat, processus, neutralité
+1.4. Passif dans l’écrit professionnel : rapport, procédure, science
+
+Variantes du passif
+2.1. get-passive : nuance d’événement/incident
+2.2. Passif avec verbes à deux objets : He was given…
+2.3. Passif avec préposition : The issue was dealt with
+2.4. Passifs figés et adjectivaux : be interested / be married
+
+Causatif : faire faire
+3.1. have something done : service / délégation
+3.2. get something done : insistance / réussite
+3.3. make/let/help : constructions causatives actives
+3.4. Erreurs fréquentes et reformulations
+
+PARTIE VII — Négation, interrogation, emphase, inversion — Niveau B2-C1
+
+Systèmes de négation avancée
+1.1. Négation partielle : not necessarily / not entirely
+1.2. Négation avec quantifieurs : hardly, rarely, scarcely
+1.3. no longer, never again, by no means
+1.4. Concordance négative (variétés) vs norme standard
+
+Questions avancées
+2.1. Questions indirectes : Could you tell me where…?
+2.2. Questions avec préposition : What are you looking at?
+2.3. Questions rhétoriques et stylistiques
+2.4. Reformulation professionnelle : questions neutres, non agressives
+
+Tag questions
+3.1. Forme : auxiliaire inversé + pronom
+3.2. Valeurs pragmatiques : confirmation, politesse, ironie
+3.3. Intonation montante/descendante
+
+Inversion et structure stylistique
+4.1. Inversion après adverbes négatifs : Never have I…
+4.2. Inversion conditionnelle : Had I known…
+4.3. Inversion avec so/neither : So do I / Neither did she
+
+Emphase et focus
+5.1. do-emphasis en simple present/past
+5.2. Clivées : It is/was… that…
+5.3. What… is/was… (pseudo-cleft)
+5.4. Répétition et intensification contrôlées (registre)
+
+PARTIE VIII — Formes non finies : infinitif, -ing, participes — Niveau B1-C2
+
+Infinitif : usages et subtilités
+1.1. to-infinitive vs bare infinitive
+1.2. Après verbes : want to, decide to
+1.3. Après adjectifs : glad to, easy to
+1.4. But : to + base form (to improve, to reduce)
+1.5. Infinitif parfait et progressif : to have done / to be doing
+
+Forme en -ing : gerund-participle
+2.1. Après prépositions : interested in doing
+2.2. Sujet : Working late is…
+2.3. Après certains verbes : enjoy doing, avoid doing
+2.4. Nuances : stop doing vs stop to do
+2.5. Possessif et -ing : I dislike his/him doing that (variations)
+
+Participes présents et passés en réduction de propositions
+3.1. Participe présent : Walking down the street, …
+3.2. Participe passé : Given the data, …
+3.3. Risques de “dangling participles” et correction
+3.4. Style professionnel : concision sans ambiguïté
+
+Perfect participles et structures avancées
+4.1. Having done… : antériorité
+4.2. Having been done… : passif parfait
+4.3. with + noun + participle : With the project completed…
+
+PARTIE IX — Les verbes à particule : phrasal verbs et multi-word verbs — Niveau B1-C2
+
+Typologie des verbes multi-mots
+1.1. Phrasal verbs : pick up, set up
+1.2. Prepositional verbs : look at, rely on
+1.3. Phrasal-prepositional : put up with, look forward to
+1.4. Expressions figées : collocations verbales
+
+Sens : littéral, idiomatique, métaphorique
+2.1. Particules (up/down/out/off/over…) : schémas de sens
+2.2. Polysémie : take off (décoller / retirer / réussir)
+2.3. Choisir selon contexte : indices sémantiques
+
+Syntaxe : séparabilité et placement de l’objet
+3.1. Objet nominal : turn the light off / turn off the light
+3.2. Objet pronominal : turn it off (obligatoire)
+3.3. Restriction avec préposition : look after it
+3.4. Passif des multi-word verbs
+
+Registre et professionnalisation
+4.1. Phrasal vs verbe latinisé : find out vs discover
+4.2. Écrit formel : quand préférer investigate / determine
+4.3. Vocabulaire d’entreprise : roll out, scale up, follow up
+4.4. Vocabulaire tech/IT : log in, set up, back up, roll back
+
+PARTIE X — Valence et compléments : “ce que le verbe exige” — Niveau B2-C2
+
+Transitivité et structures de base
+1.1. Intransitif : arrive, sleep
+1.2. Transitif : build a house
+1.3. Ditransitif : give someone something
+1.4. Complex-transitive : find it useful / make him happy
+
+Compléments : objets, attributs, compléments prépositionnels
+2.1. Objet direct vs indirect
+2.2. Objet + complément d’objet : consider him a leader
+2.3. Compléments prépositionnels obligatoires : depend on
+2.4. “Préposition orpheline” et style : the person I spoke to
+
+Alternances et paraphrases
+3.1. Double objet vs to/for-structure : give me / give to me
+3.2. Causatif et alternances : open the door / the door opened
+3.3. Verbes de mouvement et particules : go in / go into
+
+Erreurs avancées et correction
+4.1. Faux amis : explain me → explain to me
+4.2. Prépositions “non traduisibles” : apprendre par patrons verbaux
+4.3. Collocations verbales : make a decision vs do a decision
+
+PARTIE XI — Complétives et subordination : quand le verbe pilote une proposition — Niveau C1-C2
+
+Complétives en that
+1.1. Après verbes de pensée/déclaration : think that, say that
+1.2. Omission de that et effets de style
+1.3. Concordance et clarté dans l’écrit professionnel
+
+Complétives en wh- et questions indirectes
+2.1. what/why/how comme compléments
+2.2. Différence question directe / indirecte
+2.3. Registre et politesse
+
+if/whether et alternatives
+3.1. whether + infinitif : whether to…
+3.2. Prépositions + whether
+3.3. Ambiguïtés fréquentes et correction
+
+Subjonctif anglais et “mandative subjunctive”
+4.1. It is essential that he be…
+4.2. Variantes : should mandatif (tendance selon variétés)
+4.3. Registre juridique, administratif, technique
+
+Raising, control et structures avancées
+5.1. Raising : seem to, appear to
+5.2. Control : promise, persuade (qui “fait” l’action)
+5.3. Ambiguïtés et reformulations professionnelles
+
+PARTIE XII — Conditionnel, hypothèse, temps du discours — Niveau B2-C2
+
+Les conditionnelles : systèmes complets
+1.1. Zero conditional : vérités générales
+1.2. First conditional : futur plausible
+1.3. Second conditional : hypothèse présente/avenir irréel
+1.4. Third conditional : passé irréel
+1.5. Mixed conditionals : combinaisons et sens fin
+1.6. Variantes : unless, provided (that), as long as
+
+Le discours rapporté et le groupe verbal
+2.1. Backshift : logique et exceptions
+2.2. say/tell/ask : patrons corrects
+2.3. Reported questions et reported commands
+2.4. Modaux au discours indirect : transformations
+2.5. Style professionnel : rapport neutre, précision factuelle
+
+Concordance et cohérence temporelle en textes longs
+3.1. Maintenir un “temps directeur”
+3.2. Chronologie d’un rapport : événements, causes, conséquences
+3.3. Reformulations pour éviter l’ambiguïté
+
+PARTIE XIII — Placement des adverbes, rythme, précision — Niveau B2-C2
+
+Placement des adverbes dans le groupe verbal
+1.1. Adverbes de fréquence : règle générale
+1.2. Adverbes de manière, temps, lieu : ordre et exceptions
+1.3. Adverbes avec auxiliaires : has already been…
+1.4. Risques : changer le sens en bougeant un adverbe
+
+Verbes “à particules” et adverbes ensemble
+2.1. Position relative : particule vs adverbe
+2.2. Clarté en écrit technique : éviter l’empilement confus
+
+Rythme oral : formes faibles et accentuation
+3.1. Accent de phrase et information nouvelle
+3.2. Réduction des auxiliaires : intelligibilité vs vitesse
+3.3. Intonation pour insister, corriger, nuancer
+
+PARTIE XIV — Maîtrise professionnelle : registre, précision, style — Niveau C1-C2
+
+Registres : du quotidien au professionnel
+1.1. Style neutre, formel, très formel : marqueurs verbaux
+1.2. Contractions : politique d’entreprise et conventions d’écriture
+1.3. Verbes “phrasal” vs verbes latinisés : impact sur ton et clarté
+
+Groupe verbal en anglais des affaires
+2.1. Formuler objectifs, plans, décisions : We aim to… / We plan to…
+2.2. Négociation et diplomatie : modaux atténuateurs (could, might)
+2.3. Reporting : We have achieved… / We have been working on…
+2.4. Risques juridiques : prudence avec will (engagement)
+
+Groupe verbal dans l’anglais académique et scientifique
+3.1. Voix passive et alternatives actives
+3.2. Hedging : may, might, appear to, suggest
+3.3. Méthodes et résultats : choix des temps (souvent past simple / present)
+3.4. Style : éviter l’anthropomorphisme (the data shows) selon discipline
+
+Groupe verbal dans l’anglais juridique et conformité
+4.1. Obligation et permission : shall, must, may (précision)
+4.2. Conditions et exceptions : provided that, unless
+4.3. Formulations sans ambiguïté : éviter les modaux flous
+4.4. Clauses : cohérence et enchaînements verbaux
+
+Groupe verbal dans l’anglais technique et IT
+5.1. Procédures : impératifs, passif, you should/you must
+5.2. Change management : deploy, roll out, roll back
+5.3. Incident reports : chronologie et responsabilité (actif/passif)
+5.4. Documentation : concision, répétabilité, cohérence terminologique
+
+PARTIE XV — Révision, correction et excellence C2
+
+Analyse d’erreurs : diagnostic systématique
+1.1. Erreurs de temps/aspect : symptômes et corrections
+1.2. Erreurs de modalité : obligation vs déduction
+1.3. Erreurs de valence : prépositions et objets manquants
+1.4. Erreurs de registre : trop oral vs trop pompier
+
+Reformulation et paraphrase (niveau pro)
+2.1. Reformuler sans changer le sens : techniques
+2.2. Monter/descendre le registre
+2.3. Condenser : participes et relatives réduites (sans ambiguïté)
+2.4. Clarifier : expliciter agent, temps, condition
+
+Variétés d’anglais et décisions stylistiques
+3.1. Tendances AmE vs BrE (temps, modaux, choix lexicaux)
+3.2. International English : éviter l’idiomatique inutile
+3.3. Cohérence : choisir une variété et s’y tenir dans un document
+
+Perfectionnement par corpus et usages réels
+4.1. Observer patrons verbaux fréquents
+4.2. Collocations professionnelles : verbes “naturels”
+4.3. Vérifier une tournure : fréquence, registre, contexte
+
+PARTIE XVI — Évaluation : du niveau débutant au niveau professionnel
+
+Objectifs par niveaux (A1 → C2) centrés sur le groupe verbal
+1.1. A1-A2 : former et comprendre les temps de base, questions/négation
+1.2. B1 : maîtriser contrastes simples/progressif, narration, futur
+1.3. B2 : perfect, passif, modaux, structures non finies courantes
+1.4. C1 : subordination complexe, style, nuance, reformulation
+1.5. C2 : précision quasi-native, contrôle du registre, concision
+
+Types de tâches et critères d’évaluation
+2.1. Conversation : spontanéité et correction des auxiliaires
+2.2. Récit : cohérence temporelle et aspectuelle
+2.3. Email pro : modaux de politesse, clarté, engagement
+2.4. Rapport : passif/actif, précision des temps, neutralité
+2.5. Présentation : rythme, intonation, emphase, correction en direct
+
+Checklists finales (professionnelles)
+3.1. Checklist “temps et aspect”
+3.2. Checklist “modaux et degré de certitude”
+3.3. Checklist “passif et responsabilité”
+3.4. Checklist “valence et prépositions”
+3.5. Checklist “registre et cohérence”
+
+PARTIE XVII — Annexes : ressources et référentiels complets
+
+Tableaux de conjugaison et formats du groupe verbal
+1.1. Schémas : simple / progressive / perfect / perfect progressive
+1.2. Tableaux par temps : présent, passé, futur, conditionnel
+1.3. Formes négatives et interrogatives : modèles
+
+Liste structurée des verbes irréguliers (approche utile)
+2.1. Par familles phonétiques
+2.2. Par fréquence d’usage
+2.3. Par confusions fréquentes
+
+Dictionnaire de patrons verbaux (valence)
+3.1. Verbe + objet
+3.2. Verbe + préposition + objet
+3.3. Verbe + to-infinitive
+3.4. Verbe + -ing
+3.5. Verbe + proposition (that/wh/if)
+
+Inventaire des principaux modaux et semi-modaux
+4.1. Valeurs et exemples
+4.2. Traductions possibles en français (avec précautions)
+4.3. Tableau obligation/permission/conseil/certitude
+
+Phrasal verbs : index par particule
+5.1. up (augmentation, achèvement, collecte…)
+5.2. out (extérieur, extinction, découverte…)
+5.3. off (séparation, arrêt, déclenchement…)
+5.4. over (survol, excès, révision…)
+5.5. Index par domaines (business, IT, quotidien)
+
+Glossaire bilingue des termes de grammaire (centré groupe verbal)
+6.1. Temps, aspect, modalité, voix, valence, auxiliaire, participe
+6.2. Raising/control, inversion, ellipsis, clefting
+
+Banque d’exercices gradués (par compétence)
+7.1. Transformation (affirmatif/négatif/interrogatif)
+7.2. Choix du temps/aspect
+7.3. Réécriture registre (informel → formel)
+7.4. Correction d’erreurs authentiques
+7.5. Production : emails, rapports, compte-rendus, scripts
+
+===========================================================================groupe verbal
+
+
+===========================================================================la phrase
+
+PARTIE I — Comprendre ce qu’est une phrase en anglais
+
+Pourquoi “la phrase” est la base de tout
+1.1. Phrase, clause, groupe de mots : distinguer les unités
+1.2. Ce qui rend une phrase “correcte” : grammaire, sens, usage
+1.3. Ce qui rend une phrase “bonne” : clarté, rythme, style, registre
+1.4. Les différences clés entre phrase française et phrase anglaise
+1.5. Panorama des niveaux : débutant → intermédiaire → avancé → professionnel
+
+Terminologie minimale indispensable
+2.1. Sujet, verbe, complément, attribut
+2.2. Nom, verbe, adjectif, adverbe, déterminant, préposition, conjonction
+2.3. Groupe nominal, groupe verbal, groupe prépositionnel
+2.4. Proposition indépendante vs dépendante
+2.5. Fonction vs catégorie (rôle dans la phrase vs nature du mot)
+
+PARTIE II — Les briques : construire des phrases simples
+3. L’ordre des mots en anglais
+3.1. Modèle de base : Subject + Verb + Object
+3.2. Où placer le temps, le lieu, la manière
+3.3. L’ordre des adverbes : fréquence, intensité, commentaire
+3.4. Les inversions fréquentes et ce qu’elles signifient
+
+Les types de phrases simples
+4.1. Affirmatives
+4.2. Négatives : not, never, no, none, nothing…
+4.3. Interrogatives : yes/no vs wh- questions
+4.4. Impératives : ordre, demande, consigne
+4.5. Exclamatives : what / how, intensité
+4.6. Phrases elliptiques : réponses courtes, style oral
+
+Le verbe “to be” et les verbes lexicaux
+5.1. “Be” : identité, état, description, localisation
+5.2. Verbes d’action : structure et compléments
+5.3. Verbes d’état (stative verbs) : quand éviter le -ing
+5.4. Verbes à particule : introduction aux phrasal verbs (niveau simple)
+
+PARTIE III — Maîtriser le temps et l’aspect : phrases précises dans le temps
+6. Présent : usage réel dans les phrases
+6.1. Present Simple : habitudes, vérités, états
+6.2. Present Continuous : actions en cours, tendances
+6.3. Différences de sens : “I think” vs “I’m thinking”
+6.4. Marqueurs temporels : usually, often, right now, these days
+
+Passé : raconter clairement
+7.1. Past Simple : narration, actions terminées
+7.2. Past Continuous : arrière-plan, action interrompue
+7.3. Present Perfect : lien passé-présent, expérience, résultat
+7.4. Present Perfect Continuous : durée et continuité
+7.5. Choisir entre Past Simple et Present Perfect
+7.6. “Used to” : habitudes révolues
+
+Futur : intentions, prévisions, planification
+8.1. Will : décision, prédiction, promesse
+8.2. Going to : intention, évidence
+8.3. Present Continuous (futur) : arrangements planifiés
+8.4. “Be about to”, “be due to” : imminence et échéance
+8.5. Futur dans les subordonnées : quand on évite “will”
+
+Concordance des temps et cohérence narrative
+9.1. Rester stable : éviter les sauts inutiles
+9.2. Changements de temps motivés (effet de style, précision)
+9.3. Raconter un projet : futur + conditions + jalons
+
+PARTIE IV — Le noyau de la phrase : groupe nominal et détermination
+10. Articles et déterminants : le grand changement pour les francophones
+10.1. A / an : introduction, classification
+10.2. The : référence connue, unique, contexte partagé
+10.3. Zéro article : généralités, pluriels, matières, noms propres
+10.4. Quantifieurs : some, any, much, many, a lot of
+10.5. Démonstratifs : this/that/these/those
+10.6. Possessifs : my/your vs ’s (genitive)
+10.7. Erreurs typiques et corrections
+
+Pluriels, comptable/incomptable, accords
+11.1. Noms dénombrables vs indénombrables
+11.2. Expressions de quantité : a piece of, a bit of, a number of
+11.3. Accords avec “there is/are”, “a team is…”
+11.4. Noms collectifs : british vs american usage
+
+Adjectifs dans la phrase
+12.1. Place de l’adjectif et ordre des adjectifs
+12.2. Comparatif et superlatif : structure, irréguliers
+12.3. Intensifieurs : very, really, quite, rather
+12.4. Participes adjectivaux : interested/interesting
+12.5. Relative clauses réduites : “the people working here”
+
+PARTIE V — Étendre la phrase : compléments, prépositions, précision
+13. Prépositions : construire des phrases naturelles
+13.1. Temps : at/on/in, for/since, during/while
+13.2. Lieu : at/in/on, to/into, from/off/out of
+13.3. Mouvement : across, through, along, toward(s)
+13.4. Prépositions après verbe/adjectif : depend on, interested in
+13.5. Collocations et usages figés (apprendre par blocs)
+
+Objets, compléments et structures fréquentes
+14.1. Verbes transitifs/intransitifs
+14.2. Double objet : give someone something
+14.3. Complément avec “to” : explain to someone
+14.4. Verbes à préposition : look at, talk about
+14.5. Erreurs fréquentes “à cause du français”
+
+Pronoms : fluidité et éviter les répétitions
+15.1. Pronoms sujets et compléments : I/me, he/him
+15.2. Pronoms possessifs : mine, yours
+15.3. Réfléchis : myself, yourself
+15.4. Relatifs : who/which/that/whose/where/when
+15.5. Indéfinis : someone/anyone/no one, each/every
+15.6. “It” et “there” : sujets “vides” et constructions naturelles
+
+PARTIE VI — La phrase composée : coordination, subordination, enchaînement
+16. Coordination : lier des idées proprement
+16.1. And/but/or/so/yet : sens et ponctuation
+16.2. Coordination de mots, groupes, propositions
+16.3. Éviter les phrases “trop longues” : stratégies de découpage
+
+Subordination : produire des phrases riches
+17.1. Subordonnées complétives : that, if, whether
+17.2. Subordonnées relatives : définissantes vs non définissantes
+17.3. Subordonnées circonstancielles : cause, but, conséquence, concession
+17.4. Subordonnées de temps : when, while, as soon as
+17.5. Subordonnées de condition : if, unless, provided that
+17.6. Ponctuation et virgules : règles essentielles
+
+Conditionnels : précision et nuance
+18.1. Zero conditional : vérités générales
+18.2. First conditional : futur probable
+18.3. Second conditional : hypothèse irréelle présente
+18.4. Third conditional : regrets sur le passé
+18.5. Mixed conditionals : combinaisons avancées
+18.6. Alternatives à “if” : wish, if only, would rather
+
+Discours rapporté : transformer les phrases
+19.1. Reported statements : said that…
+19.2. Reported questions : asked if/whether, asked what…
+19.3. Reported commands : told/asked someone to
+19.4. Décalage des temps et exceptions
+19.5. Rapport de propos au travail : neutralité, précision
+
+PARTIE VII — La voix et la mise en avant : écrire comme un anglophone
+20. Voix active et voix passive
+20.1. Quand utiliser le passif (process, objectivité, focus)
+20.2. Formation du passif : be + past participle
+20.3. Agent et “by” : quand l’omettre
+20.4. Passif avancé : get-passive, passif avec modaux
+20.5. Style professionnel : passif utile vs passif “trop lourd”
+
+Modalité : degrés de certitude, obligation, politesse
+21.1. Can/could : capacité, permission, demande
+21.2. Must/have to : obligation interne/externe
+21.3. Should/ought to : recommandation
+21.4. May/might : possibilité
+21.5. Needn’t/don’t have to : absence d’obligation
+21.6. Softening : rendre une phrase plus diplomate
+
+Emphase, inversion, structures de focus
+22.1. Do-support pour insister : “I do agree”
+22.2. It-clefts : “It was John who…”
+22.3. What-clefts : “What I need is…”
+22.4. Inversions : “Never have I…” (registre)
+22.5. Fronting : mettre un élément au début pour l’effet
+
+PARTIE VIII — Ponctuation et lisibilité : phrases propres et professionnelles
+23. Ponctuation de base
+23.1. Le point et la phrase courte
+23.2. La virgule : règles et pièges (comma splice)
+23.3. Deux-points et point-virgule : usage pro
+23.4. Parenthèses, tirets, incises
+23.5. Apostrophe : contractions et possessif ’s
+
+Contractions et registre
+24.1. I’m, don’t, won’t : usage oral et écrit
+24.2. Éviter les contractions en contexte formel
+24.3. Exceptions : emails modernes, communication interne
+
+Clarté et densité
+25.1. Une idée par phrase vs phrases complexes maîtrisées
+25.2. Éviter les ambiguïtés : référents, pronoms, parallélisme
+25.3. Réécriture : simplifier sans appauvrir
+25.4. Cohérence : du sujet au verbe (éviter les “détours”)
+
+PARTIE IX — Phrase naturelle : vocabulaire en blocs, collocations, idiomes
+26. Apprendre à “penser en phrases” plutôt qu’en mots isolés
+26.1. Chunking : blocs fréquents (I’d like to…, It depends on…)
+26.2. Formules de liaison : however, therefore, in addition
+26.3. Collocations essentielles : make a decision, take responsibility
+26.4. Faux amis : actually, eventually, sensible, comprehensive…
+
+Idiomes et expressions : contrôle et prudence
+27.1. Idiomes communs et contexte d’usage
+27.2. Idiomes à éviter en contexte pro (risque de maladresse)
+27.3. Alternatives neutres et internationales
+
+Phrasal verbs : de l’essentiel au professionnel
+28.1. Phrasal verbs basiques : get up, put on, look for
+28.2. Phrasal verbs pro : follow up, carry out, roll out
+28.3. Sens multiples et désambiguïsation par contexte
+28.4. Choisir entre phrasal verb et verbe “latin” (register)
+
+PARTIE X — Cohésion : du niveau phrase au niveau texte
+29. Connecteurs logiques et architecture des idées
+29.1. Addition, contraste, cause, conséquence, concession
+29.2. Nuances : although vs however vs nevertheless
+29.3. Éviter les connecteurs “trop scolaires”
+
+Référence et continuité
+30.1. Répétition contrôlée vs pronoms
+30.2. Thème/rhème : progresser naturellement
+30.3. Parallélisme : séries claires (A, B, and C)
+
+Style et voix
+31.1. Ton neutre, assertif, diplomate, persuasif
+31.2. Phrase “active” : verbes précis, éviter la lourdeur
+31.3. Variation de longueur : rythme et impact
+31.4. Écriture inclusive et neutralité (singular “they”)
+
+PARTIE XI — Anglais professionnel : phrases prêtes pour le travail
+32. Email professionnel : phrases clés et structures
+32.1. Ouvertures : context, purpose, gratitude
+32.2. Demandes : directes vs polies (Could you…, Would you mind…)
+32.3. Relances : follow-up, reminder, deadlines
+32.4. Désaccord diplomate : softeners, hedging
+32.5. Clôtures : next steps, availability, signature
+
+Réunions et communication orale pro
+33.1. Intervenir : “If I may add…”, “From my perspective…”
+33.2. Clarifier : “Just to make sure I understand…”
+33.3. Résumer : “To recap…”, “Key takeaway…”
+33.4. Gérer le désaccord : “I see your point, however…”
+33.5. Négocier et décider : “We could consider…”, “Let’s align on…”
+
+Rapports, comptes rendus, documentation
+34.1. Style factuel : observations et preuves
+34.2. Recommandations : structure et justification
+34.3. Risks & mitigation : formulation standard
+34.4. Process writing : procédures claires, impératifs, passif utile
+
+Présentations : phrases efficaces
+35.1. Introduire le plan : “Today I’ll cover…”
+35.2. Transitions : “Moving on to…”
+35.3. Mettre en valeur des chiffres : “This indicates that…”
+35.4. Conclure : “In summary…”, “Main message…”
+
+PARTIE XII — Anglais avancé : précision, nuance, crédibilité
+36. Hedging : exprimer l’incertitude intelligemment
+36.1. “It seems”, “likely”, “suggests”, “may indicate”
+36.2. Degré de confiance : strongly, somewhat, marginally
+36.3. Éviter les absolus dangereux (always/never)
+
+Nominalisation et densité (avec contrôle)
+37.1. Quand nominaliser améliore le style (rapports, académie)
+37.2. Quand nominaliser nuit à la clarté
+37.3. Rééquilibrer : revenir à des verbes
+
+Anticiper les erreurs avancées
+38.1. Accord sujet-verbe dans phrases longues
+38.2. “Which” vs “that” et virgules
+38.3. Dangling modifiers : erreurs de rattachement
+38.4. Parallélisme cassé : “to do / doing”
+38.5. Prépositions en fin de phrase : acceptabilité et registre
+
+Rhétorique et persuasion (pro)
+39.1. Cadres : problème → solution → bénéfices
+39.2. Emphase contrôlée : répétitions, contraste, triades
+39.3. Éviter l’agressivité : ton assertif, preuves, respect
+
+PARTIE XIII — Domaines spécialisés : phrases adaptées aux métiers
+40. Anglais business et management
+40.1. KPI, performance, roadmap : formulations standard
+40.2. Feedback : phrases utiles et nuances
+40.3. Stratégie : alignement, priorités, arbitrages
+
+Anglais technique et IT
+41.1. Décrire un bug : steps to reproduce, expected vs actual
+41.2. Écrire une spec : requirements, constraints, acceptance criteria
+41.3. Documenter une API : définitions, exemples, edge cases
+41.4. Tickets et changelogs : phrases courtes, actionnables
+41.5. Sécurité et incidents : neutralité, chronologie, impact
+
+Anglais juridique et conformité (niveau pro)
+42.1. Formulations prudentes : shall, may, must, subject to
+42.2. Responsabilité : disclaimers, limitations
+42.3. Contrats : définitions et ambiguïtés à éviter
+
+Anglais marketing et communication
+43.1. Promesses et preuves : claim vs evidence
+43.2. Call-to-action : formulations efficaces
+43.3. Ton de marque : cohérence et variation
+
+Anglais académique et recherche
+44.1. Décrire une méthode : “We conducted…”, passif maîtrisé
+44.2. Résultats : “suggest”, “demonstrate”, “correlate”
+44.3. Discussion : limites, interprétation, implications
+
+PARTIE XIV — Révision, correction, excellence : passer au niveau professionnel
+45. Méthodologie de correction de phrase
+45.1. Checklist grammaire : temps, accords, articles
+45.2. Checklist clarté : sujet réel, verbe fort, ambiguïtés
+45.3. Checklist style : registre, concision, rythme
+45.4. Réécriture en 3 versions : simple, neutre, formelle
+
+Erreurs fréquentes des francophones : diagnostic et remèdes
+46.1. Ordre des mots calqué sur le français
+46.2. Mauvais article ou absence d’article
+46.3. Prépositions : erreurs systématiques
+46.4. Faux amis : sens, registre, connotation
+46.5. “Since/for”, “during/while”, “make/do”, “say/tell”
+
+S’entraîner efficacement avec des phrases
+47.1. Exercices de transformation : active↔passive, direct↔reported
+47.2. Expansions graduelles : phrase simple → phrase complexe
+47.3. Paraphrase : dire la même idée en 3 registres
+47.4. Imitation : copier des structures modèles (sans plagier)
+47.5. Spaced repetition : mémoriser des “phrases blocs”
+
+Évaluer son niveau : critères concrets
+48.1. Débutant : phrase correcte et compréhensible
+48.2. Intermédiaire : variété, temps maîtrisés, enchaînement
+48.3. Avancé : nuance, précision, style cohérent
+48.4. Professionnel : lisibilité, diplomatie, crédibilité, efficacité
+48.5. Portfolio : corpus de phrases et textes (emails, reports, specs)
+
+PARTIE XV — Annexes : ressources et référentiels
+49. Cartes de modèles de phrases
+49.1. Phrases pour demander, proposer, refuser, clarifier
+49.2. Phrases pour structurer un paragraphe
+49.3. Phrases pour présenter des données et conclusions
+
+Listes d’éléments essentiels à maîtriser
+50.1. 100 structures de phrases incontournables
+50.2. 300 collocations pro haute fréquence
+50.3. 200 phrasal verbs utiles par domaine
+
+Mini-références rapides
+51.1. Table des temps et marqueurs temporels
+51.2. Guide express de ponctuation
+51.3. Guide express des articles
+51.4. Guide express des relatives et virgules
+
+Parcours de progression recommandés
+52.1. Parcours “débutant solide” : phrases simples et correctes
+52.2. Parcours “intermédiaire fluide” : subordination et cohésion
+52.3. Parcours “avancé crédible” : style, nuance, précision
+52.4. Parcours “pro” : emails, rapports, docs métier, relecture
+
+===========================================================================la phrase
