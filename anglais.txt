@@ -1,7 +1,7 @@
 
 ===========================================================================groupe nominal
 
-PARTIE I — Fondations : comprendre ce qu’est un groupe nominal (noun phrase)
+-PARTIE I — Fondations : comprendre ce qu’est un groupe nominal (noun phrase)
 
 Définition et rôle du groupe nominal en anglais
 1.1. Groupe nominal vs nom seul : pourquoi la notion est indispensable
@@ -323,6 +323,304 @@ Lectures de référence (pour aller jusqu’au niveau expert)
 Index thématique des notions (articles, relatives, quantifieurs, composés, ’s/of, register)
 
 ===========================================================================groupe nominal
+
+
+
+===========================================================================groupe prépositionnel
+
+PARTIE I — Fondations : comprendre ce qu’est un groupe prépositionnel (PP)
+1. Notions essentielles
+
+1.1. Définition : préposition, complément, groupe prépositionnel (Prepositional Phrase / PP)
+1.2. Composition minimale : Préposition + complément (Preposition + Object)
+1.3. Ce que peut être le complément : nom, pronom, gérondif (-ing), groupe nominal, proposition en wh-
+1.4. Prépositions vs autres catégories : particules (phrasal verbs), adverbes, conjonctions
+1.5. Prépositions simples vs complexes (in, on vs in front of, because of)
+1.6. Prépositions “proches” et pièges : like vs as, than vs then (erreurs fréquentes)
+1.7. Terminologie utile : object of preposition, complement, head, modifier, adjunct, argument
+
+2. Pourquoi le groupe prépositionnel est central en anglais
+
+2.1. Rôle dans la phrase : lieu, temps, manière, cause, but, moyen, relation
+2.2. PP comme “brique” de description : précision, nuance, style
+2.3. PP à l’oral vs à l’écrit : concision, lourdeur, fluidité
+2.4. Impact sur la compréhension : ambiguïtés et attachements (attachment)
+2.5. PP et niveau avancé : idiomatismes, registre, écriture professionnelle
+
+PARTIE II — Niveau débutant : les prépositions de base et leurs groupes
+3. Les prépositions fondamentales de lieu
+
+3.1. in / on / at : logique générale et “mental maps”
+3.2. Différence in the room / at home / on the bus
+3.3. Mouvement vs position : in vs into, on vs onto
+3.4. Relations spatiales : under, over, above, below, next to, between, among
+3.5. Orientation : in front of, behind, across from, near, by
+3.6. Erreurs typiques francophones (calques)
+
+4. Les prépositions fondamentales de temps
+
+4.1. in / on / at pour le temps : in 2026, on Monday, at 5 pm
+4.2. Durée : for / during / over
+4.3. Point de départ : since / from
+4.4. Date limite : by vs until/till
+4.5. Antériorité : before / after
+4.6. Expressions figées : at night, in the morning, on the weekend (variantes US/UK)
+
+5. Les prépositions de direction et trajectoire
+
+5.1. to, toward(s), into, onto
+5.2. through, across, along, past, around
+5.3. Destination vs but : to London vs for a meeting
+5.4. Verbes fréquents + PP : go to, come from, walk across, etc.
+
+6. Les prépositions utiles du quotidien
+
+6.1. Cause/raison : because of, due to (initiation)
+6.2. But : for, to (distinction simple)
+6.3. Moyen : by, with
+6.4. Possession/relation : of
+6.5. Thème : about
+6.6. Compagnie : with
+6.7. Opposition : against
+
+7. Construire des groupes prépositionnels simples
+
+7.1. Complément nominal : in the city
+7.2. Complément pronominal : with him, for them
+7.3. Chaînes courtes : in the box on the table
+7.4. Placement dans la phrase : début, milieu, fin (bases)
+
+PARTIE III — Niveau intermédiaire : fonctions grammaticales et structures fréquentes
+8. Les fonctions d’un groupe prépositionnel
+
+8.1. PP adverbial : complément de circonstance (She works in Dakar.)
+8.2. PP adjectival : complément du nom (the man in the hat)
+8.3. PP complément d’adjectif : afraid of, good at, interested in
+8.4. PP complément de verbe : rely on, look at, apply for
+8.5. PP complément de phrase (sentence-level adjunct) : In fact, …
+
+9. “Argument” vs “Adjunct” : obligatoire ou optionnel ?
+
+9.1. PP exigé par le verbe : depend on X
+9.2. PP optionnel : sleep on the sofa (lieu non obligatoire)
+9.3. Tests pratiques : suppression, déplacement, paraphrase
+9.4. Effets sur le sens : He looked at her vs He looked for her
+
+10. Les prépositions et leurs compléments : formes possibles
+
+10.1. Nom/groupe nominal : in the new office
+10.2. Pronom : to me, for us
+10.3. Gérondif (-ing) après préposition : interested in learning
+10.4. wh- clause : about what you said, from where you came
+10.5. La rareté et le style des infinitifs après préposition (exceptions et tournures)
+
+11. Prépositions vs particules : comprendre les phrasal verbs
+
+11.1. Différence : look up the word (particule) vs look up at the sky (préposition)
+11.2. Tests de séparation : pick the book up / pick up the book
+11.3. Ambiguïtés : run into, turn on, get over
+11.4. Fréquence et impact sur la maîtrise professionnelle
+
+12. PP et relatives / descriptions
+
+12.1. PP post-modifiant : the report on cybersecurity
+12.2. Chaînes descriptives : the issue in the system on the server in Paris
+12.3. Contrôle de la clarté : éviter les “piles” de PP
+12.4. Reformulation : relatives, appositions, nominalisations
+
+PARTIE IV — Niveau avancé : contraintes, choix fin, ambiguïtés, style
+13. Prépositions dépendantes : collocations incontournables
+
+13.1. Verbes + prépositions (listes structurées par sens)
+13.2. Adjectifs + prépositions
+13.3. Noms + prépositions : solution to, reason for, impact on
+13.4. Prépositions sensibles au registre : regarding vs about
+13.5. Méthode pour apprendre : regroupement sémantique, corpus, exemples
+
+14. Prépositions complexes et multi-mots
+
+14.1. Groupes comme in spite of, because of, due to, according to
+14.2. Différences de sens et de formalité
+14.3. Gestion de la ponctuation autour de ces groupes
+14.4. Pièges : despite (sans of) vs in spite of
+
+15. Attachement (PP attachment) : éviter les ambiguïtés
+
+15.1. Ambiguïté classique : I saw the man with a telescope
+15.2. Attachement au verbe vs au nom
+15.3. Techniques de désambiguïsation : déplacement, reformulation, ajout de relative
+15.4. Cas fréquents en anglais professionnel (emails, rapports, specs)
+
+16. Préposition en fin de phrase (stranding) vs style formel
+
+16.1. Who are you talking to? (oral naturel)
+16.2. To whom are you talking? (formel, rare)
+16.3. Règles modernes : quand c’est naturel vs quand éviter
+16.4. Stranding dans les relatives : the person I spoke to
+16.5. Impact sur la clarté et sur la “voix” (tone)
+
+17. PP et passif / nominalisation
+
+17.1. PP et agent : by + agent
+17.2. PP et instrument : with + tool
+17.3. Nominalisations + PP : implementation of, approval by
+17.4. Écriture administrative : densité de PP et solutions de simplification
+
+18. PP dans les comparaisons et structures avancées
+
+18.1. different from / different to / different than (variations)
+18.2. compared to vs compared with
+18.3. in terms of, with respect to, as regards
+18.4. based on vs depending on vs according to
+
+PARTIE V — Niveau expert / professionnel : précision, registres, rédaction et discours
+19. Choisir la bonne préposition : précision sémantique
+
+19.1. Nuances : in vs within, on vs upon
+19.2. by vs via vs through (processus, canal, moyen)
+19.3. for vs to vs toward (but, destination, intention)
+19.4. over vs during vs throughout (durée et couverture)
+19.5. under (conditions) : under the terms of, under pressure
+19.6. at (cible/point) : aim at, good at, at risk
+19.7. of (relation) : risk of, type of, number of
+
+20. Registres : conversation, business, académique, juridique
+
+20.1. Registre neutre : prépositions courantes
+20.2. Business : regarding, concerning, in line with, in accordance with
+20.3. Académique : with regard to, in relation to, in the context of
+20.4. Juridique : pursuant to, in compliance with, subject to
+20.5. Ton et politesse : in case of vs in the event of
+20.6. Sur-formalisation : quand c’est trop lourd
+
+21. PP et écriture technique (IT, ingénierie, documentation)
+
+21.1. Décrire un système : on the server, in the database, at runtime
+21.2. Conditions et exceptions : under load, in case of failure
+21.3. Causalité : due to, because of, as a result of
+21.4. Processus : by using, through applying, via API
+21.5. Spécifications : réduire l’ambiguïté, éviter les chaînes de PP
+21.6. Style guidelines : cohérence terminologique et prépositions
+
+22. PP et argumentation : logique et cohésion
+
+22.1. Connecteurs prépositionnels : in addition to, in contrast to, in response to
+22.2. Structurer une idée : from this perspective, in this context
+22.3. Clarifier des limitations : within the scope of, outside of (controversé)
+22.4. Nuancer : to some extent, in part, in principle
+
+23. PP et idiomes professionnels
+
+23.1. Idiomes courants : on the same page, in the loop, under the weather
+23.2. Collocations business : on behalf of, in charge of, in line with
+23.3. Idiomes juridiques/contractuels : in breach of, in accordance with
+23.4. Risques d’idiomes : contexte culturel, ton, clarté
+23.5. Alternatives “safe” et neutres
+
+24. PP et style : concision, lisibilité, force
+
+24.1. Quand les PP rendent une phrase lourde
+24.2. Réécriture : remplacer des PP par verbes plus directs
+24.3. Réduire les répétitions : variété contrôlée (regarding, about, concerning)
+24.4. Empilement de PP : stratégies de découpage
+24.5. Ponctuation : virgules, incises, parenthèses
+24.6. Rythme et emphasis : PP en tête de phrase pour cadrer
+
+PARTIE VI — Points difficiles et erreurs fréquentes (spécial francophones)
+25. Confusions classiques
+
+25.1. in vs at (lieu), in vs on (surface/transport)
+25.2. since vs for
+25.3. by vs until
+25.4. during vs while
+25.5. between vs among
+25.6. in vs into
+25.7. on vs onto
+25.8. to vs for
+
+26. Interférences du français (calques)
+
+26.1. “discuter de” → discuss (sans about) vs talk about
+26.2. “demander à” → ask someone vs ask for
+26.3. “expliquer à” → explain to (oui) mais describe to (moins)
+26.4. “dépendre de” → depend on (pas of)
+26.5. “marié avec” → married to
+26.6. “intéressé par” → interested in
+26.7. “répondre à” → reply to / respond to
+
+27. Cas particuliers de grammaire
+
+27.1. Préposition + pronom : me/him/them vs I/he/they
+27.2. whom : quand utile, quand éviter
+27.3. Accord et style dans relatives
+27.4. Prépositions “orphelines” en questions et relatives (stranding)
+
+PARTIE VII — Maîtrise pratique : entraînement, correction, progression
+28. Progression d’apprentissage structurée
+
+28.1. Plan débutant (4–6 semaines) : temps/lieu + phrases courtes
+28.2. Plan intermédiaire (6–10 semaines) : verbes/adjectifs + prépositions
+28.3. Plan avancé (10–16 semaines) : style, ambiguïtés, écriture
+28.4. Plan pro (continu) : corpus, relecture, production écrite/orale
+
+29. Exercices gradués (de simple à expert)
+
+29.1. Remplir les blancs (prépositions de base)
+29.2. Transformation : reformuler sans changer le sens
+29.3. Correction d’erreurs (error spotting)
+29.4. Classement sémantique : regrouper par usage (temps/lieu/moyen)
+29.5. Attachement : choisir l’interprétation correcte
+29.6. Style : remplacer des PP lourds par structures plus claires
+29.7. Production : rédiger des emails/rapports avec contraintes
+
+30. Outils de vérification et autonomie
+
+30.1. Dictionnaires d’usage et collocations
+30.2. Corpus (COCA, BNC, iWeb, etc.) : vérifier les prépositions naturelles
+30.3. Grammaires de référence
+30.4. Méthode de “flashcards intelligentes” (exemples complets, pas mots isolés)
+30.5. Journal d’erreurs personnel : catégoriser par type de PP
+30.6. Checklist pro de relecture : prépositions, clarté, registre
+
+PARTIE VIII — Annexes : listes, référentiels, ressources et parcours métier
+31. Répertoire : prépositions et usages (catalogue structuré)
+
+31.1. Prépositions de lieu (liste + exemples)
+31.2. Prépositions de temps (liste + exemples)
+31.3. Mouvement/trajectoire
+31.4. Cause/but/conséquence
+31.5. Moyen/instrument
+31.6. Relation/possession/partie-tout (of)
+31.7. Opposition/concession (despite, in spite of)
+31.8. Comparaison et référence (like/as, in terms of)
+
+32. Répertoire : collocations professionnelles essentielles
+
+32.1. 100 verbes fréquents + préposition
+32.2. 100 adjectifs fréquents + préposition
+32.3. 100 noms fréquents + préposition
+32.4. Expressions business et académiques prêtes à l’emploi
+32.5. Variantes US/UK utiles au travail
+
+33. Parcours “niveau professionnel”
+
+33.1. Objectifs mesurables : précision, fluidité, style, registre
+33.2. Production écrite : emails, comptes-rendus, rapports, documentation
+33.3. Production orale : réunions, présentations, négociation
+33.4. Réduction d’ambiguïté : techniques de reformulation
+33.5. Standardisation : cohérence terminologique et prépositions
+33.6. Préparer des tests (TOEFL/IELTS/Cambridge) : PP typiques
+
+34. Évaluation et certification interne
+
+34.1. Grille de compétences PP (A1 → C2 / Pro)
+34.2. Tests par domaine : lieu/temps, collocations, style
+34.3. Évaluation rédactionnelle : clarté et concision
+34.4. Évaluation de compréhension : ambiguïtés et interprétation
+34.5. Plan de consolidation long terme
+
+===========================================================================groupe prépositionnel
+
 
 
 ===========================================================================groupe verbal
