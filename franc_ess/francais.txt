@@ -1,0 +1,1353 @@
+===========================================================================groupe nominal 
+PARTIE I — Bases essentielles : comprendre ce qu’est un groupe nominal
+
+Présentation générale du groupe nominal (GN)
+1.1. Définition simple et définition académique
+-1.2. À quoi sert un groupe nominal dans une phrase
+1.3. GN, nom, syntagme nominal : vocabulaire et nuances
+1.4. GN vs groupe verbal (GV) : repères rapides
+1.5. GN vs groupe prépositionnel (GP) : ne pas confondre
+1.6. GN minimal et GN étendu : première distinction
+1.7. GN dans la grammaire scolaire et dans la grammaire moderne
+1.8. Terminologie utile (tête, noyau, déterminant, expansion, complément, apposition)
+
+Reconnaître un groupe nominal en contexte (niveau débutant)
+2.1. Test d’identification : “de quoi parle-t-on ?”
+2.2. Repérer la tête nominale (le mot central)
+2.3. Identifier les limites du GN (où il commence, où il finit)
+2.4. GN sujet, GN objet : premiers repérages
+2.5. GN isolé, GN dans une phrase longue : stratégies de découpage
+2.6. Erreurs fréquentes chez les débutants (et comment les éviter)
+
+Les composants indispensables du GN
+3.1. La tête (nom commun, nom propre, pronom, infinitif nominalisé)
+3.2. Le déterminant : rôle et importance
+3.3. Accord de base : genre et nombre dans le GN
+3.4. GN sans déterminant : cas possibles (noms propres, emplois particuliers)
+
+PARTIE II — Le nom, cœur du groupe nominal
+4. Le nom : nature, catégories, comportement
+4.1. Nom commun vs nom propre : critères et emplois
+4.2. Nom concret vs nom abstrait : impact sur les expansions
+4.3. Nom comptable vs nom massif (du pain / un pain)
+4.4. Nom collectif (une foule, une équipe) et accords délicats
+4.5. Nom épicène, masculin/féminin, doublets et formes inclusives
+4.6. Nom dérivé et nom simple : suffixation et sens
+5. Genre et nombre : maîtriser les accords au sein du GN
+5.1. Genre grammatical et genre naturel : distinction
+5.2. Formation du féminin : régularités et exceptions
+5.3. Pluriel des noms : règles et cas particuliers
+5.4. Pluriel des noms composés : typologie et règles
+5.5. Cas délicats : accords avec “la plupart”, “une majorité”, “un ensemble de”
+5.6. Accords sémantiques vs accords grammaticaux
+6. Valeur sémantique du nom dans le GN
+6.1. Référence : désigner un individu, une classe, une notion
+6.2. Générique vs spécifique (le chat / un chat / des chats)
+6.3. Définition, description, catégorisation
+6.4. Effets de sens liés aux expansions (épithète vs complément du nom)
+
+PARTIE III — Les déterminants : choix, sens, précision
+7. Le déterminant : rôle et familles
+7.1. Déterminant obligatoire ou non : cas et exceptions
+7.2. Déterminants définis (le, la, les) : valeurs et emplois
+7.3. Déterminants indéfinis (un, une, des) : introduction d’un référent
+7.4. Déterminants partitifs (du, de la, de l’) : masse et quantité
+7.5. Déterminants possessifs : ancrage au possesseur
+7.6. Déterminants démonstratifs : deixis (ce, cette, ces)
+7.7. Déterminants interrogatifs et exclamatifs : “quel”, “quelle”
+7.8. Déterminants numéraux : cardinal, ordinal
+7.9. Déterminants indéfinis complexes (plusieurs, certains, chaque, tout)
+8. “De”, “des”, “du” : les pièges classiques
+8.1. “Des” article indéfini vs “des” contraction de “de + les”
+8.2. La règle de “des” → “de” devant adjectif (et ses limites)
+8.3. Négation : “pas de” et la disparition de l’article
+8.4. “De” après quantité (beaucoup de, un peu de)
+8.5. “De” avec complément du nom (un verre de…)
+8.6. “De” dans la langue formelle vs la langue courante
+9. Les déterminants et le sens (niveau intermédiaire)
+9.1. Déterminant et précision : connu vs inconnu
+9.2. Valeur générique du défini (“Le lion est…”)
+9.3. Valeur distributive (“Chaque élève…”)
+9.4. Valeur totalisante (“Tout le monde”, “toute la journée”)
+9.5. Effets stylistiques : emphase, proximité, ironie (“ce” démonstratif)
+
+PARTIE IV — Les expansions du nom : enrichir le GN
+10. Panorama des expansions
+10.1. Définition d’une expansion du nom
+10.2. GN minimal vs GN enrichi : intérêt communicatif
+10.3. Différence entre expansion et déterminant
+10.4. Position, mobilité et hiérarchie des expansions
+11. L’adjectif qualificatif dans le GN
+11.1. Épithète liée vs épithète détachée
+11.2. Place de l’adjectif : avant/après le nom (règle et effets de sens)
+11.3. Accords de l’adjectif : règles, exceptions, cas complexes
+11.4. Adjectifs relationnels vs qualificatifs (une politique scolaire vs une politique efficace)
+11.5. Comparatif et superlatif dans le GN
+11.6. Adjectifs de couleur : accords et cas particuliers
+11.7. Adjectifs composés et locutions adjectivales (bleu clair, socio-économique)
+12. Le complément du nom (groupe prépositionnel)
+12.1. Définition et structure (nom + de/à/en/avec…)
+12.2. Complément essentiel vs complément circonstanciel interne au GN
+12.3. Valeurs de “de” : possession, matière, origine, contenu, cause
+12.4. Valeurs de “à” : destination, appartenance, caractérisation
+12.5. Enchaînements : GN à expansions multiples (la décision du comité de crise…)
+12.6. Ambiguïtés et résolutions (le portrait de Marie : portrait fait par / représentant)
+13. La proposition subordonnée relative (PSR)
+13.1. Rôle : préciser, identifier, apporter une information
+13.2. Relatives déterminatives vs explicatives
+13.3. Pronoms relatifs : qui, que, dont, où, lequel…
+13.4. Accord du participe passé dans la relative : points clés
+13.5. Relatives avec antécédent complexe
+13.6. Relatives imbriquées : lecture et ponctuation
+13.7. Relatives réduites (participe présent, participe passé)
+14. L’apposition et la mise en incise
+14.1. Apposition simple (Paris, capitale…)
+14.2. Apposition développée (groupes nominaux longs)
+14.3. Virgules : rôle dans la segmentation du GN
+14.4. Apposition vs complément du nom : critères pour trancher
+15. Les expansions avancées
+15.1. Compléments adjectivaux (fier de…, prêt à…) dans le GN
+15.2. GN + infinitif (la décision de partir)
+15.3. Nominalisations (la création, l’observation, l’évaluation…)
+15.4. Structures figées et semi-figées (prise de décision, chef-d’œuvre)
+15.5. Empilement d’expansions : lisibilité et organisation
+
+PARTIE V — Fonctions du groupe nominal dans la phrase
+16. Les fonctions essentielles
+16.1. GN sujet : repérage, accords avec le verbe
+16.2. GN complément d’objet direct (COD) : tests
+16.3. GN complément d’objet indirect (COI) et rôle des prépositions
+16.4. GN attribut du sujet / attribut du COD
+16.5. GN complément du nom (rappel fonctionnel)
+16.6. GN complément circonstanciel (quand un GN joue ce rôle)
+17. Fonctions avancées et cas particuliers
+17.1. GN en apostrophe (fonction d’interpellation)
+17.2. GN détaché (mise en relief, dislocation)
+17.3. GN en reprise pronominale (cohésion textuelle)
+17.4. GN dans les constructions passives
+17.5. GN dans les phrases elliptiques (titres, listes, styles télégraphiques)
+
+PARTIE VI — Pronoms et substitutions : manipuler le GN
+18. Le pronom comme substitut du GN
+18.1. Pourquoi substituer un GN : éviter répétitions, structurer le texte
+18.2. Pronoms personnels : formes, places, contraintes
+18.3. Pronoms démonstratifs (celui, celle, ceux, ce…)
+18.4. Pronoms possessifs (le mien, la tienne…)
+18.5. Pronoms indéfinis (quelqu’un, chacun, rien, tout)
+18.6. “En” et “y” : reprise d’un GN partitif / prépositionnel
+18.7. Antécédent, référence, ambiguïté : bonnes pratiques
+19. Transformations et tests de grammaire (niveau intermédiaire)
+19.1. Effacement : ce qu’on peut supprimer sans casser le GN
+19.2. Déplacement : mobilité des expansions
+19.3. Substitution : nom ↔ pronom ↔ groupe nominal équivalent
+19.4. Interrogation : “qui ? quoi ? lequel ?”
+19.5. Pronominalisation et accords : pièges fréquents
+
+PARTIE VII — Coordination, juxtaposition et structures complexes
+20. GN coordonnés et juxtaposés
+20.1. Coordination par “et”, “ou”, “mais”, “ni”
+20.2. Accord avec sujets multiples (Paul et Marie sont…)
+20.3. Coordination interne au GN (un homme grand et discret)
+20.4. Coordination d’expansions (deux compléments du nom, deux adjectifs)
+20.5. Juxtaposition : virgules, rythme, style
+21. GN complexes : lecture et hiérarchie
+21.1. Déterminer la tête quand le GN est long
+21.2. Groupes emboîtés (le frère de la voisine de…)
+21.3. Ambiguïtés structurelles et méthodes de désambiguïsation
+21.4. Ponctuation et segmentation : rendre le GN lisible
+21.5. GN dans les textes techniques et administratifs
+
+PARTIE VIII — Valeurs sémantiques et pragmatiques du GN (niveau avancé)
+22. Référence, deixis, anaphore
+22.1. GN référentiel vs non référentiel
+22.2. Déixis : ancrer dans la situation (ce, cette, ici)
+22.3. Anaphore : reprendre un élément du discours
+22.4. Cataphore : annoncer avant de préciser
+22.5. Chaînes de référence et cohésion textuelle
+23. Quantification et détermination
+23.1. Quantifieurs (beaucoup de, peu de, trop de)
+23.2. Mesure et unité (un kilo de, une série de)
+23.3. Partitif et lecture “masse”
+23.4. Généricité (un X, le X, des X)
+23.5. Interprétation en contexte (polysémie déterminant + nom)
+24. Spécialisation du sens par les expansions
+24.1. Épithète descriptive vs classifiante
+24.2. Relative déterminative : identifier vs ajouter une info
+24.3. Complément du nom : relations sémantiques (agent, patient, matière, thème)
+24.4. Métaphore et GN : effets d’image
+24.5. GN et implicites : présupposés, sous-entendus
+
+PARTIE IX — Orthographe, accords et difficultés fréquentes
+25. Accords internes au GN : maîtrise experte
+25.1. Accord déterminant–nom–adjectif : révisions complètes
+25.2. Adjectifs antéposés : accord et exceptions
+25.3. Accord des participes employés comme adjectifs
+25.4. Cas avec “demi”, “nu”, “feu”, “ci-joint”, “ci-inclus”
+25.5. Noms propres au pluriel : règles et usages
+26. GN et ponctuation
+26.1. Virgules avec appositions et relatives explicatives
+26.2. Ponctuation des listes nominales
+26.3. Parenthèses et tirets : incises nominales
+26.4. Titres et sous-titres : GN sans verbe
+27. Erreurs typiques (du collège à l’université)
+27.1. Mauvais choix de déterminant (sens changé)
+27.2. Confusion complément du nom / complément de phrase
+27.3. Relatives mal rattachées (antécédent ambigu)
+27.4. GN trop long : perte de clarté
+27.5. Accord “au sens” mal maîtrisé
+
+PARTIE X — Stylistique et écriture professionnelle avec le GN
+28. Clarté rédactionnelle : optimiser les GN
+28.1. Alléger un GN sans perdre l’information
+28.2. Réorganiser les expansions (ordre et priorité)
+28.3. Éviter les cascades de “de”
+28.4. Éviter les nominalisations excessives (style administratif)
+28.5. Préférer l’action au nom : quand transformer le GN en verbe
+29. GN selon les registres et les genres de textes
+29.1. GN en narration : précision, ambiance, rythme
+29.2. GN en argumentation : définir, catégoriser, nuancer
+29.3. GN en texte scientifique : rigueur terminologique
+29.4. GN en texte juridique/administratif : stabilité et référence
+29.5. GN dans la presse : titres nominaux, accroches
+29.6. GN en communication marketing : impact, mémorisation
+30. Cohérence terminologique et chaînes nominales
+30.1. Uniformiser les désignations (termes, sigles, reformulations)
+30.2. Introduire un référent puis le maintenir (défini, démonstratif, pronom)
+30.3. Gérer les synonymes sans créer de confusion
+30.4. Références croisées dans les documents longs
+
+PARTIE XI — Analyse linguistique approfondie (niveau “professionnel”)
+31. Approches grammaticales du GN
+31.1. Grammaire traditionnelle : catégories et fonctions
+31.2. Grammaire moderne : notion de tête et de constituants
+31.3. Analyse en constituants : segmentation et tests
+31.4. GN et détermination : analyses syntaxiques avancées
+32. GN et syntaxe de phrase
+32.1. Dislocation (Ce livre, je l’ai lu) : rôle des GN
+32.2. Clivage (C’est ce livre que…)
+32.3. Extraction et relatives complexes
+32.4. Passif et promotion du GN (objet → sujet)
+32.5. Accord sujet-verbe avec GN lourds
+33. GN, sémantique et pragmatique
+33.1. Définition vs description : types de GN
+33.2. Référence et identification en contexte
+33.3. Présupposition portée par le défini
+33.4. Notions de saillance et accessibilité du référent
+34. Variation, normes et évolutions
+34.1. Usages contemporains (tendances de simplification/complexification)
+34.2. Variation régionale (français de différents espaces)
+34.3. Variation sociolectale et registres
+34.4. Norme prescriptive vs description des usages
+34.5. Langage inclusif et GN : enjeux, options, cohérence
+
+PARTIE XII — Applications “métiers” : enseignement, correction, édition, NLP
+35. Enseigner le groupe nominal (pédagogie)
+35.1. Progression du débutant à l’avancé
+35.2. Diagnostiquer les erreurs récurrentes
+35.3. Construire des exercices ciblés (délimitation, accords, expansions)
+35.4. Évaluer la maîtrise du GN (critères, niveaux)
+36. Correction et révision professionnelle
+36.1. Checklist de relecture centrée sur le GN
+36.2. Détection d’ambiguïtés référentielles
+36.3. Harmonisation terminologique (documents techniques)
+36.4. Réécriture : transformer des GN lourds en structures plus claires
+36.5. Style institutionnel : concision vs précision
+37. GN et traitement automatique des langues (TAL/NLP)
+37.1. Groupes nominaux et “chunks” : principes
+37.2. Repérage automatique (étiquetage morpho-syntaxique)
+37.3. Analyse en dépendances : tête nominale et expansions
+37.4. Résolution de coréférence : chaînes de GN
+37.5. Extraction d’entités nommées : lien avec les GN
+37.6. Limites : ambiguïtés, ellipses, style télégraphique
+38. GN dans les corpus et la recherche
+38.1. Annotation de GN : schémas et conventions
+38.2. Mesurer la complexité des GN (longueur, profondeur, densité d’expansions)
+38.3. Études de style : nominalisation et lisibilité
+38.4. Comparaisons inter-genres (presse, roman, juridique, scientifique)
+
+PARTIE XIII — Consolidation et maîtrise : parcours de compétence
+39. Parcours “débutant → intermédiaire”
+39.1. Objectifs : identifier, délimiter, accorder
+39.2. Compétences-clés : déterminants, adjectifs simples, compléments du nom
+39.3. Indicateurs de réussite : phrases courtes et textes simples
+40. Parcours “intermédiaire → avancé”
+40.1. Objectifs : relatives, appositions, GN complexes
+40.2. Compétences-clés : sens des déterminants, ambiguïtés, cohésion
+40.3. Indicateurs de réussite : textes structurés, style contrôlé
+41. Parcours “avancé → professionnel”
+41.1. Objectifs : précision terminologique, lisibilité, cohérence référentielle
+41.2. Compétences-clés : réécriture, normes, analyse fine
+41.3. Indicateurs de réussite : production et révision de documents exigeants
+42. Annexes méthodologiques (optionnel dans un cursus)
+42.1. Glossaire complet des notions liées au GN
+42.2. Table des tests de reconnaissance (substitution, effacement, déplacement)
+42.3. Liste des cas d’accord délicats (fiches de référence)
+42.4. Grilles d’analyse d’un GN (du simple au complexe)
+42.5. Bibliographie commentée (grammaires, ouvrages, ressources)
+===========================================================================groupe nominal 
+
+
+
+===========================================================================groupe prépositionnel
+
+PARTIE I — Fondations : comprendre ce qu’est un groupe prépositionnel (GP)
+
+Vue d’ensemble
+1.1. Définition du groupe prépositionnel
+1.2. Pourquoi le GP est central en français (sens, précision, style)
+1.3. GP, préposition et complément : distinctions essentielles
+1.4. Ce que le GP n’est pas : confusions fréquentes (adverbes, locutions, subordonnées)
+
+Structure minimale et structure étendue d’un GP
+2.1. Schéma de base : Préposition + terme (complément)
+2.2. Le “terme” d’une préposition : ce qui peut suivre une préposition
+2.2.1. Nom / GN (groupe nominal)
+2.2.2. Pronom (moi, toi, lui, elle, eux, y, en…)
+2.2.3. Infinitif (avant de partir)
+2.2.4. Proposition (cas limites : “quant à ce que…”, “jusqu’à ce que…”)
+2.2.5. Adverbe ou groupe adverbial (jusqu’ici, d’ici loin)
+2.3. Expansion interne : déterminants, adjectifs, compléments du nom
+2.4. Coordination de GP (dans la rue et sous le pont)
+2.5. Juxtaposition et accumulation (à Paris, en été, le soir)
+
+Identifier un GP dans une phrase
+3.1. Tests simples : suppression, déplacement, substitution
+3.2. Indices de surface : prépositions simples vs locutions prépositives
+3.3. Reconnaître le terme du GP (où commence et où finit le groupe)
+3.4. Cas piégeux d’identification
+3.4.1. “de” article partitif vs “de” préposition
+3.4.2. “à” préposition vs marque d’infinitif / datif
+3.4.3. “en” préposition vs pronom “en”
+3.4.4. “y” : adverbe/pronom vs repère spatial
+3.4.5. “chez”, “contre”, “vers” : sens multiples et frontières floues
+
+PARTIE II — Niveau débutant : les prépositions et les GP les plus courants
+4. Les prépositions de base : sens principal et usage
+4.1. à : destination, attribution, moment, manière
+4.2. de : origine, possession, matière, cause
+4.3. en : matière, moyen, lieu (en France), temps (en été)
+4.4. dans : intérieur, délai (dans deux jours)
+4.5. sur : surface, thème (sur ce sujet)
+4.6. sous : position inférieure, protection (sous garantie)
+4.7. avec : accompagnement, moyen
+4.8. sans : absence, privation
+4.9. pour : but, destinataire, durée
+4.10. par : agent (passif), moyen, distribution
+4.11. chez : domicile, professionnel (chez le médecin)
+4.12. entre : relation, intervalle
+4.13. vers : direction, approximation
+
+GP de lieu : se repérer et nuancer
+5.1. Localisation statique : à / dans / sur / sous / entre
+5.2. Origine et provenance : de / depuis / à partir de
+5.3. Direction : vers / jusqu’à / en direction de
+5.4. Pays, villes, régions : à / en / au / aux / de / du / des
+5.5. Lieux institutionnels : à l’école / au travail / en classe
+5.6. “chez” vs “à” : domicile, commerce, professionnels
+5.7. Exercices-type : décrire un trajet, un plan, une position
+
+GP de temps : situer, durer, rythmer
+6.1. Moment : à midi, en 2026, le lundi (comparaison)
+6.2. Durée : pendant, durant, en (en deux heures)
+6.3. Point de départ : depuis, dès, à partir de
+6.4. Limite : jusqu’à, avant, après
+6.5. Fréquence : tous les…, une fois par…, chaque… (comparaison)
+6.6. Délai : dans (dans deux jours)
+6.7. Exercices-type : agenda, chronologie, narration simple
+
+GP de manière, moyen et accompagnement
+7.1. Manière : avec, sans, de + GN (d’un ton calme)
+7.2. Moyen / instrument : avec, à, par (selon le contexte)
+7.3. Accompagnement : avec, en compagnie de
+7.4. “en” de manière : en silence, en détail
+7.5. Exercices-type : décrire une action, donner des consignes
+
+GP de cause, but, conséquence (premiers repères)
+8.1. Cause : à cause de, grâce à, en raison de
+8.2. But : pour, afin de, en vue de
+8.3. Opposition simple : malgré, en dépit de
+8.4. Exercices-type : justifier, expliquer, convaincre (niveau simple)
+
+PARTIE III — Niveau intermédiaire : fonctions grammaticales du groupe prépositionnel
+9. Les grandes fonctions du GP dans la phrase
+9.1. Complément circonstanciel (lieu, temps, manière, cause, but, etc.)
+9.2. Complément du nom (une tasse de thé, la maison en pierre)
+9.3. Complément de l’adjectif (fier de, utile à, responsable de)
+9.4. Complément du verbe (parler de, dépendre de, penser à)
+9.5. Attribut et constructions proches (être en colère, être de bonne humeur)
+9.6. GP détaché (en tête / en fin) et incidence sur le sens
+9.7. GP incident / commentaire (à vrai dire, en bref : frontière adverbiale)
+
+GP et valence : ce que le verbe “exige”
+10.1. GP obligatoire vs GP facultatif
+10.2. Identifier un complément essentiel (test de suppression)
+10.3. Verbes à régime prépositionnel
+10.3.1. Verbes en “de” (parler de, se souvenir de, manquer de)
+10.3.2. Verbes en “à” (penser à, s’attendre à, renoncer à)
+10.3.3. Alternances “à/de” selon le sens (commencer à/de, continuer à/de)
+10.4. GP et construction passive : par / de (nuances)
+10.5. Exercices : reformuler en changeant de construction
+
+GP complément du nom : précision, classification, style
+11.1. “de” de possession/appartenance vs “à” (la voiture de Paul / à Paul)
+11.2. “de” matière (une table en bois / de bois : nuances)
+11.3. Complément de contenu (un verre de lait)
+11.4. Complément de thème (un livre sur l’histoire)
+11.5. Empilement de compléments (la description du plan de la ville…)
+11.6. Risques : ambiguïtés, lourdeur, répétitions
+11.7. Exercices : enrichir / alléger un groupe nominal
+
+GP complément de l’adjectif : collocations et contraintes
+12.1. Adjectifs fréquents avec “de” (capable de, content de…)
+12.2. Adjectifs fréquents avec “à” (prêt à, utile à…)
+12.3. Adjectifs avec “pour”, “envers”, “avec”, “contre”
+12.4. Sens et registre : nuances affectives et évaluatives
+12.5. Exercices : compléter, paraphraser, changer de préposition
+
+GP et pronominalisation : y / en et autres reprises
+13.1. Remplacer un GP de lieu : y
+13.2. Remplacer un GP introduit par de : en
+13.3. Limites : “penser à” → y ; “parler de” → en (mais pas toujours)
+13.4. Double pronominalisation et ordre des pronoms
+13.5. Exercices : transformation, dialogues, correction d’erreurs
+
+PARTIE IV — Perfectionnement : sens fin, choix de prépositions et pièges fréquents
+14. Sémantique des prépositions : du spatial à l’abstrait
+14.1. Sens prototypique et extensions métaphoriques
+14.2. “sur” (thème/pression) vs “à propos de”
+14.3. “dans” (cadre) vs “en” (mode/état)
+14.4. “à” (cible) vs “pour” (finalité/destinataire)
+14.5. “de” (source) vs “par” (agent/moyen)
+14.6. Approximations : vers, autour de, environ, aux alentours de
+
+Locutions prépositives : inventaire et maîtrise
+15.1. Qu’est-ce qu’une locution prépositive ?
+15.2. Locutions courantes (à côté de, au lieu de, grâce à, à cause de…)
+15.3. Locutions de registre soutenu (en vertu de, aux fins de, eu égard à…)
+15.4. Orthographe et soudure : pièges (auprès de / à l’égard de…)
+15.5. Exercices : substitution par préposition simple, reformulation
+
+Ambiguïtés et erreurs classiques
+16.1. Confusion “à / de / en / dans” (cas scolaires fréquents)
+16.2. Redondances (monter en haut, descendre en bas : quand c’est stylistique)
+16.3. Calques d’autres langues (influence de l’anglais : “sur” = on/about)
+16.4. “chez” mal employé (chez + lieu non humain)
+16.5. “de” après quantités : beaucoup de / plein de / assez de
+16.6. “à” après “commencer/continuer” : variations acceptées
+16.7. Exercices : diagnostic et correction commentée
+
+GP et ponctuation : clarté et rythme
+17.1. GP en tête de phrase : virgule obligatoire ou non
+17.2. Incises et parenthèses : encadrer un GP détaché
+17.3. Enchaînement de GP : lisibilité, respiration, segmentation
+17.4. Exercices : ponctuer, restructurer, alléger
+
+GP dans la phrase complexe : interfaces avec les subordonnées
+18.1. GP vs subordonnée circonstancielle (avant de / avant que)
+18.2. “jusqu’à” vs “jusqu’à ce que”
+18.3. “afin de” vs “afin que”
+18.4. “malgré” vs “bien que”
+18.5. Exercices : transformer GP ↔ subordonnée
+
+PARTIE V — Niveau avancé : analyse syntaxique, style et précision professionnelle
+19. Analyse syntaxique avancée du GP
+19.1. Tête du groupe : rôle de la préposition comme noyau
+19.2. Complémentation interne : GN, infinitif, proposition complétive
+19.3. Modifieurs du GP : adverbes, coordinations, restrictions
+19.4. Attachments (rattachements) : à quel mot se rattache le GP ?
+19.4.1. Ambiguïtés de rattachement (ex : “je vois l’homme avec le télescope”)
+19.4.2. Stratégies de désambiguïsation (ordre, reformulation)
+19.5. Extraction, dislocation, mise en relief (c’est… que/qui) avec GP
+19.6. Exercices : arbres simples, diagnostics de rattachement
+
+Variation de registre : neutralité, soutenu, administratif, technique
+20.1. GP neutres et efficaces (style clair)
+20.2. GP soutenus (eu égard à, au regard de, en matière de…)
+20.3. GP bureaucratiques : reconnaître et simplifier
+20.4. GP techniques : précision terminologique (domaine juridique, scientifique…)
+20.5. Exercices : réécriture selon registre (familier ↔ pro ↔ soutenu)
+
+GP dans l’argumentation : structurer une pensée
+21.1. GP pour cadrer le propos (du point de vue de, au sujet de)
+21.2. GP de cause/justification (en raison de, du fait de)
+21.3. GP de concession (malgré, en dépit de)
+21.4. GP de condition et restriction (à condition de, sous réserve de)
+21.5. GP de comparaison et norme (par rapport à, conformément à)
+21.6. Exercices : construire un paragraphe argumentatif cohérent
+
+GP et cohésion textuelle : reprises, progression, thèmes
+22.1. Reprise par pronoms (y/en) et par reformulations
+22.2. GP “cadres” en début de paragraphe (Dans ce contexte…, Sur ce point…)
+22.3. Éviter la répétition des mêmes prépositions (variation stylistique)
+22.4. Exercices : améliorer la cohésion d’un texte
+
+GP dans l’écriture professionnelle (niveau “pro”)
+23.1. E-mails : formules et précisions (au sujet de, concernant, à propos de)
+23.2. Rapports : cadrage (en termes de, dans le cadre de, au regard de)
+23.3. Contrats / juridique : précision (en vertu de, aux fins de, sous réserve de)
+23.4. Technique/IT : documentation claire (à l’aide de, via, au moyen de)
+23.5. Simplification : préférer le verbe à l’empilement de GP
+23.6. Exercices : réécriture “pro” (plus clair, plus court, plus exact)
+
+PARTIE VI — Maîtrise experte : nuances, exceptions, et style de haut niveau
+24. Nuances fines et oppositions difficiles
+24.1. “auprès de” vs “près de” vs “à côté de”
+24.2. “à travers” vs “par” vs “au moyen de”
+24.3. “d’après” vs “selon” vs “suivant”
+24.4. “envers” vs “contre” vs “à l’égard de”
+24.5. “quant à” vs “concernant” vs “sur”
+24.6. Exercices : choix motivé de la meilleure préposition
+
+Prépositions et corrections normatives
+25.1. Usages admis, recommandés, discutés
+25.2. Variations régionales et francophonie (France, Belgique, Québec, Afrique…)
+25.3. Évolutions contemporaines (tendances : “sur” thématique, “via”, etc.)
+25.4. Exercices : repérer les usages contestés, proposer alternatives
+
+GP et style : concision, élégance, densité informative
+26.1. Alléger les phrases trop “prépositionnelles”
+26.2. Transformer des GP en adjectifs, verbes, relatives (réécriture)
+26.3. Éviter l’ambiguïté par choix de structure
+26.4. Rythme : placer le GP pour guider le lecteur
+26.5. Exercices : avant/après (optimisation stylistique)
+
+Analyse de corpus : lire comme un pro
+27.1. GP dans la presse : cadrage, précision, neutralité
+27.2. GP en littérature : effets de style et images
+27.3. GP dans le discours politique/administratif : stratégie et flou
+27.4. GP dans les articles scientifiques : rigueur, limites, définitions
+27.5. Méthode d’analyse : identifier, classer, interpréter
+
+PARTIE VII — Atelier d’entraînement : progression, évaluations et pratique intensive
+28. Parcours d’apprentissage guidé (débutant → expert)
+28.1. Séquence A : reconnaître et former des GP
+28.2. Séquence B : fonctions (CC, complément du nom, du verbe, de l’adjectif)
+28.3. Séquence C : pronominalisation (y/en)
+28.4. Séquence D : locutions prépositives
+28.5. Séquence E : style, registre, réécriture pro
+
+Banques d’exercices gradués
+29.1. Niveau 1 : repérage (surligner les GP)
+29.2. Niveau 2 : compléter une phrase (choisir la bonne préposition)
+29.3. Niveau 3 : reformulation (GP ↔ subordonnée, GP ↔ adjectif/verbe)
+29.4. Niveau 4 : correction d’erreurs et justification
+29.5. Niveau 5 : production écrite (texte pro, synthèse, argumentation)
+
+Évaluations et critères de maîtrise
+30.1. Compréhension : reconnaître et expliquer la structure
+30.2. Exactitude : choix de la préposition (sens et norme)
+30.3. Fonction : identifier le rôle dans la phrase
+30.4. Style : concision, clarté, registre approprié
+30.5. Grille d’auto-correction et checklist
+
+Ressources et approfondissement
+31.1. Terminologie grammaticale utile (noyau, complément, expansion, rattachement)
+31.2. Dictionnaires et ouvrages de référence (grammaires, usuels)
+31.3. Méthodes de lecture : apprendre par exemples authentiques
+31.4. Plan de révision sur 30 jours / 90 jours / 6 mois
+
+PARTIE VIII — Annexes : outils pratiques et synthèses
+32. Tableaux récapitulatifs des prépositions et locutions
+32.1. Prépositions simples : sens principaux + exemples
+32.2. Locutions prépositives : classement par fonction (temps/lieu/cause/but…)
+32.3. Verbes à préposition fixe : listes essentielles
+32.4. Adjectifs à préposition fixe : listes essentielles
+
+Fiches “pièges” (anti-erreurs)
+33.1. à vs de
+33.2. en vs dans
+33.3. sur vs à propos de / concernant
+33.4. par vs de (agent)
+33.5. depuis vs pendant vs dans
+33.6. y vs en
+
+Lexique des notions avancées
+34.1. Rattachement (attachment) et ambiguïté structurelle
+34.2. Régime prépositionnel et valence verbale
+34.3. Détachement et incidence informationnelle
+34.4. Variation et norme
+
+Index thématique (pour révision rapide)
+35.1. GP de lieu
+35.2. GP de temps
+35.3. GP de cause / but / concession
+35.4. GP complément du nom
+35.5. GP complément du verbe
+35.6. GP complément de l’adjectif
+35.7. Locutions prépositives
+35.8. Pronominalisation (y/en)
+35.9. Style et réécriture professionnelle
+
+===========================================================================groupe prépositionnel
+
+
+===========================================================================groupe verbal
+
+PARTIE I — Fondations du groupe verbal en français
+
+Définition générale du groupe verbal
+1.1. Qu’est-ce qu’un groupe verbal
+1.2. Rôle du groupe verbal dans la phrase
+1.3. Groupe verbal, prédicat et phrase minimale
+1.4. Différence entre verbe, forme verbale et groupe verbal
+
+Identifier le verbe noyau
+2.1. Repérer le verbe conjugué
+2.2. Distinguer verbe principal, auxiliaire, semi-auxiliaire
+2.3. Cas particuliers : formes composées, verbes pronominaux, tournures figées
+
+Délimiter le groupe verbal
+3.1. Méthodes simples : questions, tests de déplacement, suppression
+3.2. Éléments obligatoires et facultatifs autour du verbe
+3.3. Erreurs fréquentes de délimitation chez les débutants
+
+Premiers outils d’analyse
+4.1. Notions de fonction et de nature
+4.2. Notions de complément, attribut, épithète
+4.3. Panorama des expansions possibles du verbe
+
+PARTIE II — Morphologie verbale et bases de conjugaison
+
+Les informations portées par le verbe
+1.1. Personne et nombre
+1.2. Temps, mode et aspect : aperçu d’ensemble
+1.3. Valeur de la terminaison et du radical
+
+Les groupes de verbes et leurs régularités
+2.1. 1er groupe : régularités, pièges orthographiques
+2.2. 2e groupe : critères fiables et faux amis
+2.3. 3e groupe : logiques de familles et irrégularités structurées
+
+Formation des temps simples
+3.1. Présent : valeurs et formes
+3.2. Imparfait : construction, alternances
+3.3. Futur simple : bases, irrégularités fréquentes
+3.4. Passé simple : reconnaissance, usages, bases de formation
+
+Les temps composés et les auxiliaires
+4.1. Principe de composition : auxiliaire + participe passé
+4.2. Choix de l’auxiliaire : avoir et être
+4.3. Verbes de mouvement, changement d’état, verbes pronominaux
+4.4. Temps composés majeurs : passé composé, plus-que-parfait, futur antérieur, passé antérieur
+
+Les formes non conjuguées
+5.1. Infinitif : valeurs et constructions
+5.2. Participe présent et gérondif : différences, emplois
+5.3. Participe passé : formes, accords, valeurs
+
+PARTIE III — Structure interne du groupe verbal
+
+Le noyau verbal et ses satellites
+1.1. Verbe simple et locution verbale
+1.2. Auxiliaires : rôle grammatical
+1.3. Semi-auxiliaires : commencer à, aller, venir de, devoir, pouvoir
+
+Place et rôle des adverbes dans le groupe verbal
+2.1. Adverbes de temps, manière, fréquence, intensité
+2.2. Adverbes de phrase et adverbes du verbe
+2.3. Position : avant/après le verbe, entre auxiliaire et participe
+
+La négation dans le groupe verbal
+3.1. Négation simple : ne…pas
+3.2. Négations complexes : ne…plus, ne…jamais, ne…rien, ne…personne, ne…aucun
+3.3. Négation restrictive : ne…que
+3.4. Négation sans « ne » à l’oral : norme et usage
+
+Pronoms dans le groupe verbal
+4.1. Pronoms personnels : sujets vs compléments
+4.2. Pronoms compléments : le, la, les, lui, leur, en, y
+4.3. Ordre des pronoms et combinaisons
+4.4. Place des pronoms avec les temps composés
+4.5. Particularités à l’impératif : donne-le-moi, n’en parle pas
+
+PARTIE IV — Valence du verbe et compléments essentiels
+
+Comprendre la valence verbale
+1.1. Notion d’arguments : qui fait quoi à qui
+1.2. Verbes monovalents, bivalents, trivalents
+1.3. Compléments essentiels vs circonstanciels
+
+Les compléments d’objet
+2.1. COD : identification et tests
+2.2. COI : identification et prépositions usuelles
+2.3. Complément d’objet second et double complémentation
+2.4. Subtilités : verbes à double construction, alternances COD/COI
+
+L’attribut lié au verbe
+3.1. Verbes attributifs : être, sembler, devenir, paraître, rester
+3.2. Attribut du sujet : accords et manipulations
+3.3. Attribut du COD : reconnaître, considérer, rendre, laisser
+
+Les compléments régis par le verbe
+4.1. Compléments prépositionnels essentiels : dépendre de, parler à
+4.2. Constructions figées : avoir besoin de, faire attention à
+4.3. Choix des prépositions : logique, usage, erreurs typiques
+
+PARTIE V — Compléments circonstanciels et expansion du groupe verbal
+
+Compléments de temps, lieu, manière, cause, but
+1.1. Types et valeurs sémantiques
+1.2. Mobilité et suppression : critères pratiques
+1.3. Accumulation de circonstanciels et hiérarchie
+
+Circonstanciels sous forme de groupes variés
+2.1. Groupe nominal, groupe prépositionnel, adverbe
+2.2. Proposition subordonnée circonstancielle
+2.3. Gérondif et participe présent à valeur circonstancielle
+
+Ponctuation et rythme autour du groupe verbal
+3.1. Virgules et segments circonstanciels
+3.2. Effets de style : incises, détachements, emphase
+
+PARTIE VI — Modes, temps et valeurs d’usage
+
+Les modes personnels
+1.1. Indicatif : raconter, informer, constater
+1.2. Subjonctif : volonté, doute, sentiment, jugement
+1.3. Conditionnel : hypothèse, politesse, information à confirmer
+1.4. Impératif : ordre, conseil, invitation
+
+Valeurs des temps de l’indicatif
+2.1. Présent : actuel, vérité générale, narration
+2.2. Imparfait : description, habitude, arrière-plan, irréel
+2.3. Passé composé : action achevée, bilan, lien avec le présent
+2.4. Passé simple : narration littéraire, actions successives
+2.5. Plus-que-parfait : antériorité, cause, regret
+2.6. Futur simple : projection, ordre atténué, supposition
+2.7. Futur antérieur : antériorité future, hypothèse
+
+Concordance des temps
+3.1. Enchaînement des temps dans le récit
+3.2. Subordonnées : complétives, relatives, circonstancielles
+3.3. Concordance avec le subjonctif
+3.4. Cas délicats : conditionnel, discours indirect, style soutenu
+
+PARTIE VII — Aspect, périphrases et modalisation
+
+Notions d’aspect
+1.1. Accompli vs inaccompli
+1.2. Ponctuel vs duratif
+1.3. Itératif et habituel
+1.4. Inchoatif, progressif, terminatif
+
+Périphrases aspectuelles fréquentes
+2.1. Être en train de : progressif
+2.2. Aller + infinitif : futur proche, imminence
+2.3. Venir de + infinitif : passé récent
+2.4. Commencer à, finir de, cesser de : phases de l’action
+
+Modalité et nuance de sens
+3.1. Devoir, pouvoir, vouloir, falloir : obligation, capacité, intention
+3.2. Faire + infinitif : causatif
+3.3. Laisser + infinitif : permission
+3.4. Semblant et apparence : sembler, paraître, avoir l’air de
+
+PARTIE VIII — Voix, diathèse et transformations
+
+Voix active et voix passive
+1.1. Construction du passif : être + participe passé
+1.2. Agent et complément d’agent : par, de
+1.3. Passif sans agent et effet discursif
+1.4. Limites : verbes non passivables, restrictions d’usage
+
+Construction pronominale
+2.1. Se laver : pronominal réfléchi
+2.2. Se rencontrer : pronominal réciproque
+2.3. Se souvenir : pronominal essentiellement pronominal
+2.4. Se vendre : pronominal à valeur passive
+2.5. Accords au pronominal : cas complexes
+
+Construction impersonnelle
+3.1. Il pleut : impersonnel lexical
+3.2. Il faut, il semble, il arrive que : impersonnel syntaxique
+3.3. Effets : neutralité, généralisation, atténuation
+
+Transformations et réécriture
+4.1. Actif ↔ passif
+4.2. Verbe support et nominalisation : faire une analyse / analyser
+4.3. Allègement : pronominalisation, ellipses contrôlées
+
+PARTIE IX — Subordination et groupe verbal étendu
+
+Complétives et propositions régies par le verbe
+1.1. Que + indicatif / subjonctif : choix motivé
+1.2. Si : interrogation indirecte et condition
+1.3. Infinitives : je pense venir, je le vois partir
+1.4. Interrogatives indirectes : je me demande si, ce que, comment
+
+Relatives et lien avec le groupe verbal
+2.1. Fonction de la relative : préciser un argument du verbe
+2.2. Pronoms relatifs : qui, que, dont, où, lequel
+2.3. Relatives sans antécédent : ce qui, ce que
+
+Circonstancielles avancées
+3.1. Temps : quand, lorsque, dès que, avant que
+3.2. Cause et conséquence : parce que, puisque, donc que
+3.3. Opposition et concession : bien que, quoique, même si
+3.4. But : pour que, afin que
+3.5. Condition : si, à condition que, pourvu que
+
+Modes et subordination
+4.1. Subjonctif : déclencheurs et exceptions
+4.2. Infinitif vs subordonnée : préférences de style
+4.3. Participe et gérondif : concision et ambiguïtés
+
+PARTIE X — Accords liés au groupe verbal et orthographe grammaticale
+
+Accord du verbe avec le sujet
+1.1. Sujets simples et complexes
+1.2. Sujets coordonnés : et, ou, ni
+1.3. Cas délicats : la plupart, une majorité, plus d’un, moins de deux
+1.4. Inversions et sujets éloignés
+1.5. Accord avec « on », « chacun », « personne »
+
+Accord du participe passé
+2.1. Avec avoir : règles et méthode COD
+2.2. Avec être : accord avec le sujet
+2.3. Verbes pronominaux : analyse par fonction de « se »
+2.4. COD pronominal : le, la, les, que
+2.5. « En » et « y » : particularités
+2.6. Cas réputés difficiles : fait + infinitif, laissé + infinitif, verbes de perception, tournures figées
+
+Temps composés et chaînes d’accords
+3.1. Auxiliaire + participe + compléments : risques d’erreurs
+3.2. Accords au passif
+3.3. Accord dans les relatives et subordonnées
+
+PARTIE XI — Ordre des mots, clitiques et phénomènes avancés
+
+Place des éléments dans le groupe verbal
+1.1. Position des pronoms compléments
+1.2. Place des adverbes selon le type de temps
+1.3. Négation et enchaînement : ne + pronoms + verbe
+1.4. Inversion et interrogations
+
+Interrogation et formes verbales
+2.1. Est-ce que, inversion simple, inversion complexe
+2.2. Interrogation partielle : qui, que, quoi, où, quand, comment, pourquoi
+2.3. Registres : oral, standard, soutenu
+
+Emphase et focalisation
+3.1. C’est… qui/que : mise en relief
+3.2. Détachement : lui, il comprend
+3.3. Topicalisation et reprise pronominale
+
+Ellipse et implicite
+4.1. Ellipse du verbe : titres, réponses courtes
+4.2. Coordination et économie : il lit et écrit
+4.3. Substitution et anaphores verbales : faire, le faire
+
+PARTIE XII — Sens, sélection et précision lexicale
+
+Sens du verbe et choix des constructions
+1.1. Polysémie : changer de sens selon la construction
+1.2. Verbes transitifs, intransitifs, ambitransitifs
+1.3. Verbes à préposition variable : penser à/de, parler à/de
+
+Nuances aspectuelles et temporelles
+2.1. Verbes d’état vs d’action
+2.2. Verbes ponctuels vs duratifs
+2.3. Impact sur l’emploi des temps
+
+Verbes fréquents et tournures professionnelles
+3.1. Verbes supports : effectuer, procéder, réaliser
+3.2. Précision vs lourdeur : styles administratifs, techniques, journalistiques
+3.3. Éviter les impropriétés et les calques
+
+PARTIE XIII — Registres, oral, écrit et variation
+
+Variation selon le registre
+1.1. Oral spontané : simplifications, absence de « ne », temps dominants
+1.2. Écrit standard : stabilité de la norme
+1.3. Écrit soutenu : passé simple, inversion, subjonctif plus présent
+
+Français régional et français de la francophonie
+2.1. Variations lexicales et tournures verbales
+2.2. Points sensibles : temps utilisés, périphrases, pronoms
+
+Évolution historique utile à la compréhension
+3.1. Disparitions et survivances : passé simple, subjonctif imparfait
+3.2. Fixation de certaines règles d’accord
+3.3. Tournures anciennes encore rencontrées en littérature
+
+PARTIE XIV — Maîtrise professionnelle : analyse, correction et production
+
+Analyse grammaticale experte du groupe verbal
+1.1. Méthode d’analyse systématique
+1.2. Arbre syntaxique simplifié : repérer noyau, expansions, fonctions
+1.3. Diagnostic des ambiguïtés : qui fait quoi, quel complément dépend de quoi
+1.4. Cas de phrases longues : segmentation et hiérarchisation
+
+Correction orthographique et stylistique
+2.1. Stratégies de relecture ciblées sur le verbe
+2.2. Check-list : accords, temps, mode, cohérence, pronoms
+2.3. Harmoniser les temps dans un texte
+2.4. Réduire les répétitions verbales et améliorer la précision
+
+Rédaction professionnelle et effets recherchés
+3.1. Rapports, comptes rendus, mails : temps et modalités recommandés
+3.2. Écriture juridique et administrative : tournures fréquentes et vigilance
+3.3. Vulgarisation et technique : clarté, concision, choix des verbes
+3.4. Journalisme et narration : gestion du présent de narration, passif, citation
+
+Enseignement, formation et évaluation
+4.1. Construire une progression d’apprentissage du groupe verbal
+4.2. Types d’exercices : identification, transformation, justification
+4.3. Conception de grilles de correction et critères
+4.4. Remédiation : erreurs typiques et solutions pédagogiques
+
+PARTIE XV — Approche linguistique avancée et applications modernes
+
+Concepts de linguistique pour aller plus loin
+1.1. Prédication et structure argumentale
+1.2. Rôles sémantiques : agent, patient, bénéficiaire, expérienceur
+1.3. Contrôle, montée, verbes de perception : bases
+1.4. Diathèses et alternances de construction
+
+Grammaires et descriptions de référence
+2.1. Terminologies : scolaire, traditionnelle, moderne
+2.2. Comparaison de modèles : phrase, prédicat, complément, argument
+2.3. Choisir une terminologie selon l’objectif : enseignement, correction, recherche
+
+Traitement automatique des langues et groupe verbal
+3.1. Segmentation et étiquetage morpho-syntaxique
+3.2. Analyse en dépendances : verbe tête et dépendants
+3.3. Ambiguïtés fréquentes : homographies, accords, attaches des compléments
+3.4. Applications : correcteurs grammaticaux, synthèse, extraction d’information
+
+PARTIE XVI — Annexes et ressources de travail
+
+Tableaux et synthèses
+1.1. Cartes mentales de la structure du groupe verbal
+1.2. Table des modes, temps et valeurs principales
+1.3. Schémas de l’ordre des pronoms
+1.4. Résumé des règles d’accord du participe passé
+
+Banque d’exercices gradués
+2.1. Niveau débutant : repérage et délimitation
+2.2. Niveau intermédiaire : compléments, pronoms, négation
+2.3. Niveau avancé : concordance, subordination, passif, pronominal
+2.4. Niveau expert : cas mixtes, textes longs, analyse et justification
+
+Corpus et matériaux authentiques
+3.1. Textes narratifs, presse, essais, documents professionnels
+3.2. Transcriptions orales : variations et usages
+3.3. Grilles d’annotation pour analyser un texte
+
+Bibliographie et outils
+4.1. Grammaires de référence
+4.2. Dictionnaires et guides de rédaction
+4.3. Outils numériques : correcteurs, conjugueurs, corpus en ligne
+
+===========================================================================groupe verbal
+
+
+
+===========================================================================la phrase  
+
+NIVEAU DÉBUTANT
+PARTIE I — Comprendre ce qu’est une phrase
+
+Définition de la phrase en français
+1.1. Phrase, énoncé, proposition : différences essentielles
+1.2. Critères d’une phrase : syntaxe, sens, intonation, ponctuation
+1.3. Phrase verbale et phrase non verbale (nominale, elliptique)
+1.4. Phrase « correcte » vs phrase « acceptable » (usage et contexte)
+
+Les grands types de phrases
+2.1. Phrase déclarative
+2.2. Phrase interrogative (totale / partielle)
+2.3. Phrase exclamative
+2.4. Phrase injonctive (ordre, conseil, interdiction)
+2.5. Formes particulières : phrase averbale, phrase tronquée, interjection
+
+La phrase comme unité de communication
+3.1. Intention : informer, demander, convaincre, émouvoir
+3.2. Contexte : qui parle, à qui, où, pourquoi
+3.3. Oral vs écrit : ce qui change dans la construction de la phrase
+
+PARTIE II — Les briques de base pour construire une phrase
+
+Les classes grammaticales indispensables
+4.1. Nom, déterminant, adjectif : le groupe nominal
+4.2. Verbe : rôle central dans la phrase
+4.3. Pronoms (personnels, relatifs, démonstratifs, indéfinis)
+4.4. Adverbes : préciser, nuancer, organiser
+4.5. Prépositions : relier et structurer
+4.6. Conjonctions : coordonner et subordonner
+
+Les groupes (unités) qui composent une phrase
+5.1. Groupe nominal (GN) : noyau et expansions
+5.2. Groupe verbal (GV) : verbe, compléments, adverbes
+5.3. Groupe prépositionnel (GP) : fonction dans la phrase
+5.4. Groupe adjectival et groupe adverbial
+5.5. Identifier un groupe : tests simples (déplacement, suppression, substitution)
+
+Accords de base qui rendent la phrase correcte
+6.1. Accord déterminant–nom
+6.2. Accord adjectif–nom (genre, nombre, cas fréquents)
+6.3. Accord sujet–verbe (règles essentielles)
+6.4. Les erreurs typiques et comment les éviter (inversions, collectifs, “on”, etc.)
+
+PARTIE III — Construire des phrases simples solides
+
+La structure canonique en français
+7.1. Sujet + verbe + (compléments)
+7.2. Place de l’adjectif (avant/après) : sens et usage
+7.3. Place de l’adverbe : règles faciles + cas fréquents
+7.4. Complément du nom : “de”, “à”, apposition
+
+Les fonctions dans la phrase (version débutant)
+8.1. Sujet : reconnaître et tester
+8.2. Verbe : noyau de la phrase
+8.3. Complément d’objet direct (COD)
+8.4. Complément d’objet indirect (COI)
+8.5. Compléments circonstanciels (temps, lieu, manière, cause, but)
+
+La négation simple
+9.1. “ne… pas” à l’écrit et à l’oral
+9.2. “ne… jamais”, “ne… plus”, “ne… rien”, “ne… personne”
+9.3. Double négation, pièges de sens
+9.4. Place de la négation avec les temps composés
+
+Les questions simples
+10.1. Intonation à l’oral
+10.2. “Est-ce que”
+10.3. Inversion sujet–verbe (quand et comment)
+10.4. Mots interrogatifs : qui, que, quoi, où, quand, comment, pourquoi, combien
+
+PARTIE IV — Ponctuation et lisibilité des phrases (bases)
+
+Ponctuation indispensable
+11.1. Le point : finir une idée
+11.2. La virgule : séparer sans casser le sens
+11.3. Le point d’interrogation, d’exclamation
+11.4. Les deux-points : annoncer, expliquer, lister
+11.5. Le point-virgule : lier deux idées proches (bon usage)
+
+Le rythme de la phrase
+12.1. Phrases courtes vs phrases longues : effet sur le lecteur
+12.2. Éviter la phrase “fourre-tout”
+12.3. Une idée principale par phrase (au départ)
+12.4. Répétitions utiles vs répétitions maladroites
+
+NIVEAU INTERMÉDIAIRE
+PARTIE V — Approfondir les fonctions et la structure
+
+Compléments du verbe : préciser sans se tromper
+13.1. Différence entre COD/COI/complément essentiel
+13.2. Complément d’attribution
+13.3. Complément d’agent (voix passive)
+13.4. Compléments circonstanciels : classement et nuances
+
+Attributs et constructions “être / sembler / devenir”
+14.1. Attribut du sujet
+14.2. Attribut du COD
+14.3. Verbes d’état : accord et sens
+14.4. Pièges fréquents (attribut vs épithète, attribut vs complément)
+
+Les expansions du nom dans la phrase
+15.1. Adjectif épithète : place et valeur
+15.2. Complément du nom : précision et structure
+15.3. Proposition relative : rôle d’expansion
+15.4. Apposition : effet de style et ponctuation
+
+PARTIE VI — Les formes de phrases qui transforment le sens
+
+Phrase active, passive et pronominale
+16.1. Transformer active ↔ passive
+16.2. Quand utiliser la passive (neutralité, focus, style)
+16.3. “Se faire + infinitif”, “se laisser + infinitif”
+16.4. Voix pronominale : sens réfléchi, réciproque, passif
+
+La mise en relief (emphase)
+17.1. Phrase clivée : “c’est… qui/que”
+17.2. Phrase pseudo-clivée : “ce qui… c’est…”
+17.3. Détachement : “Moi, je…” / “Ce livre, je l’ai lu”
+17.4. Inversion stylistique : “Vient alors…”
+17.5. Choisir l’emphase sans alourdir
+
+Implicite, ellipse et sous-entendu
+18.1. Ellipse du verbe / du sujet
+18.2. Réponses brèves et phrases nominales
+18.3. Sous-entendu et ambiguïté : dangers à l’écrit
+18.4. Clarté : comment rendre l’implicite contrôlé
+
+PARTIE VII — Phrase complexe : coordination et juxtaposition
+
+Coordination : relier correctement
+19.1. “et”, “ou”, “mais”, “donc”, “or”, “ni”, “car”
+19.2. Coordonnées : symétrie et cohérence
+19.3. Virgule + coordination : quand c’est correct
+19.4. Éviter l’enchaînement sans logique (phrases “en chapelet”)
+
+Juxtaposition : coller des phrases sans conjonction
+20.1. Effets de style (rapidité, tension, oralité)
+20.2. Ponctuation : virgule, point-virgule, deux-points
+20.3. Risques : ambiguïté, lourdeur, confusion
+
+Incises, parenthèses, appositions
+21.1. Incises (“dit-il”, “pense-t-elle”) : ponctuation
+21.2. Parenthèses et tirets : niveaux d’information
+21.3. Apposition : précision, effet, rythme
+21.4. Équilibrer la phrase : ne pas empiler
+
+PARTIE VIII — Phrase complexe : subordination (les grands piliers)
+
+Les propositions relatives
+22.1. Pronoms relatifs : qui, que, dont, où, lequel…
+22.2. Relative explicative vs déterminative
+22.3. “Dont” : usages clés
+22.4. Reprise et antécédent : éviter les flous
+22.5. Relatives avec préposition : “à qui”, “avec lequel”…
+
+Les propositions complétives
+23.1. Complétives en “que”
+23.2. Discours indirect : “Il dit que…”
+23.3. Subjonctif vs indicatif : premières règles fiables
+23.4. Interrogatives indirectes : “Je me demande si / pourquoi…”
+
+Les propositions circonstancielles
+24.1. Temps : quand, lorsque, tandis que, dès que…
+24.2. Cause : parce que, puisque, comme…
+24.3. Conséquence : si bien que, de sorte que…
+24.4. But : pour que, afin que…
+24.5. Condition : si, à condition que…
+24.6. Concession/opposition : bien que, même si, quoique…
+24.7. Comparaison : comme, ainsi que, plus… que…
+
+L’infinitif et le participe comme “mini-phrases”
+25.1. Proposition infinitive
+25.2. Gérondif : “en + participe présent”
+25.3. Participe présent vs adjectif verbal
+25.4. Participe passé détaché : clarté et accord
+
+NIVEAU AVANCÉ
+PARTIE IX — Maîtriser la logique interne d’une phrase
+
+Hiérarchie des informations
+26.1. Thème / rhème (de quoi on parle / ce qu’on en dit)
+26.2. Déplacer un complément pour mettre en valeur
+26.3. Éviter l’ambiguïté par l’ordre des mots
+26.4. Gestion des “lourdeurs” : éviter l’empilement
+
+Cohérence référentielle (pronoms, reprises, anaphores)
+27.1. Référents clairs : éviter “il/elle/ça” flous
+27.2. Reprise nominale vs pronominale : choix stylistique
+27.3. Démonstratifs (“ce”, “cela”, “celui-ci”) : précision
+27.4. Accord et proximité : pièges avancés
+
+Connecteurs logiques et articulation
+28.1. Ajouter, opposer, nuancer, conclure
+28.2. Connecteurs “faibles” vs “forts” (impact sur l’argumentation)
+28.3. Éviter les connecteurs parasites (“du coup”, “en fait”)
+28.4. Structurer une phrase argumentative
+
+PARTIE X — Temps, modes et concordance dans la phrase
+
+Valeurs des temps (au-delà des définitions)
+29.1. Présent : vérité générale, narration, commentaire
+29.2. Passé composé vs imparfait : premier plan / arrière-plan
+29.3. Plus-que-parfait : antériorité narrative
+29.4. Futur : projection, ordre, hypothèse
+29.5. Conditionnel : hypothèse, rumeur, atténuation
+
+Concordance des temps
+30.1. Discours indirect au passé
+30.2. Antériorité et postériorité : “avait dit”, “devait venir”
+30.3. Subjonctif : cohérence temporelle
+30.4. Cas difficiles : narration littéraire vs écrit professionnel
+
+Modes : indicatif, subjonctif, impératif, infinitif
+31.1. Quand le subjonctif est incontournable
+31.2. Quand l’indicatif est préférable (clarté et fait)
+31.3. Impératif : formes, politesse, nuances
+31.4. Infinitif : concision, consignes, titres
+
+PARTIE XI — Ponctuation avancée et typographie française
+
+La virgule : règles fines
+32.1. Virgule et subordonnées : choix de sens
+32.2. Virgule et relatives : explicatives/déterminatives
+32.3. Virgule et énumérations complexes
+32.4. Virgule “interdite” : casser le sujet/verbe, casser le sens
+
+Deux-points, point-virgule, tirets, parenthèses
+33.1. Deux-points : annonce, explication, citation
+33.2. Point-virgule : articulation élégante (quand il est utile)
+33.3. Tiret : rupture, ajout, mise en scène
+33.4. Parenthèses : hiérarchie d’information, sobriété
+
+Typographie : rendre la phrase professionnelle
+34.1. Espaces et ponctuation double (: ; ? !)
+34.2. Guillemets français « » et citations
+34.3. Majuscules, abréviations, unités, nombres
+34.4. Listes, titres, sous-titres : continuité phrastique
+
+PARTIE XII — Style et efficacité : écrire des phrases qui “marchent”
+
+Clarté et concision
+35.1. Chasser les mots inutiles sans appauvrir
+35.2. Phrases longues maîtrisées : structurer en étages
+35.3. Éviter les “périphrases molles” et le flou
+35.4. Verbes forts, sujets clairs : améliorer l’impact
+
+Variations de registre
+36.1. Soutenu, courant, familier : choix et cohérence
+36.2. Oral vs écrit : transposer proprement
+36.3. Politesse et distance : formulation professionnelle
+36.4. Ton neutre vs expressif : contrôle des effets
+
+Effets de style (sans surjouer)
+37.1. Parallélisme, anaphore, gradation
+37.2. Antithèse, chiasme, rythme binaire/ternaire
+37.3. Métaphore et image : dosage
+37.4. Ironie, litote, euphémisme : précision d’intention
+
+NIVEAU PROFESSIONNEL
+PARTIE XIII — La phrase dans les écrits professionnels
+
+Rédaction administrative et institutionnelle
+38.1. Formulations standard : claires et légitimes
+38.2. Éviter la lourdeur bureaucratique
+38.3. Phrase de décision, phrase de justification, phrase de procédure
+38.4. Reformulation “usager” : simplifier sans trahir
+
+Phrase juridique (contrats, clauses, conformité)
+39.1. Définition et portée : éviter l’ambiguïté
+39.2. Conditions, exceptions, cas limites : structurer
+39.3. “Doit”, “peut”, “est tenu de” : modalité et responsabilité
+39.4. Segmentation : alinéas, points, sous-points
+
+Phrase technique et documentation
+40.1. Consignes et procédures (impératif, infinitif, tournures)
+40.2. Définir des concepts : précision terminologique
+40.3. Contraintes, prérequis, avertissements : formulation
+40.4. Exemples, cas d’erreur, messages système : phrases efficaces
+
+Phrase commerciale, marketing et communication
+41.1. Promesse, bénéfice, preuve : structure de phrase
+41.2. Accroches : clarté + impact
+41.3. Call-to-action : formulation et ton
+41.4. Éviter la manipulation : éthique et transparence
+
+Phrase académique et scientifique
+42.1. Hypothèse, méthode, résultats : phrases types
+42.2. Prudence scientifique : modalisation (“il semble que…”)
+42.3. Citations et reformulations : intégration correcte
+42.4. Densité maîtrisée : éviter la phrase impénétrable
+
+PARTIE XIV — Révision, correction et réécriture professionnelle
+
+Méthode de relecture en plusieurs passes
+43.1. Pass 1 : sens et logique
+43.2. Pass 2 : structure et longueur des phrases
+43.3. Pass 3 : grammaire, accords, ponctuation
+43.4. Pass 4 : style, ton, cohérence terminologique
+
+Réécriture : transformer une phrase sans perdre l’idée
+44.1. Scinder une phrase longue
+44.2. Fusionner des phrases trop hachées
+44.3. Reformuler sans répétition
+44.4. Remplacer les tournures passives / impersonnelles (quand utile)
+44.5. Simplifier (version “grand public”) vs densifier (version “expert”)
+
+Correction avancée des erreurs fréquentes
+45.1. Pronoms et reprises (ambiguïté du référent)
+45.2. “Que” multi-fonctions : clarifier
+45.3. Subjonctif/indicatif : erreurs typiques
+45.4. Accord du participe passé : cas délicats utiles en pro
+45.5. Ponctuation : virgules “mortelles” et phrases bancales
+
+PARTIE XV — Maîtrise experte : phrase, discours et argumentation
+
+Construire une phrase argumentative solide
+46.1. Prémisse → conclusion : rendre le lien explicite
+46.2. Nuancer : concessions et restrictions
+46.3. Anticiper l’objection dans la phrase
+46.4. Définir et cadrer : éviter les disputes de sens
+
+La phrase dans le récit et la persuasion
+47.1. Cadence narrative : accélérer/ralentir par la phrase
+47.2. Suspense : retarder l’information clé
+47.3. Emphase maîtrisée : impact sans grandiloquence
+47.4. Voix et persona : cohérence stylistique
+
+Figures de construction et stratégie rhétorique
+48.1. Période oratoire : phrases longues architecturées
+48.2. Asyndète/polysyndète : effets de liaison
+48.3. Hypotaxe vs parataxe : style “serré” vs “déployé”
+48.4. Densité contrôlée : éviter l’obscurité
+
+PARTIE XVI — Linguistique de la phrase (niveau expert)
+
+Analyse syntaxique approfondie
+49.1. Constituants vs dépendances : deux façons de lire la phrase
+49.2. Tests de constituance : extraction, pronominalisation, clivage
+49.3. Valence verbale : arguments et circonstants
+49.4. Constructions : passif, causatif, montée du sujet, etc.
+
+Ambiguïtés et contraintes
+50.1. Ambiguïtés structurales : identifier et lever
+50.2. Portée de la négation et des quantificateurs
+50.3. Accord et proximité : phénomènes d’usage
+50.4. Variation (registre, région, époque) et “norme”
+
+La phrase en corpus : méthode professionnelle
+51.1. Repérer des patrons de phrase dans des textes
+51.2. Mesurer la lisibilité (longueur, complexité, subordination)
+51.3. Comparer des styles (presse, juridique, technique, littéraire)
+51.4. Établir une charte de phrase (style guide) pour une équipe
+
+PARTIE XVII — Ateliers progressifs (du débutant au pro)
+
+Exercices fondamentaux : produire des phrases correctes
+52.1. Construire 20 phrases simples impeccables
+52.2. Ajouter un complément sans casser l’accord
+52.3. Transformer en négation et interrogation
+
+Exercices intermédiaires : enrichir sans alourdir
+53.1. Expansions du nom (adjectif, complément, relative)
+53.2. Coordination propre et logique
+53.3. Subordonnées circonstancielles : choisir le bon lien
+
+Exercices avancés : maîtrise de la phrase complexe
+54.1. Écrire une phrase longue claire (3 étages max)
+54.2. Réécrire : scinder/fusionner/clarifier
+54.3. Lever 10 ambiguïtés de référents
+
+Exercices professionnels : styles spécialisés
+55.1. Reformulation administrative (version usager)
+55.2. Rédaction technique (procédure, avertissement, note)
+55.3. Microcopy / UX : phrases courtes, actionnables
+55.4. Phrase juridique : conditions, exceptions, portée
+
+PARTIE XVIII — Annexes de référence pour aller jusqu’au niveau expert
+
+Glossaire complet des notions de phrase
+56.1. Phrase / proposition / énoncé / période
+56.2. Fonctions (sujet, COD, COI, attribut, compléments…)
+56.3. Subordination (relative, complétive, circonstancielle…)
+
+Fiches mémo : structures et modèles
+57.1. Modèles de phrase claire (pro)
+57.2. Modèles d’articulation logique
+57.3. Modèles d’emphase et de reformulation
+
+Checklists professionnelles
+58.1. Checklist “phrase lisible”
+58.2. Checklist “phrase non ambiguë”
+58.3. Checklist “phrase conforme au ton”
+58.4. Checklist “phrase adaptée au public”
+
+Banque d’erreurs fréquentes commentées
+59.1. 50 erreurs classiques (accords, pronoms, virgules)
+59.2. 50 erreurs de style (flou, lourdeur, répétitions)
+59.3. 50 erreurs de logique (connecteurs, enchaînements)
+
+Parcours de progression (plan d’apprentissage)
+60.1. Objectifs par niveau (débutant → pro)
+60.2. Routine hebdomadaire (production + révision)
+60.3. Indicateurs de maîtrise (clarté, précision, variété, cohérence)
+
+===========================================================================la phrase
