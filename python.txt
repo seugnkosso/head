@@ -1,0 +1,521 @@
+===========================================================================Python
+
+PARTIE I — Démarrer avec Python et ses bases
+
+Pourquoi Python ?
+1.1. Domaines d’usage (web, data, IA, automation, DevOps, embarqué)
+1.2. Forces et limites de Python (performance, typage, écosystème)
+1.3. Versions de Python (2 vs 3, cycles de versions, compatibilités)
+1.4. Installer Python : approches et bonnes pratiques
+1.4.1. Windows : Python.org, Microsoft Store, PATH, py launcher
+1.4.2. macOS : Homebrew, frameworks, certificats
+1.4.3. Linux : apt/yum/pacman, versions système vs utilisateur
+1.5. Comprendre l’écosystème : pip, PyPI, virtualenv, venv, conda
+1.6. Choisir un éditeur/IDE : VS Code, PyCharm, Jupyter, Vim/Emacs
+1.7. Premiers pas : exécuter un script, REPL, notebooks
+1.8. Lire la documentation : docstrings, help(), docs officielles
+
+Premiers programmes
+2.1. La fonction print() et la sortie standard
+2.2. Variables et affectation
+2.3. Commentaires et conventions d’écriture
+2.4. Lecture d’entrée utilisateur (input) et conversions
+2.5. Comprendre les erreurs : syntaxe vs runtime, tracebacks
+2.6. Bonnes habitudes dès le début (noms, simplicité, tests rapides)
+
+Types de base et opérations
+3.1. Nombres : int, float, complex
+3.1.1. Opérations, priorité, division entière, modulo
+3.1.2. Erreurs d’arrondi et float vs Decimal
+3.2. Booléens et logique (and/or/not)
+3.3. Chaînes de caractères (str)
+3.3.1. Indexation, slicing, immutabilité
+3.3.2. Méthodes courantes (lower, split, join, replace)
+3.3.3. Formatage : f-strings, format(), %
+3.3.4. Encodage Unicode, UTF-8, normalisation
+3.4. None et la notion d’absence
+3.5. Conversions de types (casting) et validation
+
+Contrôle de flux
+4.1. Conditions : if/elif/else
+4.2. Comparaisons et opérateurs (==, is, in)
+4.2.1. == vs is (identité vs égalité)
+4.3. Boucles : for, while
+4.4. Break, continue, pass
+4.5. Compréhensions (list/dict/set comprehensions)
+4.6. range, enumerate, zip
+4.7. Pattern : boucles + conditions (filtrage, recherche, agrégation)
+
+Fonctions : écrire du code réutilisable
+5.1. Définition et appels de fonctions
+5.2. Paramètres : positionnels, nommés, valeurs par défaut
+5.3. *args et **kwargs
+5.4. Portée des variables : local, global, nonlocal
+5.5. Fonctions comme objets (passer une fonction, retourner une fonction)
+5.6. Fonctions anonymes (lambda) : usages et limites
+5.7. Documentation : docstrings, annotations
+5.8. Bon design : pureté, effets de bord, clarté, petites fonctions
+
+Structures de données essentielles
+6.1. Listes
+6.1.1. Ajout/suppression, tri, copies, slices
+6.1.2. Pièges : copies superficielles, listes imbriquées
+6.2. Tuples
+6.2.1. Déballage, immutabilité, retours multiples
+6.3. Dictionnaires
+6.3.1. Parcours, méthodes (get, items, keys, values)
+6.3.2. Dictionnaires imbriqués, patterns de mise à jour
+6.4. Ensembles (set)
+6.4.1. Opérations ensemblistes (union, intersection, différence)
+6.5. Choisir la bonne structure (complexité, lisibilité, usage)
+
+Entrées/Sorties et fichiers
+7.1. Chemins et fichiers (pathlib)
+7.2. Ouvrir/fermer un fichier : with (context manager)
+7.3. Lire/écrire : texte vs binaire
+7.4. CSV, JSON : formats courants
+7.5. Erreurs courantes et encodages
+7.6. Bonnes pratiques de sauvegarde et atomicité
+
+Gestion des exceptions
+8.1. try/except/else/finally
+8.2. Exceptions courantes (ValueError, KeyError, IOError…)
+8.3. Lever une exception (raise)
+8.4. Créer ses propres exceptions
+8.5. Stratégies : fail-fast, fallback, logs, messages utiles
+
+Modules et packages
+9.1. Importer : import, from…import, alias
+9.2. Organisation du code en fichiers et dossiers
+9.3. __init__.py et packages
+9.4. Chemin d’import, PYTHONPATH, environnement
+9.5. Modules standards importants (math, os, sys, datetime, json, csv)
+9.6. Script vs module : if __name__ == "__main__":
+
+PARTIE II — Approfondir Python (niveau intermédiaire solide)
+
+Programmation orientée objet (POO)
+1.1. Classes et objets
+1.2. Attributs, méthodes, self
+1.3. Constructeur __init__
+1.4. Encapsulation : conventions, propriétés (@property)
+1.5. Héritage, composition, polymorphisme
+1.6. Méthodes de classe et statiques (@classmethod, @staticmethod)
+1.7. Dunder methods (méthodes spéciales)
+1.7.1. Représentation : __str__, __repr__
+1.7.2. Comparaisons : __eq__, __lt__, etc.
+1.7.3. Itération : __iter__, __next__
+1.7.4. Contexte : __enter__, __exit__
+1.8. Dataclasses et modèles de données
+1.9. Patterns POO en Python (factories, strategy, adapter)
+
+Itérateurs, générateurs et lazy evaluation
+2.1. Protocole d’itération
+2.2. Générateurs avec yield
+2.3. Expressions génératrices
+2.4. Cas d’usage : streaming de fichiers, pipelines, mémoire
+2.5. itertools (chain, islice, groupby…)
+2.6. functools (lru_cache, partial, reduce)
+
+Programmation fonctionnelle en Python
+3.1. map/filter/reduce et alternatives idiomatiques
+3.2. Fonctions de haut niveau et composition
+3.3. Immutabilité et structures persistantes (concepts)
+3.4. Closures et décorateurs (intro)
+
+Décorateurs (approfondi)
+4.1. Pourquoi décorer ? (logs, auth, cache, mesures)
+4.2. Écrire un décorateur simple
+4.3. Décorateurs avec paramètres
+4.4. Préserver la signature (functools.wraps)
+4.5. Décorateurs de classes
+4.6. Décorateurs standards utiles (property, lru_cache)
+
+Typage moderne avec typing
+5.1. Annotations de types : objectifs et limites
+5.2. Types de base : list[str], dict[str, int], tuple[...]
+5.3. Optional, Union, Literal
+5.4. Protocols (duck typing typé)
+5.5. Generics et TypeVar
+5.6. TypedDict, dataclasses typées
+5.7. Mypy/Pyright : configuration et intégration CI
+5.8. Stratégies d’adoption progressive (codebase existante)
+
+Gestion des environnements et dépendances
+6.1. venv/virtualenv : bonnes pratiques
+6.2. pip : versions, contraintes, hash, requirements.txt
+6.3. Outils modernes : Poetry, uv, pip-tools (concepts)
+6.4. Dépendances de dev vs prod
+6.5. Reproductibilité : lockfiles, pinning, mirrors
+6.6. Secrets et variables d’environnement
+
+Manipulation de données (niveau intermédiaire)
+7.1. JSON avancé : validation, schémas
+7.2. CSV : dialectes, nettoyage, cas réels
+7.3. XML : quand et comment
+7.4. Sérialisation : pickle (risques), alternatives
+7.5. Dates et temps : timezone, UTC, zoneinfo
+
+Tests et qualité de code (fondations)
+8.1. Pourquoi tester ? (régression, confiance, refactor)
+8.2. unittest vs pytest (approches)
+8.3. Assertions, fixtures, paramétrage
+8.4. Mocks et patching (unittest.mock)
+8.5. Couverture de tests (coverage)
+8.6. Linters et formatters : ruff/flake8, black, isort
+8.7. Pré-commit hooks
+
+Debugging et introspection
+9.1. Lire un traceback efficacement
+9.2. pdb / debugpy / breakpoints
+9.3. Logging : niveaux, handlers, formats
+9.4. Profiling : cProfile, timeit (intro)
+9.5. Mémoire : tracemalloc (intro)
+
+Performance : bases pratiques
+10.1. Complexité algorithmique (big-O)
+10.2. Choix de structures (list vs dict vs set)
+10.3. Optimisations idiomatiques
+10.4. Quand passer au C, à PyPy, à Numba (vue d’ensemble)
+
+PARTIE III — Python professionnel (standards, architecture, production)
+
+Écrire du code “production-ready”
+1.1. Style guide PEP 8 et conventions de projet
+1.2. Structure de projet (src layout, packages)
+1.3. Configuration centralisée (pyproject.toml)
+1.4. Documentation : README, docs, exemples
+1.5. Gestion des erreurs et messages utilisateurs
+1.6. Conception orientée maintenance (SOLID adapté à Python)
+
+Packaging et distribution
+2.1. Concepts : wheel, sdist, build backends
+2.2. pyproject.toml (build-system, dependencies)
+2.3. Versioning (SemVer), tags git, changelog
+2.4. Publication sur PyPI (testpypi, tokens)
+2.5. Packages internes d’entreprise
+2.6. Scripts CLI : entry points, console_scripts
+2.7. Applications monolithiques vs librairies
+
+Architecture logicielle en Python
+3.1. Séparation des responsabilités (couches)
+3.2. Clean Architecture / Hexagonal (adaptée)
+3.3. Patterns : repository, unit of work, service layer
+3.4. Design des APIs internes (contrats, types, exceptions)
+3.5. Modularité : découpage et dépendances
+3.6. Stratégies de refactor et dette technique
+
+Concurrence et parallélisme
+4.1. Comprendre le GIL
+4.2. Threads : quand c’est utile (I/O bound)
+4.3. Multiprocessing : CPU bound
+4.4. AsyncIO : modèle, event loop, coroutines
+4.5. async/await en pratique
+4.6. Tâches concurrentes : gather, queues, timeouts
+4.7. Synchronisation : locks, semaphores
+4.8. Patterns : producer/consumer, backpressure
+4.9. Bonnes pratiques (annulation, exceptions, instrumentation)
+
+Réseau et HTTP (pro)
+5.1. HTTP : bases, headers, status codes
+5.2. Clients : requests, httpx (sync/async)
+5.3. Sessions, retries, timeouts, idempotence
+5.4. Auth : API keys, OAuth2 (concepts)
+5.5. Webhooks : signatures, validation, sécurité
+5.6. WebSockets (concepts et usage)
+
+Bases de données et persistance
+6.1. SQL : fondamentaux pour développeurs Python
+6.2. SQLite vs PostgreSQL/MySQL (choix)
+6.3. Accès bas niveau : DB-API, transactions
+6.4. ORM : SQLAlchemy (concepts), modèles, relations
+6.5. Migrations (Alembic)
+6.6. NoSQL : Redis, MongoDB (cas d’usage)
+6.7. Performance BD : index, N+1, pool de connexions
+6.8. Gestion de transactions et cohérence
+
+Sécurité applicative en Python
+7.1. Menaces courantes : injection, XSS, SSRF, RCE
+7.2. Gestion des secrets : vaults, env vars, rotation
+7.3. Dépendances : vulnérabilités, audits, SBOM (concepts)
+7.4. Validation d’entrées, sérialisation sûre
+7.5. Cryptographie : hash, HMAC, bonnes pratiques (vue d’ensemble)
+7.6. Permissions, authz, RBAC/ABAC (concepts)
+7.7. Sécuriser la supply chain Python
+
+Observabilité et exploitation
+8.1. Logging structuré
+8.2. Metrics (Prometheus concepts)
+8.3. Traces distribuées (OpenTelemetry concepts)
+8.4. Health checks, readiness/liveness
+8.5. Alerting : principes et seuils
+8.6. Postmortems et amélioration continue
+
+CI/CD et automatisation
+9.1. Pipelines : lint + tests + build + scan
+9.2. GitHub Actions/GitLab CI (concepts)
+9.3. Tests en CI : parallélisation, caching
+9.4. Release automation : versioning, changelog, artefacts
+9.5. Déploiement : Docker, environnements, rollback
+
+Conteneurs et déploiement (pro)
+10.1. Dockerfile pour Python (images slim, cache pip)
+10.2. Variables d’environnement et config en runtime
+10.3. Uvicorn/Gunicorn : concepts (web)
+10.4. Kubernetes (concepts) : pods, services, configmaps, secrets
+10.5. Serverless (concepts) : cold start, packaging
+
+Revue de code et collaboration
+11.1. Critères de qualité (lisibilité, tests, robustesse)
+11.2. Standards d’équipe : conventions, templates PR
+11.3. Stratégies git : trunk-based, gitflow (comparaison)
+11.4. Mentoring et montée en compétence
+
+Gestion des configurations
+12.1. Config par environnement (dev/staging/prod)
+12.2. Feature flags (concepts)
+12.3. Validation de config au démarrage
+12.4. Paramétrage via fichiers (YAML/TOML)
+
+PARTIE IV — Spécialisation : Web backend avec Python
+
+Fondamentaux web pour Python
+1.1. HTTP en pratique (REST, ressources, stateless)
+1.2. Sérialisation JSON, pagination, filtres
+1.3. Validation des données (pydantic/concepts)
+1.4. Gestion d’erreurs et réponses standardisées
+
+Frameworks web
+2.1. Flask : micro-framework, patterns, extensions
+2.2. Django : MVT, admin, ORM, auth
+2.3. FastAPI : async, types, OpenAPI
+2.4. Choisir le bon framework (critères, taille du projet)
+
+API design avancé
+3.1. Versioning d’API
+3.2. Rate limiting, quotas
+3.3. Documentation (OpenAPI/Swagger)
+3.4. Authentification et autorisation (JWT, sessions, OAuth2)
+3.5. Idempotence, retries, cohérence
+
+Performance et scalabilité web
+4.1. Caching (HTTP cache, Redis)
+4.2. Background jobs (Celery/RQ concepts)
+4.3. Asynchrone côté serveur
+4.4. Observabilité d’API (logs, traces, metrics)
+
+Sécurité web
+5.1. CSRF, XSS, CORS
+5.2. Upload de fichiers et antivirus (concepts)
+5.3. Gestion des sessions et cookies
+5.4. OWASP Top 10 (application à Python)
+
+Tests web
+6.1. Tests unitaires vs intégration vs end-to-end
+6.2. Clients de test, fixtures, DB de test
+6.3. Tests de charge (concepts)
+
+Déploiement web
+7.1. Reverse proxy (Nginx concepts)
+7.2. TLS/HTTPS (certificats, renouvellement)
+7.3. Blue/Green, canary (concepts)
+
+PARTIE V — Spécialisation : Data Science, analyse et visualisation
+
+Environnement data
+1.1. Notebooks : bonnes pratiques (reproductibilité, versioning)
+1.2. Gestion des datasets et formats (Parquet, CSV)
+1.3. Environnements : conda/venv, kernels
+
+NumPy : calcul vectoriel
+2.1. Tableaux, shapes, broadcasting
+2.2. Indexation avancée, masques
+2.3. Performances et mémoire
+
+Pandas : manipulation de données
+3.1. Series/DataFrame, index
+3.2. Nettoyage : valeurs manquantes, doublons
+3.3. Transformations : groupby, pivot, merge
+3.4. Dates, catégories, textes
+3.5. Optimisation : types, chunking
+
+Visualisation
+4.1. Matplotlib : fondamentaux
+4.2. Seaborn/Plotly : concepts et choix
+4.3. Storytelling de données
+4.4. Visualisation interactive (Dash/Streamlit concepts)
+
+Statistiques pour data
+5.1. Descriptif, distributions, corrélations
+5.2. Tests d’hypothèses (concepts)
+5.3. Intervalles de confiance (concepts)
+5.4. Échantillonnage, biais, erreurs
+
+Data pipelines
+6.1. ETL/ELT (concepts)
+6.2. Orchestration (Airflow concepts)
+6.3. Qualité des données : validation, expectations (concepts)
+
+PARTIE VI — Spécialisation : Machine Learning et IA
+
+Fondations ML
+1.1. Problèmes : régression, classification, clustering
+1.2. Données : features, normalisation, train/test
+1.3. Overfitting, régularisation, cross-validation
+1.4. Métriques : accuracy, precision/recall, ROC-AUC
+
+Scikit-learn
+2.1. Pipelines, transformers
+2.2. Encodage catégoriel
+2.3. Sélection de modèles
+2.4. Feature engineering
+2.5. Interprétabilité (concepts)
+
+Deep Learning (concepts et pratique)
+3.1. Réseaux de neurones : bases
+3.2. Frameworks : PyTorch / TensorFlow (vue d’ensemble)
+3.3. GPU, batching, data loaders
+3.4. Entraînement, checkpoints, reproductibilité
+3.5. Déploiement de modèles (concepts)
+
+MLOps (professionnel)
+4.1. Suivi d’expériences (MLflow concepts)
+4.2. Versioning des données et modèles
+4.3. Tests de modèles (concepts)
+4.4. Détection de drift (concepts)
+4.5. Serving (batch vs temps réel)
+4.6. Monitoring en production (concepts)
+
+PARTIE VII — Spécialisation : Automatisation, scripting et DevOps
+
+Scripting système et automation
+1.1. Gestion de fichiers, répertoires, permissions
+1.2. Subprocess : exécuter des commandes, pipes
+1.3. Parsing de logs et fichiers volumineux
+1.4. Tâches planifiées (cron concepts)
+
+APIs et intégrations
+2.1. Consommer des APIs REST
+2.2. Auth, pagination, quotas
+2.3. Sérialisation, mapping vers modèles
+
+Web scraping (responsable)
+3.1. HTML parsing (BeautifulSoup concepts)
+3.2. Robots.txt, limites légales et éthiques
+3.3. Anti-bot : stratégies respectueuses (rate limit)
+
+Infrastructure as Code et outils
+4.1. Ansible (concepts)
+4.2. Terraform (concepts)
+4.3. Gestion d’inventaire et secrets
+
+Observabilité DevOps
+5.1. Logs centralisés (concepts)
+5.2. Alerting, dashboards (concepts)
+
+Python pour la cybersécurité (défensif)
+6.1. Automatisation d’audits (concepts)
+6.2. Analyse de logs sécurité
+6.3. Détection d’anomalies (concepts)
+
+PARTIE VIII — Maîtrise avancée du langage (expert Python)
+
+Modèle mémoire et objets
+1.1. Références, mutabilité, internals
+1.2. Garbage collector
+1.3. Copies : shallow vs deep
+
+Dunder methods avancées
+2.1. Descriptors, __get__, __set__
+2.2. Metaclasses (concepts)
+2.3. Slots (__slots__)
+
+Context managers avancés
+3.1. contextlib : contextmanager, ExitStack
+3.2. Gestion robuste de ressources
+
+Introspection et runtime
+4.1. inspect module
+4.2. Monkey patching : risques et usages
+4.3. Import system, hooks (concepts)
+
+Conception d’APIs Pythonic
+5.1. “There should be one obvious way” en pratique
+5.2. Ergonomie : exceptions, noms, retours
+5.3. Compatibilité et dépréciations
+
+Performance avancée
+6.1. Profiling CPU approfondi
+6.2. Profiling mémoire approfondi
+6.3. Vectorisation, C-extensions (concepts)
+6.4. Numba/Cython (concepts)
+6.5. Multiprocessing avancé
+
+Sécurité avancée
+7.1. Sandbox : limites et mythes
+7.2. Désérialisation sûre
+7.3. Signatures et intégrité
+
+Contribution à l’écosystème
+8.1. Lire/écrire une PEP (concepts)
+8.2. Contribuer à un projet open-source (issues, PR)
+8.3. Maintenir un package (release, compatibilité)
+
+PARTIE IX — Projets guidés (du débutant au pro)
+
+Projets débutants
+1.1. Calculatrice, convertisseur, mini-jeux texte
+1.2. Gestionnaire de tâches en console
+1.3. Analyseur de fichiers CSV simple
+1.4. Petit bot (API simple)
+
+Projets intermédiaires
+2.1. Scraper responsable + export CSV/JSON
+2.2. API REST CRUD avec tests
+2.3. CLI professionnelle (argparse/typer concepts)
+2.4. Pipeline de données (ETL)
+
+Projets avancés
+3.1. Microservice FastAPI avec auth + observabilité
+3.2. Système de jobs asynchrones + broker
+3.3. Application Django complète (admin, permissions, déploiement)
+3.4. Projet data : dashboard + reporting automatisé
+3.5. ML : entraînement + serving + monitoring (concepts)
+
+Projets “niveau entreprise”
+4.1. Architecture modulaire + CI/CD complet
+4.2. Monitoring, alerting, SLO (concepts)
+4.3. Gestion de secrets et conformité
+4.4. Documentation utilisateur + runbook d’exploitation
+
+PARTIE X — Préparer sa carrière Python (niveau professionnel)
+
+Méthodologie d’apprentissage et pratique
+1.1. Construire un plan de progression
+1.2. Apprendre par projets et révision
+1.3. Lire du code existant (open-source)
+
+Portfolio et employabilité
+2.1. Choisir ses projets de portfolio
+2.2. Écrire des READMEs clairs
+2.3. Démo : screenshots, vidéo, déploiement
+2.4. Qualité : tests, typing, CI
+
+Entretiens techniques Python
+3.1. Questions fréquentes (types, mutabilité, exceptions, OOP)
+3.2. Exercices d’algorithmie en Python
+3.3. System design pour backends Python
+3.4. Revue de code en entretien
+
+Hygiène professionnelle
+4.1. Veille : PEP, versions, nouveautés
+4.2. Bonnes pratiques de sécurité
+4.3. Travailler en équipe : communication et standards
+
+Références incontournables
+5.1. Documentation officielle
+5.2. Livres recommandés (par niveaux)
+5.3. Ressources d’exercices et katas (concepts)
+5.4. Projets open-source conseillés à étudier
+
+===========================================================================Python
