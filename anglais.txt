@@ -1,11 +1,11 @@
 
-===========================================================================groupe nominal
+==========================================================================GN
 
 -PARTIE I — Fondations : comprendre ce qu’est un groupe nominal (noun phrase)
 
-Définition et rôle du groupe nominal en anglais
+----Définition et rôle du groupe nominal en anglais
 1.1. Groupe nominal vs nom seul : pourquoi la notion est indispensable
-1.2. Fonctions dans la phrase : sujet, objet, complément, attribut
+---1.2. Fonctions dans la phrase : sujet, objet, complément, attribut
 1.3. Notions clés : tête (head), expansions (modifiers), détermination (determination)
 1.4. Différences générales avec le groupe nominal en français (aperçu)
 
@@ -322,14 +322,14 @@ Lectures de référence (pour aller jusqu’au niveau expert)
 
 Index thématique des notions (articles, relatives, quantifieurs, composés, ’s/of, register)
 
-===========================================================================groupe nominal
+==========================================================================GN
 
 
 
-===========================================================================groupe prépositionnel
+==========================================================================GP
 
 PARTIE I — Fondations : comprendre ce qu’est un groupe prépositionnel (PP)
-1. Notions essentielles
+----1. Notions essentielles
 
 1.1. Définition : préposition, complément, groupe prépositionnel (Prepositional Phrase / PP)
 1.2. Composition minimale : Préposition + complément (Preposition + Object)
@@ -619,15 +619,15 @@ PARTIE VIII — Annexes : listes, référentiels, ressources et parcours métier
 34.4. Évaluation de compréhension : ambiguïtés et interprétation
 34.5. Plan de consolidation long terme
 
-===========================================================================groupe prépositionnel
+==========================================================================GP
 
 
 
-===========================================================================groupe verbal
+=========================================================================GV
 
 PARTIE I — Cartographier le groupe verbal en anglais
 
-Présentation générale du groupe verbal
+----Présentation générale du groupe verbal
 1.1. Définition : ce qui “compte” comme groupe verbal en anglais
 1.2. Noyau verbal et extensions : auxiliaires, adverbes, compléments
 1.3. Groupe verbal vs groupe nominal : repères rapides pour ne pas confondre
@@ -1109,10 +1109,10 @@ Banque d’exercices gradués (par compétence)
 7.4. Correction d’erreurs authentiques
 7.5. Production : emails, rapports, compte-rendus, scripts
 
-===========================================================================groupe verbal
+=========================================================================GV
 
 
-===========================================================================la phrase
+==========================================================================phrase
 
 PARTIE I — Comprendre ce qu’est une phrase en anglais
 
@@ -1459,4 +1459,4 @@ Parcours de progression recommandés
 52.3. Parcours “avancé crédible” : style, nuance, précision
 52.4. Parcours “pro” : emails, rapports, docs métier, relecture
 
-===========================================================================la phrase
+==========================================================================phrase
