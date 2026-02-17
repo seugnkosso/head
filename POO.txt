@@ -5,14 +5,14 @@ PARTIE I — Fondations de la programmation orientée objet
 
 1. Qu’est-ce que la POO ?
    1.1. Pourquoi la POO a été inventée
-   -1.2. Différences entre procédural, fonctionnel, objet, orienté données
-   1.3. Quand la POO est un bon choix (et quand ce n’est pas le cas)	
+   1.2. Différences entre procédural, fonctionnel, objet, orienté données
+   ---1.3. Quand la POO est un bon choix (et quand ce n’est pas le cas)	
    1.4. Vocabulaire essentiel (objet, classe, instance, état, comportement)	
    1.5. Modèles mentaux : “objets du monde réel” vs “modèles de domaine” 
    1.6. POO et complexité : couplage, cohésion, abstraction
    1.7. Lecture de code orienté objet : repérer classes, responsabilités, dépendances
 
-2. Les 4 piliers (avec une vision moderne)
+----2. Les 4 piliers (avec une vision moderne)
    2.1. Encapsulation : protéger les invariants
    2.2. Abstraction : exposer le nécessaire, masquer l’accidentel
    2.3. Héritage : réutilisation vs hiérarchie de types
