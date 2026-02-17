@@ -1,9 +1,9 @@
-===========================================================================groupe nominal 
+===========================================================================GN 
 PARTIE I — Bases essentielles : comprendre ce qu’est un groupe nominal
 
-Présentation générale du groupe nominal (GN)
+----Présentation générale du groupe nominal (GN)
 1.1. Définition simple et définition académique
--1.2. À quoi sert un groupe nominal dans une phrase
+---1.2. À quoi sert un groupe nominal dans une phrase
 1.3. GN, nom, syntagme nominal : vocabulaire et nuances
 1.4. GN vs groupe verbal (GV) : repères rapides
 1.5. GN vs groupe prépositionnel (GP) : ne pas confondre
@@ -284,17 +284,17 @@ PARTIE XIII — Consolidation et maîtrise : parcours de compétence
 42.3. Liste des cas d’accord délicats (fiches de référence)
 42.4. Grilles d’analyse d’un GN (du simple au complexe)
 42.5. Bibliographie commentée (grammaires, ouvrages, ressources)
-===========================================================================groupe nominal 
+===========================================================================GN 
 
 
 
-===========================================================================groupe prépositionnel
+==========================================================================GP
 
 PARTIE I — Fondations : comprendre ce qu’est un groupe prépositionnel (GP)
 
-Vue d’ensemble
+----Vue d’ensemble
 1.1. Définition du groupe prépositionnel
-1.2. Pourquoi le GP est central en français (sens, précision, style)
+---1.2. Pourquoi le GP est central en français (sens, précision, style)
 1.3. GP, préposition et complément : distinctions essentielles
 1.4. Ce que le GP n’est pas : confusions fréquentes (adverbes, locutions, subordonnées)
 
@@ -578,10 +578,10 @@ Index thématique (pour révision rapide)
 35.8. Pronominalisation (y/en)
 35.9. Style et réécriture professionnelle
 
-===========================================================================groupe prépositionnel
+==========================================================================GP
 
 
-===========================================================================groupe verbal
+==========================================================================GV
 
 PARTIE I — Fondations du groupe verbal en français
 
@@ -939,11 +939,11 @@ Bibliographie et outils
 4.2. Dictionnaires et guides de rédaction
 4.3. Outils numériques : correcteurs, conjugueurs, corpus en ligne
 
-===========================================================================groupe verbal
+==========================================================================GV
 
 
 
-===========================================================================la phrase  
+==========================================================================phrase  
 
 NIVEAU DÉBUTANT
 PARTIE I — Comprendre ce qu’est une phrase
@@ -1350,4 +1350,4 @@ Parcours de progression (plan d’apprentissage)
 60.2. Routine hebdomadaire (production + révision)
 60.3. Indicateurs de maîtrise (clarté, précision, variété, cohérence)
 
-===========================================================================la phrase
+==========================================================================phrase
