@@ -1,18 +1,18 @@
 ===========================================================================voc_ang
 -A1 THE HUMAN BEING
-human body
+Feelings
 
 -A2 HUMAN ACTIVITIES
-WORK
+Leisure
 
 -A3 IDEAS
-COMMENTING ON A TEXT
+TIME
 
 -A4 SCIENCE AND TECHNOLOGY
-SCIENCE AND RESEARCH
+ELECTRONICS AND COMPUTER SCIENCE
 
 -A5 MAN'S ENVIRONMENT
-HOUSING
+City life
 
 -A6 LIVING IN SOCIETY
 SOCIAL LIFE
@@ -24,10 +24,10 @@ EDUCATION
 NATIONS AND COUNTRIES
 
 -A9 TRADE
-ECONOMIC ISSUES
+Shopping
 
 -A10 the vocabulary of perception and description
-la vue
+l'odorat
 
 ===========================================================================voc_angl
 
@@ -38,7 +38,7 @@ Rédigez une table des matières complète et approfondie pour apprendre JavaScr
 
 ===========================================================================
 
-Rédigez un tutoriel complet et approfondi en «POO : PARTIE I — Fondations de la programmation orientée objet : 1. Qu’est-ce que la POO ?» allant du niveau débutant à expert, sur «1.1. Pourquoi la POO a été inventée».
+donne un tutoriel court en couvrant seulement l'éssentiel pour apprendre «1.2. Comparaison rapide : procédural, fonctionnel, orienté objet (forces/faiblesses)» dans le domaine «POO : PARTIE I — Fondations de la Programmation Orientée Objet (POO) : Comprendre le “pourquoi” de la POO».
 
 ===========================================================================
 
