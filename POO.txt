@@ -1,1025 +1,1484 @@
+===========================================================================POO
+PARTIE I — Fondations de la Programmation Orientée Objet
 
+1. Comprendre la Programmation Orientée Objet
+   1.1. Définition de la POO
+   1.2. Pourquoi la POO a été créée
+   1.3. Problèmes que la POO cherche à résoudre
+   1.4. Différence entre programmation procédurale et programmation orientée objet
+   1.5. Différence entre programmation fonctionnelle et programmation orientée objet
+   1.6. Quand utiliser la POO
+   1.7. Quand éviter la POO
+   1.8. Avantages de la POO
+   1.9. Limites de la POO
+   1.10. Exemples concrets de pensée orientée objet
+
+2. Les notions mentales de base
+   2.1. Objet réel et objet informatique
+   2.2. État d’un objet
+   2.3. Comportement d’un objet
+   2.4. Identité d’un objet
+   2.5. Responsabilité d’un objet
+   2.6. Message envoyé à un objet
+   2.7. Collaboration entre objets
+   2.8. Cycle de vie d’un objet
+   2.9. Modéliser un problème avec des objets
+   2.10. Penser en responsabilités plutôt qu’en instructions
+
+3. Les quatre piliers de la POO
+   3.1. Encapsulation
+   3.2. Abstraction
+   3.3. Héritage
+   3.4. Polymorphisme
+   3.5. Relations entre les quatre piliers
+   3.6. Erreurs fréquentes dans la compréhension des piliers
+   3.7. Exemples simples des quatre piliers
+   3.8. Importance des piliers dans le code professionnel
+
+PARTIE II — Classes, Objets et Syntaxe Fondamentale
+
+4. Les classes
+   4.1. Définition d’une classe
+   4.2. Rôle d’une classe
+   4.3. Classe comme modèle d’objets
+   4.4. Attributs d’une classe
+   4.5. Méthodes d’une classe
+   4.6. Membres d’une classe
+   4.7. Structure générale d’une classe
+   4.8. Nommer correctement une classe
+   4.9. Cohérence interne d’une classe
+   4.10. Exemples de classes simples
+
+5. Les objets
+   5.1. Définition d’un objet
+   5.2. Création d’un objet
+   5.3. Instanciation
+   5.4. Objet comme instance d’une classe
+   5.5. Accès aux attributs
+   5.6. Appel des méthodes
+   5.7. Plusieurs objets d’une même classe
+   5.8. Différence entre classe et objet
+   5.9. Objet mutable et objet immuable
+   5.10. Exemples pratiques d’objets
+
+6. Les attributs
+   6.1. Définition d’un attribut
+   6.2. Attribut d’instance
+   6.3. Attribut de classe
+   6.4. Attribut public
+   6.5. Attribut privé
+   6.6. Attribut protégé
+   6.7. Valeur par défaut d’un attribut
+   6.8. Initialisation des attributs
+   6.9. Validation des attributs
+   6.10. Attributs calculés
+   6.11. Attributs constants
+   6.12. Bonnes pratiques de nommage des attributs
+
+7. Les méthodes
+   7.1. Définition d’une méthode
+   7.2. Méthode d’instance
+   7.3. Méthode de classe
+   7.4. Méthode statique
+   7.5. Méthode publique
+   7.6. Méthode privée
+   7.7. Méthode protégée
+   7.8. Paramètres d’une méthode
+   7.9. Valeur de retour d’une méthode
+   7.10. Méthodes avec effets de bord
+   7.11. Méthodes pures
+   7.12. Méthodes de lecture
+   7.13. Méthodes de modification
+   7.14. Méthodes utilitaires
+   7.15. Bonnes pratiques de nommage des méthodes
+
+8. Les constructeurs
+   8.1. Rôle du constructeur
+   8.2. Initialisation d’un objet
+   8.3. Constructeur par défaut
+   8.4. Constructeur avec paramètres
+   8.5. Plusieurs constructeurs
+   8.6. Surcharge de constructeurs
+   8.7. Constructeur privé
+   8.8. Constructeur protégé
+   8.9. Validation dans un constructeur
+   8.10. Erreurs fréquentes dans les constructeurs
+   8.11. Constructeurs et invariants d’objet
+   8.12. Constructeurs et dépendances
+
+9. Les destructeurs et la destruction d’objets
+   9.1. Cycle de vie mémoire d’un objet
+   9.2. Libération des ressources
+   9.3. Destructeur explicite
+   9.4. Garbage collector
+   9.5. Finalisation d’objet
+   9.6. Fermeture de fichiers, connexions et ressources externes
+   9.7. Objet jetable ou disposable
+   9.8. Gestion sûre des ressources
+   9.9. Erreurs fréquentes liées à la destruction d’objets
+
+PARTIE III — Encapsulation et Protection des Données
+
+10. Comprendre l’encapsulation
+    10.1. Définition de l’encapsulation
+    10.2. Pourquoi cacher les détails internes
+    10.3. Interface publique d’un objet
+    10.4. Implémentation privée d’un objet
+    10.5. Protection de l’état interne
+    10.6. Réduction du couplage
+    10.7. Encapsulation et maintenance
+    10.8. Encapsulation et sécurité du code
+    10.9. Mauvaise encapsulation
+    10.10. Encapsulation excessive
+
+11. Visibilité et modificateurs d’accès
+    11.1. Public
+    11.2. Private
+    11.3. Protected
+    11.4. Internal
+    11.5. Package-private
+    11.6. Readonly
+    11.7. Final
+    11.8. Const
+    11.9. Différences selon les langages
+    11.10. Choisir le bon niveau de visibilité
+
+12. Getters, setters et propriétés
+    12.1. Rôle des getters
+    12.2. Rôle des setters
+    12.3. Propriétés calculées
+    12.4. Propriétés en lecture seule
+    12.5. Validation dans les setters
+    12.6. Risques des getters et setters automatiques
+    12.7. Remplacer les setters par des méthodes métier
+    12.8. Encapsulation comportementale
+    12.9. Objets riches contre objets anémiques
+    12.10. Bonnes pratiques professionnelles
+
+13. Invariants d’objet
+    13.1. Définition d’un invariant
+    13.2. Maintenir un objet dans un état valide
+    13.3. Validation à la construction
+    13.4. Validation à la modification
+    13.5. États impossibles
+    13.6. États transitoires
+    13.7. Invariants métier
+    13.8. Invariants techniques
+    13.9. Erreurs fréquentes avec les invariants
+    13.10. Exemples d’invariants robustes
+
+PARTIE IV — Abstraction et Modélisation
+
+14. Comprendre l’abstraction
+    14.1. Définition de l’abstraction
+    14.2. Simplifier sans perdre l’essentiel
+    14.3. Séparer le quoi du comment
+    14.4. Abstraction métier
+    14.5. Abstraction technique
+    14.6. Abstraction excessive
+    14.7. Abstraction insuffisante
+    14.8. Trouver le bon niveau d’abstraction
+    14.9. Exemples d’abstractions simples
+    14.10. Exemples d’abstractions professionnelles
+
+15. Classes abstraites
+    15.1. Définition d’une classe abstraite
+    15.2. Rôle d’une classe abstraite
+    15.3. Méthodes abstraites
+    15.4. Méthodes concrètes dans une classe abstraite
+    15.5. Attributs dans une classe abstraite
+    15.6. Constructeurs dans une classe abstraite
+    15.7. Héritage à partir d’une classe abstraite
+    15.8. Quand utiliser une classe abstraite
+    15.9. Quand éviter une classe abstraite
+    15.10. Différence entre classe abstraite et interface
+
+16. Interfaces
+    16.1. Définition d’une interface
+    16.2. Contrat comportemental
+    16.3. Interface comme promesse
+    16.4. Méthodes dans une interface
+    16.5. Propriétés dans une interface
+    16.6. Interfaces multiples
+    16.7. Implémentation d’une interface
+    16.8. Interface et polymorphisme
+    16.9. Interface et découplage
+    16.10. Interface et testabilité
+    16.11. Interfaces trop grosses
+    16.12. Interfaces trop petites
+    16.13. Bonnes pratiques de conception d’interfaces
+
+17. Contrats et responsabilités
+    17.1. Préconditions
+    17.2. Postconditions
+    17.3. Invariants
+    17.4. Responsabilité unique
+    17.5. Contrat public d’une classe
+    17.6. Contrat public d’une méthode
+    17.7. Erreurs de contrat
+    17.8. Contrat implicite et documentation
+    17.9. Contrat explicite par types
+    17.10. Design by Contract
+
+PARTIE V — Héritage
+
+18. Comprendre l’héritage
+    18.1. Définition de l’héritage
+    18.2. Relation “est un”
+    18.3. Classe parent
+    18.4. Classe enfant
+    18.5. Superclasse
+    18.6. Sous-classe
+    18.7. Héritage simple
+    18.8. Héritage multiple
+    18.9. Héritage hiérarchique
+    18.10. Héritage en chaîne
+    18.11. Utilité de l’héritage
+    18.12. Dangers de l’héritage
+
+19. Redéfinition et extension de comportement
+    19.1. Méthode héritée
+    19.2. Override
+    19.3. Appel à la méthode parent
+    19.4. Extension du comportement parent
+    19.5. Remplacement complet du comportement
+    19.6. Méthodes finales
+    19.7. Classes finales
+    19.8. Héritage et visibilité
+    19.9. Héritage et constructeurs
+    19.10. Erreurs fréquentes de redéfinition
+
+20. Héritage correct et incorrect
+    20.1. Relation “est un” réelle
+    20.2. Relation “utilise un”
+    20.3. Relation “possède un”
+    20.4. Héritage abusif
+    20.5. Hiérarchies trop profondes
+    20.6. Fragilité de la classe parent
+    20.7. Couplage par héritage
+    20.8. Problème du diamant
+    20.9. Violation du principe de substitution
+    20.10. Préférer la composition à l’héritage
+
+21. Héritage et conception métier
+    21.1. Identifier une vraie généralisation
+    21.2. Identifier une spécialisation
+    21.3. Factoriser du comportement commun
+    21.4. Éviter les arbres de classes artificiels
+    21.5. Héritage dans les modèles métier
+    21.6. Héritage dans les frameworks
+    21.7. Héritage dans les bibliothèques
+    21.8. Héritage et maintenabilité
+    21.9. Cas d’usage légitimes
+    21.10. Cas d’usage à éviter
+
+PARTIE VI — Polymorphisme
+
+22. Comprendre le polymorphisme
+    22.1. Définition du polymorphisme
+    22.2. Même message, comportements différents
+    22.3. Polymorphisme par héritage
+    22.4. Polymorphisme par interface
+    22.5. Polymorphisme paramétrique
+    22.6. Polymorphisme ad hoc
+    22.7. Polymorphisme statique
+    22.8. Polymorphisme dynamique
+    22.9. Dispatch dynamique
+    22.10. Avantages du polymorphisme
+
+23. Polymorphisme en pratique
+    23.1. Traiter plusieurs objets de manière uniforme
+    23.2. Remplacer les conditions par du polymorphisme
+    23.3. Ajouter de nouveaux comportements sans modifier l’existant
+    23.4. Polymorphisme et extensibilité
+    23.5. Polymorphisme et testabilité
+    23.6. Polymorphisme et architecture
+    23.7. Exemple avec formes géométriques
+    23.8. Exemple avec moyens de paiement
+    23.9. Exemple avec notifications
+    23.10. Exemple avec stratégies métier
+
+24. Surcharge, redéfinition et liaison
+    24.1. Surcharge de méthodes
+    24.2. Surcharge d’opérateurs
+    24.3. Redéfinition de méthodes
+    24.4. Liaison statique
+    24.5. Liaison dynamique
+    24.6. Résolution de méthode
+    24.7. Signature de méthode
+    24.8. Type déclaré et type réel
+    24.9. Casting
+    24.10. Erreurs fréquentes avec le polymorphisme
+
+PARTIE VII — Relations entre Objets
+
+25. Association
+    25.1. Définition de l’association
+    25.2. Association unidirectionnelle
+    25.3. Association bidirectionnelle
+    25.4. Multiplicité
+    25.5. Association un-à-un
+    25.6. Association un-à-plusieurs
+    25.7. Association plusieurs-à-plusieurs
+    25.8. Association faible
+    25.9. Association forte
+    25.10. Exemples métier
+
+26. Agrégation
+    26.1. Définition de l’agrégation
+    26.2. Relation “possède un” faible
+    26.3. Cycle de vie indépendant
+    26.4. Exemple équipe et joueurs
+    26.5. Exemple bibliothèque et livres
+    26.6. Agrégation dans les modèles métier
+    26.7. Différence entre agrégation et association
+    26.8. Différence entre agrégation et composition
+    26.9. Erreurs fréquentes
+    26.10. Bonnes pratiques
+
+27. Composition
+    27.1. Définition de la composition
+    27.2. Relation “possède un” forte
+    27.3. Cycle de vie dépendant
+    27.4. Composition comme alternative à l’héritage
+    27.5. Composition et modularité
+    27.6. Composition et réutilisation
+    27.7. Composition d’objets métier
+    27.8. Composition d’objets techniques
+    27.9. Composition profonde
+    27.10. Limites de la composition
+
+28. Dépendance
+    28.1. Définition d’une dépendance
+    28.2. Objet qui utilise un autre objet
+    28.3. Dépendance forte
+    28.4. Dépendance faible
+    28.5. Dépendance directe
+    28.6. Dépendance indirecte
+    28.7. Dépendance transitive
+    28.8. Réduction des dépendances
+    28.9. Dépendance vers une interface
+    28.10. Injection de dépendances
+
+29. Couplage et cohésion
+    29.1. Définition du couplage
+    29.2. Couplage fort
+    29.3. Couplage faible
+    29.4. Définition de la cohésion
+    29.5. Cohésion faible
+    29.6. Cohésion forte
+    29.7. Effets du couplage sur la maintenance
+    29.8. Effets de la cohésion sur la lisibilité
+    29.9. Mesurer intuitivement le couplage
+    29.10. Améliorer la cohésion d’une classe
+
+PARTIE VIII — Modélisation Orientée Objet
+
+30. Analyse orientée objet
+    30.1. Identifier les concepts métier
+    30.2. Identifier les acteurs
+    30.3. Identifier les responsabilités
+    30.4. Identifier les règles métier
+    30.5. Identifier les données importantes
+    30.6. Identifier les comportements importants
+    30.7. Transformer un besoin en modèle objet
+    30.8. Éviter de modéliser la base de données trop tôt
+    30.9. Éviter de modéliser l’interface utilisateur trop tôt
+    30.10. Construire un langage commun
+
+31. Diagrammes UML essentiels
+    31.1. Rôle d’UML
+    31.2. Diagramme de classes
+    31.3. Diagramme d’objets
+    31.4. Diagramme de séquence
+    31.5. Diagramme de cas d’utilisation
+    31.6. Diagramme d’activité
+    31.7. Diagramme d’états
+    31.8. Diagramme de composants
+    31.9. Diagramme de packages
+    31.10. UML léger contre UML complet
+
+32. Diagramme de classes
+    32.1. Représenter une classe
+    32.2. Représenter les attributs
+    32.3. Représenter les méthodes
+    32.4. Représenter la visibilité
+    32.5. Représenter l’héritage
+    32.6. Représenter les interfaces
+    32.7. Représenter l’association
+    32.8. Représenter l’agrégation
+    32.9. Représenter la composition
+    32.10. Représenter les multiplicités
+    32.11. Représenter les dépendances
+    32.12. Lire un diagramme de classes professionnel
+    32.13. Créer un diagramme utile sans surcharge
+
+33. Diagramme de séquence
+    33.1. Rôle du diagramme de séquence
+    33.2. Ligne de vie
+    33.3. Message synchrone
+    33.4. Message asynchrone
+    33.5. Retour de message
+    33.6. Activation
+    33.7. Condition
+    33.8. Boucle
+    33.9. Interaction entre objets
+    33.10. Modélisation d’un scénario métier
+    33.11. Modélisation d’un appel API
+    33.12. Modélisation d’un flux applicatif
+
+34. Modélisation métier
+    34.1. Entités métier
+    34.2. Objets valeur
+    34.3. Services métier
+    34.4. Agrégats métier
+    34.5. Règles métier
+    34.6. Cas d’utilisation
+    34.7. Processus métier
+    34.8. Événements métier
+    34.9. Exceptions métier
+    34.10. Langage omniprésent
+
+PARTIE IX — Principes de Conception Orientée Objet
+
+35. Principes fondamentaux de conception
+    35.1. Séparation des responsabilités
+    35.2. Faible couplage
+    35.3. Forte cohésion
+    35.4. Encapsulation des variations
+    35.5. Programmation par contrat
+    35.6. Composition plutôt qu’héritage
+    35.7. Dépendre des abstractions
+    35.8. Réduire la duplication
+    35.9. Garder le code simple
+    35.10. Concevoir pour le changement raisonnable
+
+36. Principe SOLID : vue d’ensemble
+    36.1. Origine de SOLID
+    36.2. Objectif de SOLID
+    36.3. SOLID et maintenabilité
+    36.4. SOLID et extensibilité
+    36.5. SOLID et testabilité
+    36.6. Limites de SOLID
+    36.7. Mauvaises interprétations de SOLID
+    36.8. Utilisation pragmatique de SOLID
+
+37. S — Single Responsibility Principle
+    37.1. Définition du principe
+    37.2. Une seule raison de changer
+    37.3. Classe avec trop de responsabilités
+    37.4. Séparer responsabilités métier et techniques
+    37.5. Identifier les responsabilités cachées
+    37.6. Extraire une classe
+    37.7. Extraire un service
+    37.8. SRP dans les applications réelles
+    37.9. Erreurs fréquentes
+    37.10. Exercices de refactorisation
+
+38. O — Open/Closed Principle
+    38.1. Définition du principe
+    38.2. Ouvert à l’extension
+    38.3. Fermé à la modification
+    38.4. Polymorphisme et OCP
+    38.5. Interfaces et OCP
+    38.6. Stratégies et OCP
+    38.7. Plugins et OCP
+    38.8. Éviter les conditions répétitives
+    38.9. Limites pratiques du principe
+    38.10. Exemples professionnels
+
+39. L — Liskov Substitution Principle
+    39.1. Définition du principe
+    39.2. Substitution correcte
+    39.3. Contrat de la classe parent
+    39.4. Préconditions renforcées
+    39.5. Postconditions affaiblies
+    39.6. Exceptions inattendues
+    39.7. Violation par héritage abusif
+    39.8. Exemple classique du carré et du rectangle
+    39.9. LSP et conception d’API
+    39.10. Corriger une violation de LSP
+
+40. I — Interface Segregation Principle
+    40.1. Définition du principe
+    40.2. Interfaces spécifiques
+    40.3. Interfaces trop grosses
+    40.4. Clients forcés d’implémenter l’inutile
+    40.5. Découper une interface
+    40.6. Interfaces par rôle
+    40.7. Interfaces métier
+    40.8. Interfaces techniques
+    40.9. ISP et testabilité
+    40.10. ISP dans les architectures modernes
+
+41. D — Dependency Inversion Principle
+    41.1. Définition du principe
+    41.2. Modules haut niveau
+    41.3. Modules bas niveau
+    41.4. Dépendre des abstractions
+    41.5. Inversion de dépendance
+    41.6. Injection de dépendances
+    41.7. Conteneur d’injection
+    41.8. DIP et architecture hexagonale
+    41.9. DIP et tests unitaires
+    41.10. Erreurs fréquentes
+
+PARTIE X — Design Patterns Orientés Objet
+
+42. Introduction aux design patterns
+    42.1. Définition d’un design pattern
+    42.2. Pourquoi les patterns existent
+    42.3. Pattern contre recette magique
+    42.4. Pattern contre architecture
+    42.5. Pattern contre framework
+    42.6. Quand utiliser un pattern
+    42.7. Quand éviter un pattern
+    42.8. Sur-ingénierie par patterns
+    42.9. Lire la structure d’un pattern
+    42.10. Adapter un pattern au contexte
+
+43. Patterns de création
+    43.1. Factory Method
+    43.2. Abstract Factory
+    43.3. Builder
+    43.4. Prototype
+    43.5. Singleton
+    43.6. Object Pool
+    43.7. Static Factory
+    43.8. Lazy Initialization
+    43.9. Dependency Injection
+    43.10. Comparaison des patterns de création
+
+44. Factory Method
+    44.1. Problème résolu
+    44.2. Structure du pattern
+    44.3. Participants
+    44.4. Exemple simple
+    44.5. Exemple métier
+    44.6. Avantages
+    44.7. Inconvénients
+    44.8. Variantes
+    44.9. Erreurs fréquentes
+    44.10. Cas d’usage professionnel
+
+45. Abstract Factory
+    45.1. Problème résolu
+    45.2. Familles d’objets liés
+    45.3. Structure du pattern
+    45.4. Exemple UI multiplateforme
+    45.5. Exemple infrastructure
+    45.6. Avantages
+    45.7. Inconvénients
+    45.8. Différence avec Factory Method
+    45.9. Différence avec Builder
+    45.10. Cas d’usage professionnel
+
+46. Builder
+    46.1. Problème résolu
+    46.2. Création d’objets complexes
+    46.3. Builder classique
+    46.4. Fluent Builder
+    46.5. Director
+    46.6. Builder immuable
+    46.7. Builder et validation
+    46.8. Avantages
+    46.9. Inconvénients
+    46.10. Cas d’usage professionnel
+
+47. Singleton
+    47.1. Problème résolu
+    47.2. Instance unique
+    47.3. Implémentation simple
+    47.4. Implémentation thread-safe
+    47.5. Lazy Singleton
+    47.6. Singleton et tests
+    47.7. Singleton et état global
+    47.8. Pourquoi le Singleton est controversé
+    47.9. Alternatives au Singleton
+    47.10. Cas d’usage acceptables
+
+48. Patterns structurels
+    48.1. Adapter
+    48.2. Bridge
+    48.3. Composite
+    48.4. Decorator
+    48.5. Facade
+    48.6. Flyweight
+    48.7. Proxy
+    48.8. Module
+    48.9. Wrapper
+    48.10. Comparaison des patterns structurels
+
+49. Adapter
+    49.1. Problème résolu
+    49.2. Adapter une interface incompatible
+    49.3. Adapter objet
+    49.4. Adapter classe
+    49.5. Exemple avec API externe
+    49.6. Exemple avec bibliothèque tierce
+    49.7. Avantages
+    49.8. Inconvénients
+    49.9. Erreurs fréquentes
+    49.10. Cas d’usage professionnel
+
+50. Decorator
+    50.1. Problème résolu
+    50.2. Ajouter un comportement dynamiquement
+    50.3. Composition de décorateurs
+    50.4. Exemple avec notifications
+    50.5. Exemple avec middlewares
+    50.6. Avantages
+    50.7. Inconvénients
+    50.8. Différence avec héritage
+    50.9. Différence avec Proxy
+    50.10. Cas d’usage professionnel
+
+51. Facade
+    51.1. Problème résolu
+    51.2. Simplifier un sous-système complexe
+    51.3. Interface unique
+    51.4. Exemple avec service applicatif
+    51.5. Exemple avec bibliothèque complexe
+    51.6. Avantages
+    51.7. Inconvénients
+    51.8. Facade contre Adapter
+    51.9. Facade contre Service
+    51.10. Cas d’usage professionnel
+
+52. Composite
+    52.1. Problème résolu
+    52.2. Structure arbre
+    52.3. Objet simple et objet composé
+    52.4. Exemple système de fichiers
+    52.5. Exemple menus UI
+    52.6. Exemple organisation hiérarchique
+    52.7. Avantages
+    52.8. Inconvénients
+    52.9. Erreurs fréquentes
+    52.10. Cas d’usage professionnel
+
+53. Patterns comportementaux
+    53.1. Strategy
+    53.2. Observer
+    53.3. Command
+    53.4. State
+    53.5. Template Method
+    53.6. Chain of Responsibility
+    53.7. Iterator
+    53.8. Mediator
+    53.9. Memento
+    53.10. Visitor
+    53.11. Interpreter
+    53.12. Comparaison des patterns comportementaux
+
+54. Strategy
+    54.1. Problème résolu
+    54.2. Encapsuler un algorithme
+    54.3. Remplacer des conditions
+    54.4. Exemple calcul de prix
+    54.5. Exemple paiement
+    54.6. Exemple tri ou filtrage
+    54.7. Avantages
+    54.8. Inconvénients
+    54.9. Strategy et Open/Closed Principle
+    54.10. Cas d’usage professionnel
+
+55. Observer
+    55.1. Problème résolu
+    55.2. Sujet observable
+    55.3. Observateurs
+    55.4. Notification d’événements
+    55.5. Exemple interface graphique
+    55.6. Exemple événements métier
+    55.7. Exemple système temps réel
+    55.8. Avantages
+    55.9. Inconvénients
+    55.10. Observer et programmation événementielle
+
+56. Command
+    56.1. Problème résolu
+    56.2. Encapsuler une action
+    56.3. Exécution différée
+    56.4. Annulation d’action
+    56.5. Historique de commandes
+    56.6. File de commandes
+    56.7. Exemple éditeur de texte
+    56.8. Exemple jobs asynchrones
+    56.9. Avantages
+    56.10. Cas d’usage professionnel
+
+57. State
+    57.1. Problème résolu
+    57.2. Objet dépendant de son état
+    57.3. États explicites
+    57.4. Transitions
+    57.5. Machine à états
+    57.6. Exemple commande e-commerce
+    57.7. Exemple workflow de validation
+    57.8. Avantages
+    57.9. Inconvénients
+    57.10. State contre Strategy
+
+PARTIE XI — Architecture Logicielle Orientée Objet
+
+58. Architecture en couches
+    58.1. Présentation de l’architecture en couches
+    58.2. Couche présentation
+    58.3. Couche application
+    58.4. Couche domaine
+    58.5. Couche infrastructure
+    58.6. Flux de dépendances
+    58.7. Avantages
+    58.8. Limites
+    58.9. Erreurs fréquentes
+    58.10. Exemple d’application complète
+
+59. Architecture MVC
+    59.1. Rôle du modèle
+    59.2. Rôle de la vue
+    59.3. Rôle du contrôleur
+    59.4. Flux MVC
+    59.5. MVC côté serveur
+    59.6. MVC côté client
+    59.7. Variantes de MVC
+    59.8. Avantages
+    59.9. Limites
+    59.10. Bonnes pratiques
+
+60. Architecture hexagonale
+    60.1. Principe général
+    60.2. Domaine au centre
+    60.3. Ports
+    60.4. Adaptateurs
+    60.5. Entrées de l’application
+    60.6. Sorties de l’application
+    60.7. Indépendance du framework
+    60.8. Indépendance de la base de données
+    60.9. Tests facilités
+    60.10. Exemple complet
+
+61. Clean Architecture
+    61.1. Principe général
+    61.2. Entités
+    61.3. Use cases
+    61.4. Interface adapters
+    61.5. Frameworks and drivers
+    61.6. Règle de dépendance
+    61.7. DTO
+    61.8. Mappers
+    61.9. Contrôleurs
+    61.10. Présentateurs
+    61.11. Repositories
+    61.12. Exemple d’organisation de projet
+
+62. Domain-Driven Design
+    62.1. Introduction au DDD
+    62.2. Domaine
+    62.3. Sous-domaine
+    62.4. Domaine cœur
+    62.5. Domaine support
+    62.6. Domaine générique
+    62.7. Langage omniprésent
+    62.8. Bounded Context
+    62.9. Entité
+    62.10. Value Object
+    62.11. Aggregate
+    62.12. Aggregate Root
+    62.13. Repository
+    62.14. Domain Service
+    62.15. Application Service
+    62.16. Domain Event
+    62.17. Factory métier
+    62.18. Specification Pattern
+    62.19. Anti-Corruption Layer
+    62.20. Context Map
+
+PARTIE XII — Qualité du Code Orienté Objet
+
+63. Clean Code orienté objet
+    63.1. Lisibilité
+    63.2. Intention claire
+    63.3. Nommage des classes
+    63.4. Nommage des méthodes
+    63.5. Nommage des attributs
+    63.6. Méthodes courtes
+    63.7. Classes courtes
+    63.8. Éviter les commentaires inutiles
+    63.9. Préférer le code expressif
+    63.10. Organisation logique du code
+
+64. Code smells orientés objet
+    64.1. God Object
+    64.2. Long Method
+    64.3. Large Class
+    64.4. Feature Envy
+    64.5. Data Class
+    64.6. Primitive Obsession
+    64.7. Shotgun Surgery
+    64.8. Divergent Change
+    64.9. Inappropriate Intimacy
+    64.10. Refused Bequest
+    64.11. Switch Statements
+    64.12. Message Chains
+    64.13. Middle Man
+    64.14. Speculative Generality
+    64.15. Dead Code
+
+65. Refactorisation orientée objet
+    65.1. Définition de la refactorisation
+    65.2. Refactoriser sans changer le comportement
+    65.3. Extract Method
+    65.4. Extract Class
+    65.5. Move Method
+    65.6. Move Field
+    65.7. Rename Method
+    65.8. Introduce Parameter Object
+    65.9. Replace Conditional with Polymorphism
+    65.10. Replace Inheritance with Delegation
+    65.11. Replace Primitive with Value Object
+    65.12. Encapsulate Field
+    65.13. Pull Up Method
+    65.14. Push Down Method
+    65.15. Introduce Interface
+    65.16. Refactorisation progressive
+    65.17. Refactorisation avec tests
+
+66. Documentation orientée objet
+    66.1. Documenter une classe
+    66.2. Documenter une méthode
+    66.3. Documenter une interface
+    66.4. Documenter une exception
+    66.5. Documenter un contrat
+    66.6. Documentation API
+    66.7. Documentation UML
+    66.8. Documentation d’architecture
+    66.9. Documentation vivante
+    66.10. Éviter la documentation mensongère
+
+PARTIE XIII — Tests et POO
+
+67. Introduction aux tests en POO
+    67.1. Pourquoi tester les objets
+    67.2. Test unitaire
+    67.3. Test d’intégration
+    67.4. Test fonctionnel
+    67.5. Test de régression
+    67.6. Test automatisé
+    67.7. Test manuel
+    67.8. Testabilité d’une classe
+    67.9. Conception orientée test
+    67.10. POO et maintenance par les tests
+
+68. Tests unitaires d’objets
+    68.1. Tester un constructeur
+    68.2. Tester une méthode simple
+    68.3. Tester une méthode avec dépendance
+    68.4. Tester les exceptions
+    68.5. Tester les invariants
+    68.6. Tester les objets immuables
+    68.7. Tester les objets métier
+    68.8. Tester les services
+    68.9. Tester les repositories
+    68.10. Tester les cas limites
+
+69. Doubles de test
+    69.1. Dummy
+    69.2. Stub
+    69.3. Fake
+    69.4. Mock
+    69.5. Spy
+    69.6. Quand utiliser un mock
+    69.7. Quand éviter un mock
+    69.8. Mock et interface
+    69.9. Mock et couplage
+    69.10. Tests fragiles
+
+70. Test-Driven Development
+    70.1. Principe du TDD
+    70.2. Cycle Red-Green-Refactor
+    70.3. Écrire un test avant le code
+    70.4. Faire passer le test
+    70.5. Refactoriser
+    70.6. TDD et design émergent
+    70.7. TDD et POO
+    70.8. TDD et SOLID
+    70.9. Limites du TDD
+    70.10. Exemple complet
+
+PARTIE XIV — Gestion des Erreurs et Exceptions
+
+71. Exceptions en POO
+    71.1. Définition d’une exception
+    71.2. Erreur attendue
+    71.3. Erreur inattendue
+    71.4. Lever une exception
+    71.5. Capturer une exception
+    71.6. Propager une exception
+    71.7. Exceptions checked
+    71.8. Exceptions unchecked
+    71.9. Exceptions métier
+    71.10. Exceptions techniques
+
+72. Conception des exceptions
+    72.1. Créer une classe d’exception
+    72.2. Hiérarchie d’exceptions
+    72.3. Message d’erreur utile
+    72.4. Code d’erreur
+    72.5. Exception interne
+    72.6. Chaînage d’exceptions
+    72.7. Exceptions et logs
+    72.8. Exceptions et API
+    72.9. Exceptions et sécurité
+    72.10. Bonnes pratiques
+
+73. Alternatives aux exceptions
+    73.1. Valeurs de retour
+    73.2. Objet Result
+    73.3. Either
+    73.4. Optional
+    73.5. Null Object Pattern
+    73.6. Validation explicite
+    73.7. Gestion fonctionnelle des erreurs
+    73.8. Avantages
+    73.9. Limites
+    73.10. Choisir la bonne stratégie
+
+PARTIE XV — Objets, Données et Persistance
+
+74. POO et base de données
+    74.1. Différence entre objet et table
+    74.2. Mismatch objet-relationnel
+    74.3. Entité persistante
+    74.4. Identité métier
+    74.5. Identité technique
+    74.6. Mapping objet-relationnel
+    74.7. Lazy loading
+    74.8. Eager loading
+    74.9. Transactions
+    74.10. Consistance des données
+
+75. Repository Pattern
+    75.1. Rôle du repository
+    75.2. Repository comme abstraction de persistance
+    75.3. Interface repository
+    75.4. Implémentation repository
+    75.5. Repository en mémoire
+    75.6. Repository SQL
+    75.7. Repository avec ORM
+    75.8. Repository et tests
+    75.9. Repository et DDD
+    75.10. Erreurs fréquentes
+
+76. ORM et objets
+    76.1. Définition d’un ORM
+    76.2. Mapping classe-table
+    76.3. Mapping attribut-colonne
+    76.4. Relations entre entités
+    76.5. One-to-One
+    76.6. One-to-Many
+    76.7. Many-to-Many
+    76.8. Chargement paresseux
+    76.9. Problème N+1
+    76.10. Migration de schéma
+    76.11. Unit of Work
+    76.12. Identity Map
+    76.13. Active Record
+    76.14. Data Mapper
+
+77. DTO, entités et modèles
+    77.1. DTO
+    77.2. Entité métier
+    77.3. Modèle de domaine
+    77.4. Modèle de persistance
+    77.5. Modèle de présentation
+    77.6. Mapper entre modèles
+    77.7. Anti-corruption entre couches
+    77.8. Éviter les entités anémiques
+    77.9. Éviter les DTO partout
+    77.10. Bonnes pratiques professionnelles
+
+PARTIE XVI — POO Avancée
+
+78. Généricité
+    78.1. Définition de la généricité
+    78.2. Types génériques
+    78.3. Classes génériques
+    78.4. Méthodes génériques
+    78.5. Interfaces génériques
+    78.6. Contraintes génériques
+    78.7. Variance
+    78.8. Covariance
+    78.9. Contravariance
+    78.10. Invariance
+    78.11. Généricité et collections
+    78.12. Généricité et réutilisation
+
+79. Immutabilité
+    79.1. Définition d’un objet immuable
+    79.2. Avantages de l’immutabilité
+    79.3. Inconvénients de l’immutabilité
+    79.4. Classe immuable
+    79.5. Attributs readonly
+    79.6. Copie défensive
+    79.7. Value Object immuable
+    79.8. Immutabilité et concurrence
+    79.9. Immutabilité et performance
+    79.10. Bonnes pratiques
+
+80. Métaprogrammation orientée objet
+    80.1. Réflexion
+    80.2. Inspection de classe
+    80.3. Inspection d’objet
+    80.4. Annotations
+    80.5. Attributs
+    80.6. Décorateurs
+    80.7. Proxy dynamique
+    80.8. Génération de code
+    80.9. Sérialisation automatique
+    80.10. Risques de la métaprogrammation
+
+81. Types et POO
+    81.1. Typage statique
+    81.2. Typage dynamique
+    81.3. Typage fort
+    81.4. Typage faible
+    81.5. Duck typing
+    81.6. Structural typing
+    81.7. Nominal typing
+    81.8. Type inference
+    81.9. Union types
+    81.10. Intersection types
+    81.11. Null safety
+    81.12. Type system et conception objet
+
+82. Programmation événementielle orientée objet
+    82.1. Événement
+    82.2. Émetteur d’événement
+    82.3. Écouteur d’événement
+    82.4. Callback
+    82.5. Observer
+    82.6. Event Bus
+    82.7. Domain Event
+    82.8. Événements synchrones
+    82.9. Événements asynchrones
+    82.10. Découplage par événements
+
+83. Concurrence et objets
+    83.1. Objets partagés
+    83.2. État mutable partagé
+    83.3. Conditions de course
+    83.4. Verrous
+    83.5. Synchronisation
+    83.6. Thread safety
+    83.7. Objets immuables et concurrence
+    83.8. Acteurs
+    83.9. Files de messages
+    83.10. Conception objet concurrente
+
+PARTIE XVII — POO dans les Langages Modernes
+
+84. POO en Java
+    84.1. Classes et objets
+    84.2. Interfaces
+    84.3. Classes abstraites
+    84.4. Héritage simple
+    84.5. Polymorphisme
+    84.6. Packages
+    84.7. Records
+    84.8. Enums
+    84.9. Exceptions
+    84.10. Génériques
+    84.11. Annotations
+    84.12. Bonnes pratiques Java
+
+85. POO en C#
+    85.1. Classes et objets
+    85.2. Propriétés
+    85.3. Interfaces
+    85.4. Classes abstraites
+    85.5. Héritage
+    85.6. Polymorphisme
+    85.7. Records
+    85.8. Structs
+    85.9. Delegates
+    85.10. Events
+    85.11. LINQ et objets
+    85.12. Bonnes pratiques C#
+
+86. POO en Python
+    86.1. Classes et objets
+    86.2. Self
+    86.3. Constructeur `__init__`
+    86.4. Méthodes d’instance
+    86.5. Méthodes de classe
+    86.6. Méthodes statiques
+    86.7. Propriétés
+    86.8. Héritage multiple
+    86.9. MRO
+    86.10. Dunder methods
+    86.11. Dataclasses
+    86.12. Duck typing
+    86.13. Bonnes pratiques Python
+
+87. POO en JavaScript et TypeScript
+    87.1. Objets en JavaScript
+    87.2. Prototypes
+    87.3. Classes ES6
+    87.4. Constructeurs
+    87.5. Héritage prototype
+    87.6. Encapsulation moderne
+    87.7. Interfaces TypeScript
+    87.8. Classes abstraites TypeScript
+    87.9. Génériques TypeScript
+    87.10. Structural typing
+    87.11. Mixins
+    87.12. Bonnes pratiques TypeScript
+
+88. POO en PHP
+    88.1. Classes et objets
+    88.2. Propriétés
+    88.3. Méthodes
+    88.4. Constructeurs
+    88.5. Interfaces
+    88.6. Traits
+    88.7. Classes abstraites
+    88.8. Namespaces
+    88.9. Exceptions
+    88.10. Typage moderne
+    88.11. Attributs
+    88.12. Bonnes pratiques PHP
+
+89. POO en Dart
+    89.1. Classes et objets
+    89.2. Constructeurs nommés
+    89.3. Factory constructors
+    89.4. Getters et setters
+    89.5. Classes abstraites
+    89.6. Interfaces implicites
+    89.7. Mixins
+    89.8. Extensions
+    89.9. Null safety
+    89.10. Records
+    89.11. Sealed classes
+    89.12. POO dans Flutter
+
+90. Comparaison des approches POO selon les langages
+    90.1. Héritage simple contre multiple
+    90.2. Interfaces explicites contre implicites
+    90.3. Typage statique contre dynamique
+    90.4. Encapsulation stricte contre conventionnelle
+    90.5. Génériques selon les langages
+    90.6. Mixins et traits
+    90.7. Propriétés selon les langages
+    90.8. Constructeurs selon les langages
+    90.9. Exceptions selon les langages
+    90.10. Choisir un langage selon le contexte
+
+PARTIE XVIII — POO et Applications Réelles
+
+91. POO dans une application web
+    91.1. Contrôleurs
+    91.2. Services
+    91.3. Entités
+    91.4. DTO
+    91.5. Repositories
+    91.6. Mappers
+    91.7. Middlewares
+    91.8. Validators
+    91.9. Use cases
+    91.10. Organisation des dossiers
+
+92. POO dans une API REST
+    92.1. Ressources
+    92.2. Contrôleurs REST
+    92.3. Services applicatifs
+    92.4. Validation des requêtes
+    92.5. Transformation des réponses
+    92.6. Gestion des erreurs
+    92.7. Authentification
+    92.8. Autorisation
+    92.9. Versioning
+    92.10. Documentation API
+
+93. POO dans une application desktop
+    93.1. Modèle de données
+    93.2. Gestion de l’interface
+    93.3. Événements UI
+    93.4. Services applicatifs
+    93.5. Binding de données
+    93.6. Patterns MVC, MVP, MVVM
+    93.7. Gestion d’état
+    93.8. Persistance locale
+    93.9. Tests
+    93.10. Maintenabilité
+
+94. POO dans une application mobile
+    94.1. Modèles
+    94.2. Services
+    94.3. ViewModels
+    94.4. Gestion d’état
+    94.5. Navigation
+    94.6. Persistance locale
+    94.7. API distante
+    94.8. Injection de dépendances
+    94.9. Tests
+    94.10. Architecture maintenable
+
+95. POO dans le développement de jeux
+    95.1. Objets de jeu
+    95.2. Entités
+    95.3. Composants
+    95.4. Systèmes
+    95.5. Héritage dans les jeux
+    95.6. Composition dans les jeux
+    95.7. Pattern Entity Component System
+    95.8. Gestion des états
+    95.9. Gestion des événements
+    95.10. Performance et mémoire
+
+96. POO dans les systèmes d’entreprise
+    96.1. Modèles métier complexes
+    96.2. Workflows
+    96.3. Règles métier
+    96.4. Transactions
+    96.5. Services applicatifs
+    96.6. Domain services
+    96.7. Intégrations externes
+    96.8. Messaging
+    96.9. Audit
+    96.10. Sécurité
+    96.11. Scalabilité
+    96.12. Maintenabilité à long terme
+
+PARTIE XIX — Sécurité, Performance et Robustesse
+
+97. Sécurité dans la conception objet
+    97.1. Encapsulation des données sensibles
+    97.2. Validation des entrées
+    97.3. Objets invalides interdits
+    97.4. Éviter l’exposition d’état interne
+    97.5. Gestion sûre des exceptions
+    97.6. Principe du moindre privilège
+    97.7. Objets de permissions
+    97.8. Sécurité des DTO
+    97.9. Sécurité des logs
+    97.10. Sécurité dans les API objets
+
+98. Performance en POO
+    98.1. Coût de l’instanciation
+    98.2. Allocation mémoire
+    98.3. Garbage collection
+    98.4. Dispatch dynamique
+    98.5. Objets temporaires
+    98.6. Copies inutiles
+    98.7. Lazy loading
+    98.8. Caching
+    98.9. Pool d’objets
+    98.10. Profiling
+    98.11. Optimisation sans sur-ingénierie
+    98.12. Performance contre lisibilité
+
+99. Robustesse du modèle objet
+    99.1. États valides
+    99.2. Défense contre les entrées invalides
+    99.3. Gestion des cas limites
+    99.4. Objets immuables
+    99.5. Validation métier
+    99.6. Exceptions maîtrisées
+    99.7. Tests de robustesse
+    99.8. Résilience face aux dépendances externes
+    99.9. Tolérance aux erreurs
+    99.10. Conception pour la maintenance
+
+PARTIE XX — Anti-Patterns et Pièges Professionnels
+
+100. Anti-patterns orientés objet
+     100.1. God Object
+     100.2. Anemic Domain Model
+     100.3. Spaghetti Object Graph
+     100.4. Singleton abusif
+     100.5. Inheritance Hell
+     100.6. Interface Pollution
+     100.7. Overengineering
+     100.8. Primitive Obsession
+     100.9. Base Class Abuse
+     100.10. Service Locator abusif
+     100.11. Massive Controller
+     100.12. Transaction Script déguisé
+
+101. Pièges débutants
+     101.1. Confondre classe et objet
+     101.2. Tout mettre en public
+     101.3. Créer trop de classes
+     101.4. Créer trop peu de classes
+     101.5. Utiliser l’héritage partout
+     101.6. Écrire des classes sans comportement
+     101.7. Confondre méthode et fonction
+     101.8. Confondre attribut et variable locale
+     101.9. Ignorer les constructeurs
+     101.10. Ignorer les responsabilités
+
+102. Pièges intermédiaires
+     102.1. Interfaces inutiles
+     102.2. Abstractions prématurées
+     102.3. Patterns utilisés sans besoin
+     102.4. Couplage caché
+     102.5. Tests trop dépendants de l’implémentation
+     102.6. Modèle métier anémique
+     102.7. Services trop gros
+     102.8. DTO utilisés partout
+     102.9. Mauvaise séparation des couches
+     102.10. Mauvaise gestion des exceptions
+
+103. Pièges professionnels
+     103.1. Sur-modélisation
+     103.2. Sous-modélisation
+     103.3. Hiérarchies rigides
+     103.4. Framework-driven design
+     103.5. Database-driven design
+     103.6. API publique mal pensée
+     103.7. Domaine pollué par l’infrastructure
+     103.8. Dépendances circulaires
+     103.9. Architecture trop théorique
+     103.10. Refactorisation repoussée trop longtemps
+
+PARTIE XXI — Méthode d’Apprentissage Progressive
+
+104. Apprendre la POO étape par étape
+     104.1. Comprendre les objets du monde réel
+     104.2. Écrire des classes simples
+     104.3. Manipuler plusieurs objets
+     104.4. Encapsuler progressivement
+     104.5. Ajouter des relations entre objets
+     104.6. Introduire l’héritage avec prudence
+     104.7. Introduire les interfaces
+     104.8. Utiliser le polymorphisme
+     104.9. Refactoriser du code procédural vers objet
+     104.10. Concevoir de petits systèmes objets
+
+105. Exercices débutants
+     105.1. Classe Personne
+     105.2. Classe CompteBancaire
+     105.3. Classe Livre
+     105.4. Classe Voiture
+     105.5. Classe Produit
+     105.6. Classe Panier
+     105.7. Classe Rectangle
+     105.8. Classe Étudiant
+     105.9. Classe Employé
+     105.10. Classe Animal
+
+106. Exercices intermédiaires
+     106.1. Système de bibliothèque
+     106.2. Gestion de comptes bancaires
+     106.3. Application de facturation
+     106.4. Système de réservation
+     106.5. Gestion d’école
+     106.6. Panier e-commerce
+     106.7. Gestion de stock
+     106.8. Système de notifications
+     106.9. Système de paiement
+     106.10. Mini CRM
+
+107. Exercices avancés
+     107.1. Moteur de règles métier
+     107.2. Workflow de validation
+     107.3. Gestionnaire de plugins
+     107.4. Système de permissions
+     107.5. Architecture hexagonale complète
+     107.6. Modèle DDD e-commerce
+     107.7. Système d’événements métier
+     107.8. Moteur de commandes annulables
+     107.9. API REST orientée objet
+     107.10. Application testée avec TDD
+
+108. Projets portfolio
+     108.1. Gestion de bibliothèque complète
+     108.2. API de gestion de tâches
+     108.3. Application de réservation d’hôtel
+     108.4. Système de facturation professionnel
+     108.5. Mini ERP
+     108.6. Plateforme e-commerce simplifiée
+     108.7. Application bancaire simulée
+     108.8. Système de gestion scolaire
+     108.9. Application de gestion de tickets support
+     108.10. Moteur de workflow configurable
+
+PARTIE XXII — Niveau Professionnel
+
+109. Concevoir une API orientée objet
+     109.1. Interface publique stable
+     109.2. Contrats clairs
+     109.3. Évolution sans rupture
+     109.4. Compatibilité ascendante
+     109.5. Gestion des versions
+     109.6. Documentation développeur
+     109.7. Types expressifs
+     109.8. Erreurs explicites
+     109.9. Extensibilité contrôlée
+     109.10. Tests de contrat
+
+110. Maintenir un grand codebase orienté objet
+     110.1. Lire une architecture existante
+     110.2. Identifier les modules critiques
+     110.3. Comprendre les dépendances
+     110.4. Repérer les zones dangereuses
+     110.5. Réduire la dette technique
+     110.6. Refactoriser sans casser
+     110.7. Ajouter une fonctionnalité proprement
+     110.8. Introduire des tests dans du legacy code
+     110.9. Améliorer progressivement le design
+     110.10. Documenter les décisions
+
+111. Travailler en équipe sur du code orienté objet
+     111.1. Conventions de code
+     111.2. Revue de code
+     111.3. Standards d’architecture
+     111.4. Nommage partagé
+     111.5. Modèle mental commun
+     111.6. Documentation minimale utile
+     111.7. Tests obligatoires
+     111.8. Refactorisation collective
+     111.9. Gestion des conflits de conception
+     111.10. Décisions d’architecture
+
+112. Revue de code orientée objet
+     112.1. Vérifier les responsabilités
+     112.2. Vérifier l’encapsulation
+     112.3. Vérifier les dépendances
+     112.4. Vérifier les abstractions
+     112.5. Vérifier la testabilité
+     112.6. Vérifier le nommage
+     112.7. Vérifier les exceptions
+     112.8. Vérifier les performances évidentes
+     112.9. Vérifier les patterns utilisés
+     112.10. Vérifier la simplicité
+
+113. Architecture évolutive
+     113.1. Concevoir pour le changement réel
+     113.2. Éviter les abstractions spéculatives
+     113.3. Isoler les règles métier
+     113.4. Isoler les dépendances externes
+     113.5. Modulariser le domaine
+     113.6. Contrôler les dépendances entre modules
+     113.7. Préparer les tests d’évolution
+     113.8. Préparer la migration technique
+     113.9. Préparer la montée en charge
+     113.10. Préparer la maintenance longue durée
+
+114. Maîtrise professionnelle de la POO
+     114.1. Savoir choisir entre objet, fonctionnel et procédural
+     114.2. Savoir concevoir un modèle métier robuste
+     114.3. Savoir refuser une abstraction inutile
+     114.4. Savoir simplifier une architecture complexe
+     114.5. Savoir refactoriser progressivement
+     114.6. Savoir expliquer une décision de design
+     114.7. Savoir évaluer un pattern
+     114.8. Savoir écrire du code testable
+     114.9. Savoir maintenir du legacy code
+     114.10. Savoir équilibrer théorie et pragmatisme
 ===========================================================================POO
 
-PARTIE I — Fondations de la programmation orientée objet
 
-1. Qu’est-ce que la POO ?
-   1.1. Pourquoi la POO a été inventée
-   1.2. Différences entre procédural, fonctionnel, objet, orienté données
-   ---1.3. Quand la POO est un bon choix (et quand ce n’est pas le cas)	
-   1.4. Vocabulaire essentiel (objet, classe, instance, état, comportement)	
-   1.5. Modèles mentaux : “objets du monde réel” vs “modèles de domaine” 
-   1.6. POO et complexité : couplage, cohésion, abstraction
-   1.7. Lecture de code orienté objet : repérer classes, responsabilités, dépendances
-
-----2. Les 4 piliers (avec une vision moderne)
-   2.1. Encapsulation : protéger les invariants
-   2.2. Abstraction : exposer le nécessaire, masquer l’accidentel
-   2.3. Héritage : réutilisation vs hiérarchie de types
-   2.4. Polymorphisme : substituabilité, interfaces, dispatch
-   2.5. Les 4 piliers vs pratiques actuelles (composition, immutabilité, FP)
-
-3. Concepts de base indispensables
-   3.1. Classes et instances
-   3.2. Attributs (champs) et méthodes
-   3.3. Constructeurs : par défaut, paramétrés, surchargés
-   3.4. Méthodes statiques vs méthodes d’instance
-   3.5. Champs statiques vs champs d’instance
-   3.6. Visibilité : public / protected / private (selon langage)
-   3.7. Propriétés, getters/setters, règles et invariants
-   3.8. Surcharge de méthodes vs redéfinition (override)
-   3.9. Surcharge d’opérateurs (quand pertinent)
-   3.10. Identité vs égalité : référence, valeur, hash
-
-4. Types, références et mémoire (comprendre ce que fait le runtime)
-   4.1. Valeurs vs références (selon langage)
-   4.2. Passage par valeur, passage par référence, passage par “partage”
-   4.3. Allocation : pile vs tas (conceptuellement)
-   4.4. Cycle de vie des objets
-   4.5. Garbage collector : principes, générations, pièges classiques
-   4.6. Mutabilité, aliasing et effets de bord
-
-5. Les erreurs classiques du débutant
-   5.1. “Tout mettre en classe” sans responsabilités claires
-   5.2. Mélanger données et UI/IO/DB dans les mêmes objets
-   5.3. Abuser de getters/setters (anémie du modèle)
-   5.4. Héritage utilisé comme “copier-coller”
-   5.5. Classes “fourre-tout” (God Object)
-   5.6. Couplage excessif, dépendances cachées
-   5.7. Tester trop tard : dette de conception
-
----
-
-PARTIE II — Encapsulation, invariants et conception d’API
-6. Encapsulation avancée : concevoir des objets robustes
-6.1. Invariants : définition, exemples, stratégies
-6.2. Validation à la construction vs validation à l’usage
-6.3. Objets immuables : intérêts, limites, patterns
-6.4. Copie défensive et exposition de collections
-6.5. Command-Query Separation (CQS) : principe et exceptions
-6.6. Law of Demeter : réduire le couplage “train wreck”
-6.7. Conception orientée erreurs : exceptions, Result/Either, erreurs métiers
-
-7. Contrats et sémantique
-   7.1. Préconditions, postconditions, invariants (Design by Contract)
-   7.2. Assertions : usage raisonnable
-   7.3. Exceptions vs codes de retour : choix de design
-   7.4. Null / Optional : éviter les NPE, stratégies
-   7.5. Documenter une API : comportements, limites, thread-safety
-
-8. Composition, agrégation, association
-   8.1. “Has-a” vs “Is-a” : critères pratiques
-   8.2. Agrégation vs composition (cycle de vie)
-   8.3. Associations unidirectionnelles/bidirectionnelles
-   8.4. Navigation d’objets : éviter la dépendance en chaîne
-   8.5. Graphes d’objets : cohérence, invariants globaux
-
-9. Interfaces et polymorphisme utiles
-   9.1. Interfaces : contrat de comportement
-   9.2. Classes abstraites : quand et pourquoi
-   9.3. Substitution (LSP) : le vrai polymorphisme
-   9.4. Polymorphisme paramétrique (génériques) vs ad-hoc
-   9.5. “Tell, don’t ask” : faire agir l’objet plutôt que lire son état
-
----
-
-PARTIE III — Modélisation : du problème métier au code
-10. Analyse orientée objet (OOA)
-10.1. Comprendre le domaine : langage ubiquitaire
-10.2. Cas d’usage, user stories, scénarios
-10.3. Identifier entités, règles, exceptions métiers
-10.4. Événements métiers : déclencheurs et conséquences
-10.5. Frontières du système : ce qui est dedans/dehors
-
-11. Conception orientée objet (OOD)
-    11.1. Découper en responsabilités (SRP)
-    11.2. CRC Cards : Class–Responsibility–Collaborator
-    11.3. Objets vs services : critères de choix
-    11.4. Identifier les collaborations (messages, méthodes)
-    11.5. Stratégies de nommage : langage métier, précision
-    11.6. Prévenir les cycles de dépendances
-
-12. UML utile (sans tomber dans l’excès)
-    12.1. Diagramme de classes : relations essentielles
-    12.2. Diagramme de séquence : scénarios clés
-    12.3. Diagramme d’états : workflow, transitions, invariants
-    12.4. Diagramme de composants : modules, dépendances
-    12.5. Limites d’UML et alternatives (C4 Model, docs vivantes)
-
-13. De la modélisation à l’implémentation
-    13.1. Traduire entités/valeurs/services en code
-    13.2. Éviter les modèles anémiques : comportement dans le domaine
-    13.3. Encapsuler les règles métiers (policies/specifications)
-    13.4. Gérer les IDs et références : identité stable
-    13.5. Sérialisation : DTOs vs objets métier
-    13.6. Migration des modèles : versionnement, compatibilité
-
----
-
-PARTIE IV — Principes SOLID et principes associés
-14. SOLID : comprendre, reconnaître, appliquer
-14.1. S — Single Responsibility Principle
-14.1.1. Définir une responsabilité
-14.1.2. Signaux d’alerte : classes qui changent souvent
-14.1.3. Refactoring typiques (extract class, split responsibilities)
-
-14.2. O — Open/Closed Principle
-14.2.1. Extension sans modification : stratégie générale
-14.2.2. Polymorphisme, configuration, composition
-14.2.3. Pièges : explosion de classes, sur-ingénierie
-
-14.3. L — Liskov Substitution Principle
-14.3.1. Contrats compatibles et invariants
-14.3.2. Exemples de violations (exceptions, préconditions renforcées)
-14.3.3. Héritage vs interface : comment corriger
-
-14.4. I — Interface Segregation Principle
-14.4.1. Interfaces fines orientées usage
-14.4.2. Adapter vs God interface
-14.4.3. Découper par clients (UI, domaine, infra)
-
-14.5. D — Dependency Inversion Principle
-14.5.1. Dépendre d’abstractions, pas de détails
-14.5.2. Injection de dépendances : concepts
-14.5.3. Composition root : où assembler
-14.5.4. Effets sur testabilité et modularité
-
-15. Principes complémentaires
-    15.1. DRY, WET, AHA : équilibre
-    15.2. KISS : simplicité intentionnelle
-    15.3. YAGNI : ne pas sur-prévoir
-    15.4. Composition over Inheritance
-    15.5. High cohesion / low coupling
-    15.6. Separation of Concerns
-    15.7. Encapsulate What Varies
-
----
-
-PARTIE V — Patterns de conception (GoF et modernes)
-16. Comprendre les design patterns
-16.1. Pattern vs anti-pattern
-16.2. Quand un pattern est un vrai besoin
-16.3. Lire un code “patternisé” : reconnaître les structures
-16.4. Coûts : complexité, rigidité, apprentissage
-
-17. Patterns créationnels
-    17.1. Factory Method
-    17.1.1. Cas d’usage : instanciation conditionnelle
-    17.1.2. Tests et extension
-
-17.2. Abstract Factory
-17.2.1. Familles d’objets compatibles
-17.2.2. Couplage et configuration
-
-17.3. Builder
-17.3.1. Objets complexes, options, immutabilité
-17.3.2. Fluent API
-
-17.4. Prototype
-17.4.1. Clonage contrôlé, copies profondes/superficielles
-
-17.5. Singleton
-17.5.1. Pourquoi c’est controversé
-17.5.2. Alternatives : injection, modules, factories
-
-18. Patterns structurels
-    18.1. Adapter
-    18.2. Facade
-    18.3. Decorator
-    18.4. Proxy
-    18.5. Composite
-    18.6. Bridge
-    18.7. Flyweight
-    18.8. Module / Package patterns (organisation du code)
-
-19. Patterns comportementaux
-    19.1. Strategy
-    19.2. Observer (events, pub/sub)
-    19.3. Command
-    19.4. State
-    19.5. Template Method (et alternatives par composition)
-    19.6. Chain of Responsibility
-    19.7. Mediator
-    19.8. Visitor (quand pertinent)
-    19.9. Iterator (concept + implémentations idiomatiques)
-    19.10. Memento (restauration d’état, undo/redo)
-
-20. Patterns d’architecture orientés objets
-    20.1. Layered Architecture
-    20.2. Hexagonal (Ports & Adapters)
-    20.3. Clean Architecture
-    20.4. Onion Architecture
-    20.5. DDD (vue d’ensemble)
-    20.6. CQRS (lecture/écriture séparées)
-    20.7. Event-Driven Architecture (EDA)
-
----
-
-PARTIE VI — Refactoring orienté objet et dette technique
-21. Refactoring : principes et discipline
-21.1. Identifier code smells
-21.2. Refactoring vs réécriture
-21.3. Petits pas, tests, sécurité
-21.4. Mesurer l’impact : lisibilité, complexité, bugs
-
-22. Code smells fréquents en POO
-    22.1. God Class / God Method
-    22.2. Feature Envy
-    22.3. Long Parameter List
-    22.4. Shotgun Surgery
-    22.5. Duplications et variants subtils
-    22.6. Primitive Obsession
-    22.7. Switch/if chains (polymorphisme manquant)
-    22.8. Data Clumps
-    22.9. Inappropriate Intimacy
-    22.10. Refused Bequest (héritage mal choisi)
-
-23. Techniques de refactoring OO
-    23.1. Extract Class / Extract Method
-    23.2. Move Method / Move Field
-    23.3. Replace Conditional with Polymorphism
-    23.4. Introduce Parameter Object
-    23.5. Encapsulate Field / Encapsulate Collection
-    23.6. Replace Inheritance with Delegation
-    23.7. Inline Class / Collapse Hierarchy
-    23.8. Split Phase / Introduce Pipeline
-    23.9. Replace Primitive with Value Object
-    23.10. Introduce Null Object (avec prudence)
-
-24. Modernisation de code legacy OO
-    24.1. Strangler Fig Pattern
-    24.2. Anti-corruption layer (ACL)
-    24.3. Migration par modules
-    24.4. Carving out services / bounded contexts
-    24.5. Gestion des dépendances : isoler l’infra
-    24.6. Mesurer et réduire le risque de régression
-
----
-
-PARTIE VII — Tests et POO : construire du code fiable
-25. Fondations des tests
-25.1. Tests unitaires, intégration, end-to-end
-25.2. Pyramide de tests et stratégie réaliste
-25.3. Déterminisme : éviter tests flaky
-25.4. Tests rapides : feedback loop
-
-26. Testabilité et conception OO
-    26.1. Injecter les dépendances (DIP en pratique)
-    26.2. Éviter le temps, le hasard et l’IO dans le domaine
-    26.3. Découper les effets de bord
-    26.4. Concevoir des objets faciles à instancier
-    26.5. Réduire le besoin de mocks : préférer fakes, in-memory
-    26.6. “Humble Object” : isoler UI/IO
-
-27. Doubles de test
-    27.1. Mock, stub, spy, fake : distinctions
-    27.2. Quand mocker (et quand éviter)
-    27.3. Tests orientés comportement vs état
-    27.4. Contrats d’interface : consumer-driven tests (aperçu)
-
-28. TDD et POO
-    28.1. Red–Green–Refactor
-    28.2. TDD outside-in vs inside-out
-    28.3. Baby steps et conception émergente
-    28.4. Transformations de test (refactoring guidé)
-    28.5. Limites : quand TDD n’est pas le meilleur outil
-
----
-
-PARTIE VIII — POO avancée : généricité, métaprogrammation, contraintes
-29. Génériques (paramétrage de types)
-29.1. Pourquoi les génériques existent
-29.2. Contraintes et bornes (extends/super, where, etc.)
-29.3. Variance : covariance, contravariance, invariance
-29.4. Type erasure vs reification (selon langage)
-29.5. Collections typées : sécurité et expressivité
-
-30. Polymorphisme avancé
-    30.1. Double dispatch : problèmes et solutions
-    30.2. Visitor vs pattern matching (comparaison)
-    30.3. Traits/mixins : composition de comportements
-    30.4. Multiple inheritance : risques et alternatives
-    30.5. Dynamic dispatch vs static dispatch
-
-31. Métaprogrammation et réflexion (selon langage)
-    31.1. Reflection : cas d’usage et dangers
-    31.2. Annotations/attributes : validation, mapping, DI
-    31.3. Génération de code : builders, mappers
-    31.4. Proxies dynamiques / interception
-    31.5. Sécurité et performance
-
-32. Performance et POO
-    32.1. Coût des allocations et objets temporaires
-    32.2. Profiling : mesurer avant d’optimiser
-    32.3. Patterns qui créent trop d’abstraction
-    32.4. Optimisations du runtime (JIT/AOT selon plateformes)
-    32.5. Mémoire : fuites logiques, caches, références
-    32.6. Objet vs structure : arbitrages (data-oriented)
-
----
-
-PARTIE IX — Architecture professionnelle : du code à un système
-33. Architecture en couches : bien faire, bien découper
-33.1. Présentation / application / domaine / infrastructure
-33.2. Flux de dépendances : vers le domaine
-33.3. DTOs, mappers, frontières
-33.4. Service applicatif vs service domaine
-33.5. Transactions et unités de travail
-
-34. Domain-Driven Design (DDD) approfondi
-    34.1. Bounded Context : découpage et alignement équipes
-    34.2. Entités vs Value Objects : critères
-    34.3. Agrégats : invariants, règles, frontières
-    34.4. Aggregate Root : accès et cohérence
-    34.5. Domain Services : quand l’objet ne suffit pas
-    34.6. Repositories : intention, anti-patterns
-    34.7. Domain Events : modéliser le changement
-    34.8. Factories (DDD) : création cohérente
-    34.9. Anti-corruption Layer : intégrer l’existant
-    34.10. Context Mapping : partenariats, conformistes, etc.
-
-35. Clean Architecture / Hexagonal en pratique
-    35.1. Ports : interfaces côté domaine/application
-    35.2. Adapters : DB, HTTP, messaging, filesystem
-    35.3. Use cases : orchestration, règles, validation
-    35.4. Composition root : assembler les dépendances
-    35.5. Boundary objects : request/response models
-    35.6. Gestion des erreurs et retours d’usage
-
-36. Concurrence, parallélisme et thread-safety
-    36.1. Partage de données : risques
-    36.2. Immutabilité et confinement
-    36.3. Verrous, deadlocks, livelocks (concepts)
-    36.4. Modèles d’acteurs (Actor Model) : aperçu
-    36.5. Futures/promises : orchestration asynchrone
-    36.6. Éviter la contention : designs adaptés
-
-37. POO et systèmes distribués
-    37.1. Objets locaux vs objets distants : “fallacies of distributed computing”
-    37.2. API boundaries : REST/GraphQL/gRPC (aperçu)
-    37.3. Sérialisation et compatibilité de versions
-    37.4. Idempotence, retries, timeouts
-    37.5. Cohérence : éventuelle vs forte (aperçu)
-    37.6. Observabilité : logs, métriques, traces (vue d’ensemble)
-
----
-
-PARTIE X — Qualité, standards et pratiques d’équipe
-38. Style, lisibilité et conventions
-38.1. Nommage orienté métier (ubiquitous language)
-38.2. Taille des classes et méthodes : lignes directrices
-38.3. Commentaires utiles vs évidents
-38.4. Documentation d’API : docstrings, README, ADRs
-38.5. Structure de projet : packages/modules
-
-39. Revue de code orientée conception
-    39.1. Check-list POO : responsabilités, dépendances, cohésion
-    39.2. Identifier les smells en review
-    39.3. Feedback actionnable et bienveillant
-    39.4. Exiger des tests pertinents
-    39.5. Reconnaître la sur-ingénierie
-
-40. Principes de sécurité appliqués au design OO
-    40.1. Validation des entrées et invariants
-    40.2. Surface d’attaque : exposition minimale
-    40.3. Séparation des privilèges
-    40.4. Gestion des secrets : éviter dans les objets
-    40.5. Sérialisation dangereuse : risques et mitigations
-
-41. Observabilité et diagnostic (professionnel)
-    41.1. Journalisation : quoi loguer et où
-    41.2. Corrélation : IDs de requêtes, context propagation
-    41.3. Tracing distribué : bases
-    41.4. Métriques : SLI/SLO (aperçu)
-    41.5. Debugging en production : stratégies sûres
-
----
-
-PARTIE XI — Anti-patterns, pièges et “mauvaises bonnes idées”
-42. Anti-patterns OO courants
-42.1. Modèle anémique (Domain Model anemic)
-42.2. “Service Layer” omniprésente sans domaine
-42.3. “Repository” utilisé comme DB wrapper sans intention
-42.4. Utilisation abusive de Singletons
-42.5. Injections partout, abstractions inutiles
-42.6. “Manager/Helper/Util” : symptômes et alternatives
-42.7. Hiérarchies profondes : rigidité
-42.8. Framework-driven design : domaine dominé par l’infra
-
-43. Sur-ingénierie : apprendre à dire non
-    43.1. Reconnaître les abstractions prématurées
-    43.2. Signaux : trop de couches, trop d’indirections
-    43.3. Stratégie de simplification
-    43.4. Approche “juste assez” : évolutivité pragmatique
-
-44. POO vs alternatives modernes
-    44.1. FP dans un monde OO : fonctions pures, immutabilité
-    44.2. Data-Oriented Design : quand c’est meilleur
-    44.3. ECS (Entity Component System) : aperçu
-    44.4. Event sourcing : avantages et coûts
-    44.5. Choisir un style : contexte, équipe, maintenance
-
----
-
-PARTIE XII — Parcours “du débutant au pro” : projets, exercices et validation
-45. Exercices progressifs (niveau débutant)
-45.1. Modéliser un panier d’achat simple
-45.2. Bibliothèque : livres, adhérents, emprunts
-45.3. Banque : comptes, opérations, règles
-45.4. Gestion de tâches : statuts, priorités, filtres
-45.5. Mini-jeu tour par tour : actions polymorphes
-
-46. Exercices intermédiaires (niveau confirmé)
-    46.1. Système de paiement : stratégies de paiement
-    46.2. Moteur de règles : policies/specifications
-    46.3. Gestion d’inventaire : agrégats, événements
-    46.4. Notifications : observer/pub-sub
-    46.5. Workflow : state machine
-    46.6. Adaptateurs : intégrer une API externe
-
-47. Projets avancés (niveau professionnel)
-    47.1. Application complète Clean Architecture
-    47.1.1. Use cases, ports/adapters, tests
-    47.1.2. Persistance, mapping, migrations
-    47.1.3. API + documentation
-
-47.2. Domaine riche (DDD)
-47.2.1. Bounded contexts multiples
-47.2.2. Domain events + intégrations
-47.2.3. Stratégies d’évolution du modèle
-
-47.3. Système orienté événements
-47.3.1. Pub/Sub, idempotence, retries
-47.3.2. Observabilité et tests d’intégration
-47.3.3. Résilience (timeouts, circuit breakers — aperçu)
-
-48. Critères de maîtrise (auto-évaluation)
-    48.1. Concevoir sans héritage abusif
-    48.2. Écrire des objets avec invariants clairs
-    48.3. Découper domaine / application / infrastructure
-    48.4. Appliquer SOLID de manière pragmatique
-    48.5. Tester efficacement sans mocker tout
-    48.6. Refactorer un legacy sans tout casser
-    48.7. Justifier un pattern (ou son absence)
-    48.8. Produire un design lisible en équipe
-
-49. Préparation “niveau pro” (entretiens et situations réelles)
-    49.1. Expliquer un design : trade-offs, contraintes
-    49.2. Critiquer un code : smells et refactors
-    49.3. Concevoir un module : interfaces et tests
-    49.4. Gérer la dette technique : priorisation
-    49.5. Communication : ADR, docs, décisions d’architecture
-    49.6. Études de cas : e-commerce, fintech, logistique, SaaS
-
----
-
-PARTIE XIII — Annexes (références pratiques)
-50. Glossaire complet de la POO
-50.1. Termes de base
-50.2. Termes avancés (variance, dispatch, agrégats, etc.)
-
-51. Check-lists professionnelles
-    51.1. Check-list conception de classes
-    51.2. Check-list design d’API
-    51.3. Conduite d’une review OO
-    51.4. Check-list testabilité
-    51.5. Check-list refactoring sécurisé
-
-52. Anti-check-lists (signaux d’alerte)
-    52.1. Trop d’abstractions
-    52.2. Trop de dépendances
-    52.3. Trop de responsabilités par classe
-    52.4. Trop de mocks
-    52.5. Trop d’héritage
-
-53. Bibliographie et ressources (agnostique langage)
-    53.1. Livres “classiques”
-    53.2. Livres “modernes”
-    53.3. Articles et essais influents
-    53.4. Catalogues de patterns et refactoring
-    53.5. Pratiques de test et architecture
-    53.6. Katas et exercices recommandés
-
-===========================================================================POO
-
-===========================================================================Python
-
-PARTIE I — Démarrer avec Python et ses bases
-
-Pourquoi Python ?
-1.1. Domaines d’usage (web, data, IA, automation, DevOps, embarqué)
-1.2. Forces et limites de Python (performance, typage, écosystème)
-1.3. Versions de Python (2 vs 3, cycles de versions, compatibilités)
-1.4. Installer Python : approches et bonnes pratiques
-1.4.1. Windows : Python.org, Microsoft Store, PATH, py launcher
-1.4.2. macOS : Homebrew, frameworks, certificats
-1.4.3. Linux : apt/yum/pacman, versions système vs utilisateur
-1.5. Comprendre l’écosystème : pip, PyPI, virtualenv, venv, conda
-1.6. Choisir un éditeur/IDE : VS Code, PyCharm, Jupyter, Vim/Emacs
-1.7. Premiers pas : exécuter un script, REPL, notebooks
-1.8. Lire la documentation : docstrings, help(), docs officielles
-
-Premiers programmes
-2.1. La fonction print() et la sortie standard
-2.2. Variables et affectation
-2.3. Commentaires et conventions d’écriture
-2.4. Lecture d’entrée utilisateur (input) et conversions
-2.5. Comprendre les erreurs : syntaxe vs runtime, tracebacks
-2.6. Bonnes habitudes dès le début (noms, simplicité, tests rapides)
-
-Types de base et opérations
-3.1. Nombres : int, float, complex
-3.1.1. Opérations, priorité, division entière, modulo
-3.1.2. Erreurs d’arrondi et float vs Decimal
-3.2. Booléens et logique (and/or/not)
-3.3. Chaînes de caractères (str)
-3.3.1. Indexation, slicing, immutabilité
-3.3.2. Méthodes courantes (lower, split, join, replace)
-3.3.3. Formatage : f-strings, format(), %
-3.3.4. Encodage Unicode, UTF-8, normalisation
-3.4. None et la notion d’absence
-3.5. Conversions de types (casting) et validation
-
-Contrôle de flux
-4.1. Conditions : if/elif/else
-4.2. Comparaisons et opérateurs (==, is, in)
-4.2.1. == vs is (identité vs égalité)
-4.3. Boucles : for, while
-4.4. Break, continue, pass
-4.5. Compréhensions (list/dict/set comprehensions)
-4.6. range, enumerate, zip
-4.7. Pattern : boucles + conditions (filtrage, recherche, agrégation)
-
-Fonctions : écrire du code réutilisable
-5.1. Définition et appels de fonctions
-5.2. Paramètres : positionnels, nommés, valeurs par défaut
-5.3. *args et **kwargs
-5.4. Portée des variables : local, global, nonlocal
-5.5. Fonctions comme objets (passer une fonction, retourner une fonction)
-5.6. Fonctions anonymes (lambda) : usages et limites
-5.7. Documentation : docstrings, annotations
-5.8. Bon design : pureté, effets de bord, clarté, petites fonctions
-
-Structures de données essentielles
-6.1. Listes
-6.1.1. Ajout/suppression, tri, copies, slices
-6.1.2. Pièges : copies superficielles, listes imbriquées
-6.2. Tuples
-6.2.1. Déballage, immutabilité, retours multiples
-6.3. Dictionnaires
-6.3.1. Parcours, méthodes (get, items, keys, values)
-6.3.2. Dictionnaires imbriqués, patterns de mise à jour
-6.4. Ensembles (set)
-6.4.1. Opérations ensemblistes (union, intersection, différence)
-6.5. Choisir la bonne structure (complexité, lisibilité, usage)
-
-Entrées/Sorties et fichiers
-7.1. Chemins et fichiers (pathlib)
-7.2. Ouvrir/fermer un fichier : with (context manager)
-7.3. Lire/écrire : texte vs binaire
-7.4. CSV, JSON : formats courants
-7.5. Erreurs courantes et encodages
-7.6. Bonnes pratiques de sauvegarde et atomicité
-
-Gestion des exceptions
-8.1. try/except/else/finally
-8.2. Exceptions courantes (ValueError, KeyError, IOError…)
-8.3. Lever une exception (raise)
-8.4. Créer ses propres exceptions
-8.5. Stratégies : fail-fast, fallback, logs, messages utiles
-
-Modules et packages
-9.1. Importer : import, from…import, alias
-9.2. Organisation du code en fichiers et dossiers
-9.3. __init__.py et packages
-9.4. Chemin d’import, PYTHONPATH, environnement
-9.5. Modules standards importants (math, os, sys, datetime, json, csv)
-9.6. Script vs module : if __name__ == "__main__":
-
-PARTIE II — Approfondir Python (niveau intermédiaire solide)
-
-Programmation orientée objet (POO)
-1.1. Classes et objets
-1.2. Attributs, méthodes, self
-1.3. Constructeur __init__
-1.4. Encapsulation : conventions, propriétés (@property)
-1.5. Héritage, composition, polymorphisme
-1.6. Méthodes de classe et statiques (@classmethod, @staticmethod)
-1.7. Dunder methods (méthodes spéciales)
-1.7.1. Représentation : __str__, __repr__
-1.7.2. Comparaisons : __eq__, __lt__, etc.
-1.7.3. Itération : __iter__, __next__
-1.7.4. Contexte : __enter__, __exit__
-1.8. Dataclasses et modèles de données
-1.9. Patterns POO en Python (factories, strategy, adapter)
-
-Itérateurs, générateurs et lazy evaluation
-2.1. Protocole d’itération
-2.2. Générateurs avec yield
-2.3. Expressions génératrices
-2.4. Cas d’usage : streaming de fichiers, pipelines, mémoire
-2.5. itertools (chain, islice, groupby…)
-2.6. functools (lru_cache, partial, reduce)
-
-Programmation fonctionnelle en Python
-3.1. map/filter/reduce et alternatives idiomatiques
-3.2. Fonctions de haut niveau et composition
-3.3. Immutabilité et structures persistantes (concepts)
-3.4. Closures et décorateurs (intro)
-
-Décorateurs (approfondi)
-4.1. Pourquoi décorer ? (logs, auth, cache, mesures)
-4.2. Écrire un décorateur simple
-4.3. Décorateurs avec paramètres
-4.4. Préserver la signature (functools.wraps)
-4.5. Décorateurs de classes
-4.6. Décorateurs standards utiles (property, lru_cache)
-
-Typage moderne avec typing
-5.1. Annotations de types : objectifs et limites
-5.2. Types de base : list[str], dict[str, int], tuple[...]
-5.3. Optional, Union, Literal
-5.4. Protocols (duck typing typé)
-5.5. Generics et TypeVar
-5.6. TypedDict, dataclasses typées
-5.7. Mypy/Pyright : configuration et intégration CI
-5.8. Stratégies d’adoption progressive (codebase existante)
-
-Gestion des environnements et dépendances
-6.1. venv/virtualenv : bonnes pratiques
-6.2. pip : versions, contraintes, hash, requirements.txt
-6.3. Outils modernes : Poetry, uv, pip-tools (concepts)
-6.4. Dépendances de dev vs prod
-6.5. Reproductibilité : lockfiles, pinning, mirrors
-6.6. Secrets et variables d’environnement
-
-Manipulation de données (niveau intermédiaire)
-7.1. JSON avancé : validation, schémas
-7.2. CSV : dialectes, nettoyage, cas réels
-7.3. XML : quand et comment
-7.4. Sérialisation : pickle (risques), alternatives
-7.5. Dates et temps : timezone, UTC, zoneinfo
-
-Tests et qualité de code (fondations)
-8.1. Pourquoi tester ? (régression, confiance, refactor)
-8.2. unittest vs pytest (approches)
-8.3. Assertions, fixtures, paramétrage
-8.4. Mocks et patching (unittest.mock)
-8.5. Couverture de tests (coverage)
-8.6. Linters et formatters : ruff/flake8, black, isort
-8.7. Pré-commit hooks
-
-Debugging et introspection
-9.1. Lire un traceback efficacement
-9.2. pdb / debugpy / breakpoints
-9.3. Logging : niveaux, handlers, formats
-9.4. Profiling : cProfile, timeit (intro)
-9.5. Mémoire : tracemalloc (intro)
-
-Performance : bases pratiques
-10.1. Complexité algorithmique (big-O)
-10.2. Choix de structures (list vs dict vs set)
-10.3. Optimisations idiomatiques
-10.4. Quand passer au C, à PyPy, à Numba (vue d’ensemble)
-
-PARTIE III — Python professionnel (standards, architecture, production)
-
-Écrire du code “production-ready”
-1.1. Style guide PEP 8 et conventions de projet
-1.2. Structure de projet (src layout, packages)
-1.3. Configuration centralisée (pyproject.toml)
-1.4. Documentation : README, docs, exemples
-1.5. Gestion des erreurs et messages utilisateurs
-1.6. Conception orientée maintenance (SOLID adapté à Python)
-
-Packaging et distribution
-2.1. Concepts : wheel, sdist, build backends
-2.2. pyproject.toml (build-system, dependencies)
-2.3. Versioning (SemVer), tags git, changelog
-2.4. Publication sur PyPI (testpypi, tokens)
-2.5. Packages internes d’entreprise
-2.6. Scripts CLI : entry points, console_scripts
-2.7. Applications monolithiques vs librairies
-
-Architecture logicielle en Python
-3.1. Séparation des responsabilités (couches)
-3.2. Clean Architecture / Hexagonal (adaptée)
-3.3. Patterns : repository, unit of work, service layer
-3.4. Design des APIs internes (contrats, types, exceptions)
-3.5. Modularité : découpage et dépendances
-3.6. Stratégies de refactor et dette technique
-
-Concurrence et parallélisme
-4.1. Comprendre le GIL
-4.2. Threads : quand c’est utile (I/O bound)
-4.3. Multiprocessing : CPU bound
-4.4. AsyncIO : modèle, event loop, coroutines
-4.5. async/await en pratique
-4.6. Tâches concurrentes : gather, queues, timeouts
-4.7. Synchronisation : locks, semaphores
-4.8. Patterns : producer/consumer, backpressure
-4.9. Bonnes pratiques (annulation, exceptions, instrumentation)
-
-Réseau et HTTP (pro)
-5.1. HTTP : bases, headers, status codes
-5.2. Clients : requests, httpx (sync/async)
-5.3. Sessions, retries, timeouts, idempotence
-5.4. Auth : API keys, OAuth2 (concepts)
-5.5. Webhooks : signatures, validation, sécurité
-5.6. WebSockets (concepts et usage)
-
-Bases de données et persistance
-6.1. SQL : fondamentaux pour développeurs Python
-6.2. SQLite vs PostgreSQL/MySQL (choix)
-6.3. Accès bas niveau : DB-API, transactions
-6.4. ORM : SQLAlchemy (concepts), modèles, relations
-6.5. Migrations (Alembic)
-6.6. NoSQL : Redis, MongoDB (cas d’usage)
-6.7. Performance BD : index, N+1, pool de connexions
-6.8. Gestion de transactions et cohérence
-
-Sécurité applicative en Python
-7.1. Menaces courantes : injection, XSS, SSRF, RCE
-7.2. Gestion des secrets : vaults, env vars, rotation
-7.3. Dépendances : vulnérabilités, audits, SBOM (concepts)
-7.4. Validation d’entrées, sérialisation sûre
-7.5. Cryptographie : hash, HMAC, bonnes pratiques (vue d’ensemble)
-7.6. Permissions, authz, RBAC/ABAC (concepts)
-7.7. Sécuriser la supply chain Python
-
-Observabilité et exploitation
-8.1. Logging structuré
-8.2. Metrics (Prometheus concepts)
-8.3. Traces distribuées (OpenTelemetry concepts)
-8.4. Health checks, readiness/liveness
-8.5. Alerting : principes et seuils
-8.6. Postmortems et amélioration continue
-
-CI/CD et automatisation
-9.1. Pipelines : lint + tests + build + scan
-9.2. GitHub Actions/GitLab CI (concepts)
-9.3. Tests en CI : parallélisation, caching
-9.4. Release automation : versioning, changelog, artefacts
-9.5. Déploiement : Docker, environnements, rollback
-
-Conteneurs et déploiement (pro)
-10.1. Dockerfile pour Python (images slim, cache pip)
-10.2. Variables d’environnement et config en runtime
-10.3. Uvicorn/Gunicorn : concepts (web)
-10.4. Kubernetes (concepts) : pods, services, configmaps, secrets
-10.5. Serverless (concepts) : cold start, packaging
-
-Revue de code et collaboration
-11.1. Critères de qualité (lisibilité, tests, robustesse)
-11.2. Standards d’équipe : conventions, templates PR
-11.3. Stratégies git : trunk-based, gitflow (comparaison)
-11.4. Mentoring et montée en compétence
-
-Gestion des configurations
-12.1. Config par environnement (dev/staging/prod)
-12.2. Feature flags (concepts)
-12.3. Validation de config au démarrage
-12.4. Paramétrage via fichiers (YAML/TOML)
-
-PARTIE IV — Spécialisation : Web backend avec Python
-
-Fondamentaux web pour Python
-1.1. HTTP en pratique (REST, ressources, stateless)
-1.2. Sérialisation JSON, pagination, filtres
-1.3. Validation des données (pydantic/concepts)
-1.4. Gestion d’erreurs et réponses standardisées
-
-Frameworks web
-2.1. Flask : micro-framework, patterns, extensions
-2.2. Django : MVT, admin, ORM, auth
-2.3. FastAPI : async, types, OpenAPI
-2.4. Choisir le bon framework (critères, taille du projet)
-
-API design avancé
-3.1. Versioning d’API
-3.2. Rate limiting, quotas
-3.3. Documentation (OpenAPI/Swagger)
-3.4. Authentification et autorisation (JWT, sessions, OAuth2)
-3.5. Idempotence, retries, cohérence
-
-Performance et scalabilité web
-4.1. Caching (HTTP cache, Redis)
-4.2. Background jobs (Celery/RQ concepts)
-4.3. Asynchrone côté serveur
-4.4. Observabilité d’API (logs, traces, metrics)
-
-Sécurité web
-5.1. CSRF, XSS, CORS
-5.2. Upload de fichiers et antivirus (concepts)
-5.3. Gestion des sessions et cookies
-5.4. OWASP Top 10 (application à Python)
-
-Tests web
-6.1. Tests unitaires vs intégration vs end-to-end
-6.2. Clients de test, fixtures, DB de test
-6.3. Tests de charge (concepts)
-
-Déploiement web
-7.1. Reverse proxy (Nginx concepts)
-7.2. TLS/HTTPS (certificats, renouvellement)
-7.3. Blue/Green, canary (concepts)
-
-PARTIE V — Spécialisation : Data Science, analyse et visualisation
-
-Environnement data
-1.1. Notebooks : bonnes pratiques (reproductibilité, versioning)
-1.2. Gestion des datasets et formats (Parquet, CSV)
-1.3. Environnements : conda/venv, kernels
-
-NumPy : calcul vectoriel
-2.1. Tableaux, shapes, broadcasting
-2.2. Indexation avancée, masques
-2.3. Performances et mémoire
-
-Pandas : manipulation de données
-3.1. Series/DataFrame, index
-3.2. Nettoyage : valeurs manquantes, doublons
-3.3. Transformations : groupby, pivot, merge
-3.4. Dates, catégories, textes
-3.5. Optimisation : types, chunking
-
-Visualisation
-4.1. Matplotlib : fondamentaux
-4.2. Seaborn/Plotly : concepts et choix
-4.3. Storytelling de données
-4.4. Visualisation interactive (Dash/Streamlit concepts)
-
-Statistiques pour data
-5.1. Descriptif, distributions, corrélations
-5.2. Tests d’hypothèses (concepts)
-5.3. Intervalles de confiance (concepts)
-5.4. Échantillonnage, biais, erreurs
-
-Data pipelines
-6.1. ETL/ELT (concepts)
-6.2. Orchestration (Airflow concepts)
-6.3. Qualité des données : validation, expectations (concepts)
-
-PARTIE VI — Spécialisation : Machine Learning et IA
-
-Fondations ML
-1.1. Problèmes : régression, classification, clustering
-1.2. Données : features, normalisation, train/test
-1.3. Overfitting, régularisation, cross-validation
-1.4. Métriques : accuracy, precision/recall, ROC-AUC
-
-Scikit-learn
-2.1. Pipelines, transformers
-2.2. Encodage catégoriel
-2.3. Sélection de modèles
-2.4. Feature engineering
-2.5. Interprétabilité (concepts)
-
-Deep Learning (concepts et pratique)
-3.1. Réseaux de neurones : bases
-3.2. Frameworks : PyTorch / TensorFlow (vue d’ensemble)
-3.3. GPU, batching, data loaders
-3.4. Entraînement, checkpoints, reproductibilité
-3.5. Déploiement de modèles (concepts)
-
-MLOps (professionnel)
-4.1. Suivi d’expériences (MLflow concepts)
-4.2. Versioning des données et modèles
-4.3. Tests de modèles (concepts)
-4.4. Détection de drift (concepts)
-4.5. Serving (batch vs temps réel)
-4.6. Monitoring en production (concepts)
-
-PARTIE VII — Spécialisation : Automatisation, scripting et DevOps
-
-Scripting système et automation
-1.1. Gestion de fichiers, répertoires, permissions
-1.2. Subprocess : exécuter des commandes, pipes
-1.3. Parsing de logs et fichiers volumineux
-1.4. Tâches planifiées (cron concepts)
-
-APIs et intégrations
-2.1. Consommer des APIs REST
-2.2. Auth, pagination, quotas
-2.3. Sérialisation, mapping vers modèles
-
-Web scraping (responsable)
-3.1. HTML parsing (BeautifulSoup concepts)
-3.2. Robots.txt, limites légales et éthiques
-3.3. Anti-bot : stratégies respectueuses (rate limit)
-
-Infrastructure as Code et outils
-4.1. Ansible (concepts)
-4.2. Terraform (concepts)
-4.3. Gestion d’inventaire et secrets
-
-Observabilité DevOps
-5.1. Logs centralisés (concepts)
-5.2. Alerting, dashboards (concepts)
-
-Python pour la cybersécurité (défensif)
-6.1. Automatisation d’audits (concepts)
-6.2. Analyse de logs sécurité
-6.3. Détection d’anomalies (concepts)
-
-PARTIE VIII — Maîtrise avancée du langage (expert Python)
-
-Modèle mémoire et objets
-1.1. Références, mutabilité, internals
-1.2. Garbage collector
-1.3. Copies : shallow vs deep
-
-Dunder methods avancées
-2.1. Descriptors, __get__, __set__
-2.2. Metaclasses (concepts)
-2.3. Slots (__slots__)
-
-Context managers avancés
-3.1. contextlib : contextmanager, ExitStack
-3.2. Gestion robuste de ressources
-
-Introspection et runtime
-4.1. inspect module
-4.2. Monkey patching : risques et usages
-4.3. Import system, hooks (concepts)
-
-Conception d’APIs Pythonic
-5.1. “There should be one obvious way” en pratique
-5.2. Ergonomie : exceptions, noms, retours
-5.3. Compatibilité et dépréciations
-
-Performance avancée
-6.1. Profiling CPU approfondi
-6.2. Profiling mémoire approfondi
-6.3. Vectorisation, C-extensions (concepts)
-6.4. Numba/Cython (concepts)
-6.5. Multiprocessing avancé
-
-Sécurité avancée
-7.1. Sandbox : limites et mythes
-7.2. Désérialisation sûre
-7.3. Signatures et intégrité
-
-Contribution à l’écosystème
-8.1. Lire/écrire une PEP (concepts)
-8.2. Contribuer à un projet open-source (issues, PR)
-8.3. Maintenir un package (release, compatibilité)
-
-PARTIE IX — Projets guidés (du débutant au pro)
-
-Projets débutants
-1.1. Calculatrice, convertisseur, mini-jeux texte
-1.2. Gestionnaire de tâches en console
-1.3. Analyseur de fichiers CSV simple
-1.4. Petit bot (API simple)
-
-Projets intermédiaires
-2.1. Scraper responsable + export CSV/JSON
-2.2. API REST CRUD avec tests
-2.3. CLI professionnelle (argparse/typer concepts)
-2.4. Pipeline de données (ETL)
-
-Projets avancés
-3.1. Microservice FastAPI avec auth + observabilité
-3.2. Système de jobs asynchrones + broker
-3.3. Application Django complète (admin, permissions, déploiement)
-3.4. Projet data : dashboard + reporting automatisé
-3.5. ML : entraînement + serving + monitoring (concepts)
-
-Projets “niveau entreprise”
-4.1. Architecture modulaire + CI/CD complet
-4.2. Monitoring, alerting, SLO (concepts)
-4.3. Gestion de secrets et conformité
-4.4. Documentation utilisateur + runbook d’exploitation
-
-PARTIE X — Préparer sa carrière Python (niveau professionnel)
-
-Méthodologie d’apprentissage et pratique
-1.1. Construire un plan de progression
-1.2. Apprendre par projets et révision
-1.3. Lire du code existant (open-source)
-
-Portfolio et employabilité
-2.1. Choisir ses projets de portfolio
-2.2. Écrire des READMEs clairs
-2.3. Démo : screenshots, vidéo, déploiement
-2.4. Qualité : tests, typing, CI
-
-Entretiens techniques Python
-3.1. Questions fréquentes (types, mutabilité, exceptions, OOP)
-3.2. Exercices d’algorithmie en Python
-3.3. System design pour backends Python
-3.4. Revue de code en entretien
-
-Hygiène professionnelle
-4.1. Veille : PEP, versions, nouveautés
-4.2. Bonnes pratiques de sécurité
-4.3. Travailler en équipe : communication et standards
-
-Références incontournables
-5.1. Documentation officielle
-5.2. Livres recommandés (par niveaux)
-5.3. Ressources d’exercices et katas (concepts)
-5.4. Projets open-source conseillés à étudier
-
-===========================================================================Python
+-prog
+6. Les attributs
