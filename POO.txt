@@ -1481,4 +1481,4 @@ PARTIE XXII — Niveau Professionnel
 
 
 -prog
-6. Les attributs
+2. Les notions mentales de base
